@@ -1,0 +1,6769 @@
+{
+  "nodes": [
+    {
+        "id": "SkincareAddiction",
+        "weight": "3773",
+        "type": "Subreddit",
+        "group": "17"
+    },
+    {
+        "id": "AsianBeauty",
+        "weight": "936",
+        "type": "Subreddit",
+        "group": "9"
+    },
+    {
+        "id": "eczema",
+        "weight": "705",
+        "type": "Subreddit",
+        "group": "3"
+    },
+    {
+        "id": "use Aveeno",
+        "weight": "601",
+        "type": "Term",
+        "group": "1"
+    },
+    {
+        "id": "beyondthebump",
+        "weight": "331",
+        "type": "Subreddit",
+        "group": "2"
+    },
+    {
+        "id": "MakeupAddiction",
+        "weight": "309",
+        "type": "Subreddit",
+        "group": "15"
+    },
+    {
+        "id": "face wash",
+        "weight": "257",
+        "type": "Term",
+        "group": "12"
+    },
+    {
+        "id": "body wash",
+        "weight": "230",
+        "type": "Term",
+        "group": "0"
+    },
+    {
+        "id": "coconut oil",
+        "weight": "221",
+        "type": "Term",
+        "group": "5"
+    },
+    {
+        "id": "MakeupRehab",
+        "weight": "220",
+        "type": "Subreddit",
+        "group": "6"
+    },
+    {
+        "id": "moisturizing lotion",
+        "weight": "218",
+        "type": "Term",
+        "group": "19"
+    },
+    {
+        "id": "Aveeno lotion",
+        "weight": "206",
+        "type": "Term",
+        "group": "12"
+    },
+    {
+        "id": "makeupexchange",
+        "weight": "206",
+        "type": "Subreddit",
+        "group": "15"
+    },
+    {
+        "id": "salicylic acid",
+        "weight": "180",
+        "type": "Term",
+        "group": "17"
+    },
+    {
+        "id": "BabyBumps",
+        "weight": "165",
+        "type": "Subreddit",
+        "group": "10"
+    },
+    {
+        "id": "Aveeno baby",
+        "weight": "148",
+        "type": "Term",
+        "group": "5"
+    },
+    {
+        "id": "AskReddit",
+        "weight": "131",
+        "type": "Subreddit",
+        "group": "0"
+    },
+    {
+        "id": "AskWomen",
+        "weight": "129",
+        "type": "Subreddit",
+        "group": "1"
+    },
+    {
+        "id": "body lotion",
+        "weight": "124",
+        "type": "Term",
+        "group": "13"
+    },
+    {
+        "id": "Aveeno Eczema Therapy",
+        "weight": "123",
+        "type": "Term",
+        "group": "1"
+    },
+    {
+        "id": "hand cream",
+        "weight": "122",
+        "type": "Term",
+        "group": "6"
+    },
+    {
+        "id": "muacjdiscussion",
+        "weight": "122",
+        "type": "Subreddit",
+        "group": "1"
+    },
+    {
+        "id": "Aveeno Clear Complexion",
+        "weight": "121",
+        "type": "Term",
+        "group": "17"
+    },
+    {
+        "id": "benzoyl peroxide",
+        "weight": "121",
+        "type": "Term",
+        "group": "17"
+    },
+    {
+        "id": "foaming cleanser",
+        "weight": "120",
+        "type": "Term",
+        "group": "15"
+    },
+    {
+        "id": "fragrance free",
+        "weight": "120",
+        "type": "Term",
+        "group": "18"
+    },
+    {
+        "id": "eye cream",
+        "weight": "118",
+        "type": "Term",
+        "group": "6"
+    },
+    {
+        "id": "acne",
+        "weight": "117",
+        "type": "Subreddit",
+        "group": "17"
+    },
+    {
+        "id": "BB cream",
+        "weight": "113",
+        "type": "Term",
+        "group": "15"
+    },
+    {
+        "id": "Good luck",
+        "weight": "113",
+        "type": "Term",
+        "group": "3"
+    },
+    {
+        "id": "Skincare_Addiction",
+        "weight": "111",
+        "type": "Subreddit",
+        "group": "0"
+    },
+    {
+        "id": "Vitamin C",
+        "weight": "108",
+        "type": "Term",
+        "group": "9"
+    },
+    {
+        "id": "micellar water",
+        "weight": "104",
+        "type": "Term",
+        "group": "15"
+    },
+    {
+        "id": "steroid cream",
+        "weight": "100",
+        "type": "Term",
+        "group": "3"
+    },
+    {
+        "id": "Hada Labo",
+        "weight": "98",
+        "type": "Term",
+        "group": "9"
+    },
+    {
+        "id": "spot treatment",
+        "weight": "93",
+        "type": "Term",
+        "group": "17"
+    },
+    {
+        "id": "Parenting",
+        "weight": "88",
+        "type": "Subreddit",
+        "group": "2"
+    },
+    {
+        "id": "AussieMakeupExchange",
+        "weight": "87",
+        "type": "Subreddit",
+        "group": "15"
+    },
+    {
+        "id": "Aveeno Baby Eczema",
+        "weight": "86",
+        "type": "Term",
+        "group": "2"
+    },
+    {
+        "id": "oatmeal baths",
+        "weight": "86",
+        "type": "Term",
+        "group": "7"
+    },
+    {
+        "id": "shea butter",
+        "weight": "84",
+        "type": "Term",
+        "group": "5"
+    },
+    {
+        "id": "Witch Hazel",
+        "weight": "84",
+        "type": "Term",
+        "group": "17"
+    },
+    {
+        "id": "Vitamin C serum",
+        "weight": "84",
+        "type": "Term",
+        "group": "15"
+    },
+    {
+        "id": "Body Shop",
+        "weight": "80",
+        "type": "Term",
+        "group": "16"
+    },
+    {
+        "id": "Aveeno Ultra Calming",
+        "weight": "78",
+        "type": "Term",
+        "group": "15"
+    },
+    {
+        "id": "oil cleanser",
+        "weight": "77",
+        "type": "Term",
+        "group": "9"
+    },
+    {
+        "id": "Aveeno Eczema",
+        "weight": "76",
+        "type": "Term",
+        "group": "11"
+    },
+    {
+        "id": "Moisturizing Cream",
+        "weight": "75",
+        "type": "Term",
+        "group": "0"
+    },
+    {
+        "id": "birth control",
+        "weight": "74",
+        "type": "Term",
+        "group": "17"
+    },
+    {
+        "id": "Aveeno Skin Relief",
+        "weight": "74",
+        "type": "Term",
+        "group": "5"
+    },
+    {
+        "id": "tea tree oil",
+        "weight": "72",
+        "type": "Term",
+        "group": "17"
+    },
+    {
+        "id": "day time",
+        "weight": "69",
+        "type": "Term",
+        "group": "14"
+    },
+    {
+        "id": "CeraVe Hydrating Cleanser",
+        "weight": "69",
+        "type": "Term",
+        "group": "5"
+    },
+    {
+        "id": "La Roche Posay",
+        "weight": "68",
+        "type": "Term",
+        "group": "7"
+    },
+    {
+        "id": "Aveeno face",
+        "weight": "66",
+        "type": "Term",
+        "group": "4"
+    },
+    {
+        "id": "face mask",
+        "weight": "66",
+        "type": "Term",
+        "group": "12"
+    },
+    {
+        "id": "tea tree",
+        "weight": "63",
+        "type": "Term",
+        "group": "6"
+    },
+    {
+        "id": "Vitamin E",
+        "weight": "60",
+        "type": "Term",
+        "group": "15"
+    },
+    {
+        "id": "Aveeno Ultra",
+        "weight": "59",
+        "type": "Term",
+        "group": "8"
+    },
+    {
+        "id": "Calming Foaming Cleanser",
+        "weight": "56",
+        "type": "Term",
+        "group": "9"
+    },
+    {
+        "id": "CC cream",
+        "weight": "55",
+        "type": "Term",
+        "group": "15"
+    },
+    {
+        "id": "CeraVe in the tub",
+        "weight": "53",
+        "type": "Term",
+        "group": "0"
+    },
+    {
+        "id": "curlyhair",
+        "weight": "53",
+        "type": "Subreddit",
+        "group": "1"
+    },
+    {
+        "id": "Mario Badescu",
+        "weight": "53",
+        "type": "Term",
+        "group": "15"
+    },
+    {
+        "id": "Makeup",
+        "weight": "52",
+        "type": "Subreddit",
+        "group": "15"
+    },
+    {
+        "id": "First Aid Beauty",
+        "weight": "52",
+        "type": "Term",
+        "group": "9"
+    },
+    {
+        "id": "laundry detergent",
+        "weight": "50",
+        "type": "Term",
+        "group": "13"
+    },
+    {
+        "id": "sunscreen SPF",
+        "weight": "49",
+        "type": "Term",
+        "group": "15"
+    },
+    {
+        "id": "zinc oxide",
+        "weight": "49",
+        "type": "Term",
+        "group": "4"
+    },
+    {
+        "id": "seed oil",
+        "weight": "48",
+        "type": "Term",
+        "group": "7"
+    },
+    {
+        "id": "flare ups",
+        "weight": "47",
+        "type": "Term",
+        "group": "3"
+    },
+    {
+        "id": "PanPorn",
+        "weight": "47",
+        "type": "Subreddit",
+        "group": "15"
+    },
+    {
+        "id": "AskDocs",
+        "weight": "47",
+        "type": "Subreddit",
+        "group": "13"
+    },
+    {
+        "id": "face lotion",
+        "weight": "46",
+        "type": "Term",
+        "group": "4"
+    },
+    {
+        "id": "Aveeno Active Naturals",
+        "weight": "45",
+        "type": "Term",
+        "group": "1"
+    },
+    {
+        "id": "Wetshaving",
+        "weight": "45",
+        "type": "Subreddit",
+        "group": "19"
+    },
+    {
+        "id": "Aveeno Pure Renewal",
+        "weight": "44",
+        "type": "Term",
+        "group": "1"
+    },
+    {
+        "id": "tretinoin",
+        "weight": "44",
+        "type": "Subreddit",
+        "group": "9"
+    },
+    {
+        "id": "been using Aveeno",
+        "weight": "43",
+        "type": "Term",
+        "group": "12"
+    },
+    {
+        "id": "cold water",
+        "weight": "43",
+        "type": "Term",
+        "group": "17"
+    },
+    {
+        "id": "Therapy Moisturizing Cream",
+        "weight": "43",
+        "type": "Term",
+        "group": "13"
+    },
+    {
+        "id": "Eczema Therapy Moisturizing",
+        "weight": "43",
+        "type": "Term",
+        "group": "13"
+    },
+    {
+        "id": "eye makeup",
+        "weight": "42",
+        "type": "Term",
+        "group": "15"
+    },
+    {
+        "id": "setting spray",
+        "weight": "42",
+        "type": "Term",
+        "group": "15"
+    },
+    {
+        "id": "Aveeno body wash",
+        "weight": "42",
+        "type": "Term",
+        "group": "0"
+    },
+    {
+        "id": "HaircareScience",
+        "weight": "42",
+        "type": "Subreddit",
+        "group": "1"
+    },
+    {
+        "id": "use coconut oil",
+        "weight": "42",
+        "type": "Term",
+        "group": "10"
+    },
+    {
+        "id": "TheGirlSurvivalGuide",
+        "weight": "40",
+        "type": "Subreddit",
+        "group": "17"
+    },
+    {
+        "id": "Aveeno baby lotion",
+        "weight": "39",
+        "type": "Term",
+        "group": "10"
+    },
+    {
+        "id": "dry shampoo",
+        "weight": "39",
+        "type": "Term",
+        "group": "6"
+    },
+    {
+        "id": "Allergies",
+        "weight": "39",
+        "type": "Subreddit",
+        "group": "12"
+    },
+    {
+        "id": "Clear Complexion Foaming",
+        "weight": "39",
+        "type": "Term",
+        "group": "13"
+    },
+    {
+        "id": "love Aveeno",
+        "weight": "39",
+        "type": "Term",
+        "group": "8"
+    },
+    {
+        "id": "Aveeno body lotion",
+        "weight": "39",
+        "type": "Term",
+        "group": "15"
+    },
+    {
+        "id": "Vit C",
+        "weight": "38",
+        "type": "Term",
+        "group": "9"
+    },
+    {
+        "id": "use Aveeno baby",
+        "weight": "38",
+        "type": "Term",
+        "group": "2"
+    },
+    {
+        "id": "Aveeno eczema lotion",
+        "weight": "38",
+        "type": "Term",
+        "group": "13"
+    },
+    {
+        "id": "SebDerm",
+        "weight": "36",
+        "type": "Subreddit",
+        "group": "0"
+    },
+    {
+        "id": "Healing Ointment",
+        "weight": "36",
+        "type": "Term",
+        "group": "5"
+    },
+    {
+        "id": "good moisturizer",
+        "weight": "35",
+        "type": "Term",
+        "group": "14"
+    },
+    {
+        "id": "breakingmom",
+        "weight": "35",
+        "type": "Subreddit",
+        "group": "8"
+    },
+    {
+        "id": "complexion foaming cleanser",
+        "weight": "35",
+        "type": "Term",
+        "group": "13"
+    },
+    {
+        "id": "CeraVe foaming cleanser",
+        "weight": "35",
+        "type": "Term",
+        "group": "11"
+    },
+    {
+        "id": "AskMen",
+        "weight": "34",
+        "type": "Subreddit",
+        "group": "1"
+    },
+    {
+        "id": "CeraVe AM",
+        "weight": "34",
+        "type": "Term",
+        "group": "18"
+    },
+    {
+        "id": "powder foundation",
+        "weight": "34",
+        "type": "Term",
+        "group": "15"
+    },
+    {
+        "id": "acne prone skin",
+        "weight": "34",
+        "type": "Term",
+        "group": "3"
+    },
+    {
+        "id": "face cream",
+        "weight": "34",
+        "type": "Term",
+        "group": "4"
+    },
+    {
+        "id": "femalefashionadvice",
+        "weight": "34",
+        "type": "Subreddit",
+        "group": "4"
+    },
+    {
+        "id": "Elta MD",
+        "weight": "34",
+        "type": "Term",
+        "group": "12"
+    },
+    {
+        "id": "face moisturizer",
+        "weight": "34",
+        "type": "Term",
+        "group": "18"
+    },
+    {
+        "id": "Marc Jacobs",
+        "weight": "34",
+        "type": "Term",
+        "group": "15"
+    },
+    {
+        "id": "apple cider vinegar",
+        "weight": "33",
+        "type": "Term",
+        "group": "15"
+    },
+    {
+        "id": "St Ives",
+        "weight": "33",
+        "type": "Term",
+        "group": "14"
+    },
+    {
+        "id": "acne treatment",
+        "weight": "32",
+        "type": "Term",
+        "group": "4"
+    },
+    {
+        "id": "Aveeno eczema cream",
+        "weight": "32",
+        "type": "Term",
+        "group": "13"
+    },
+    {
+        "id": "TwoXChromosomes",
+        "weight": "32",
+        "type": "Subreddit",
+        "group": "0"
+    },
+    {
+        "id": "Estee Lauder",
+        "weight": "32",
+        "type": "Term",
+        "group": "14"
+    },
+    {
+        "id": "Hedgehog",
+        "weight": "32",
+        "type": "Subreddit",
+        "group": "7"
+    },
+    {
+        "id": "tinted moisturizer",
+        "weight": "31",
+        "type": "Term",
+        "group": "15"
+    },
+    {
+        "id": "CeraVe Moisturizing Lotion",
+        "weight": "31",
+        "type": "Term",
+        "group": "18"
+    },
+    {
+        "id": "face cleanser",
+        "weight": "31",
+        "type": "Term",
+        "group": "9"
+    },
+    {
+        "id": "baby wash",
+        "weight": "30",
+        "type": "Term",
+        "group": "7"
+    },
+    {
+        "id": "clear complexion moisturizer",
+        "weight": "30",
+        "type": "Term",
+        "group": "7"
+    },
+    {
+        "id": "use aveeno lotion",
+        "weight": "30",
+        "type": "Term",
+        "group": "14"
+    },
+    {
+        "id": "beauty",
+        "weight": "30",
+        "type": "Subreddit",
+        "group": "1"
+    },
+    {
+        "id": "Aveeno sensitive",
+        "weight": "30",
+        "type": "Term",
+        "group": "3"
+    },
+    {
+        "id": "Dove soap",
+        "weight": "30",
+        "type": "Term",
+        "group": "12"
+    },
+    {
+        "id": "baby shampoo",
+        "weight": "30",
+        "type": "Term",
+        "group": "12"
+    },
+    {
+        "id": "pillow case",
+        "weight": "30",
+        "type": "Term",
+        "group": "12"
+    },
+    {
+        "id": "baby lotion",
+        "weight": "30",
+        "type": "Term",
+        "group": "18"
+    },
+    {
+        "id": "moisturizer Night",
+        "weight": "30",
+        "type": "Term",
+        "group": "11"
+    },
+    {
+        "id": "lukewarm water",
+        "weight": "29",
+        "type": "Term",
+        "group": "17"
+    },
+    {
+        "id": "shower gel",
+        "weight": "29",
+        "type": "Term",
+        "group": "16"
+    },
+    {
+        "id": "Sunscreen Lotion",
+        "weight": "29",
+        "type": "Term",
+        "group": "4"
+    },
+    {
+        "id": "body oil",
+        "weight": "29",
+        "type": "Term",
+        "group": "15"
+    },
+    {
+        "id": "body butter",
+        "weight": "29",
+        "type": "Term",
+        "group": "18"
+    },
+    {
+        "id": "asktransgender",
+        "weight": "29",
+        "type": "Subreddit",
+        "group": "17"
+    },
+    {
+        "id": "MtF",
+        "weight": "29",
+        "type": "Subreddit",
+        "group": "15"
+    },
+    {
+        "id": "Aveeno foaming cleanser",
+        "weight": "28",
+        "type": "Term",
+        "group": "6"
+    },
+    {
+        "id": "Cetaphil face",
+        "weight": "28",
+        "type": "Term",
+        "group": "9"
+    },
+    {
+        "id": "Aveeno oatmeal",
+        "weight": "28",
+        "type": "Term",
+        "group": "7"
+    },
+    {
+        "id": "CeraVe Moisturizing Cream",
+        "weight": "28",
+        "type": "Term",
+        "group": "11"
+    },
+    {
+        "id": "Gentle Skin Cleanser",
+        "weight": "28",
+        "type": "Term",
+        "group": "15"
+    },
+    {
+        "id": "eczema relief",
+        "weight": "28",
+        "type": "Term",
+        "group": "11"
+    },
+    {
+        "id": "Rosacea",
+        "weight": "27",
+        "type": "Subreddit",
+        "group": "15"
+    },
+    {
+        "id": "Psoriasis",
+        "weight": "27",
+        "type": "Subreddit",
+        "group": "10"
+    },
+    {
+        "id": "eczema therapy cream",
+        "weight": "27",
+        "type": "Term",
+        "group": "1"
+    },
+    {
+        "id": "Aveeno eczema care",
+        "weight": "27",
+        "type": "Term",
+        "group": "0"
+    },
+    {
+        "id": "body moisturizer",
+        "weight": "27",
+        "type": "Term",
+        "group": "4"
+    },
+    {
+        "id": "eczema lotion",
+        "weight": "27",
+        "type": "Term",
+        "group": "3"
+    },
+    {
+        "id": "wicked_edge",
+        "weight": "27",
+        "type": "Subreddit",
+        "group": "17"
+    },
+    {
+        "id": "drugstoreMUA",
+        "weight": "27",
+        "type": "Subreddit",
+        "group": "15"
+    },
+    {
+        "id": "Random_Acts_Of_Amazon",
+        "weight": "27",
+        "type": "Subreddit",
+        "group": "13"
+    },
+    {
+        "id": "ftm",
+        "weight": "26",
+        "type": "Subreddit",
+        "group": "8"
+    },
+    {
+        "id": "oil control",
+        "weight": "26",
+        "type": "Term",
+        "group": "15"
+    },
+    {
+        "id": "Pure Renewal Shampoo",
+        "weight": "25",
+        "type": "Term",
+        "group": "1"
+    },
+    {
+        "id": "Cetaphil Gentle Skin",
+        "weight": "25",
+        "type": "Term",
+        "group": "15"
+    },
+    {
+        "id": "PaleMUA",
+        "weight": "25",
+        "type": "Subreddit",
+        "group": "9"
+    },
+    {
+        "id": "food allergies",
+        "weight": "25",
+        "type": "Term",
+        "group": "2"
+    },
+    {
+        "id": "other night",
+        "weight": "25",
+        "type": "Term",
+        "group": "9"
+    },
+    {
+        "id": "moisturizing body wash",
+        "weight": "25",
+        "type": "Term",
+        "group": "8"
+    },
+    {
+        "id": "AusSkincare",
+        "weight": "25",
+        "type": "Subreddit",
+        "group": "7"
+    },
+    {
+        "id": "Aveeno baby wash",
+        "weight": "25",
+        "type": "Term",
+        "group": "10"
+    },
+    {
+        "id": "Shea Moisture",
+        "weight": "24",
+        "type": "Term",
+        "group": "15"
+    },
+    {
+        "id": "beautytalkph",
+        "weight": "24",
+        "type": "Subreddit",
+        "group": "13"
+    },
+    {
+        "id": "Skin Relief",
+        "weight": "23",
+        "type": "Term",
+        "group": "15"
+    },
+    {
+        "id": "Cerave cleanser",
+        "weight": "23",
+        "type": "Term",
+        "group": "18"
+    },
+    {
+        "id": "body works",
+        "weight": "23",
+        "type": "Term",
+        "group": "1"
+    },
+    {
+        "id": "wash cloth",
+        "weight": "23",
+        "type": "Term",
+        "group": "2"
+    },
+    {
+        "id": "eczema cream",
+        "weight": "22",
+        "type": "Term",
+        "group": "7"
+    },
+    {
+        "id": "Aveeno Ultra-Calming Foaming",
+        "weight": "22",
+        "type": "Term",
+        "group": "9"
+    },
+    {
+        "id": "sulfate free shampoo",
+        "weight": "22",
+        "type": "Term",
+        "group": "1"
+    },
+    {
+        "id": "past week",
+        "weight": "22",
+        "type": "Term",
+        "group": "4"
+    },
+    {
+        "id": "2-3 times a week",
+        "weight": "22",
+        "type": "Term",
+        "group": "15"
+    },
+    {
+        "id": "Aveeno oatmeal bath",
+        "weight": "22",
+        "type": "Term",
+        "group": "13"
+    },
+    {
+        "id": "hydrating toner",
+        "weight": "22",
+        "type": "Term",
+        "group": "9"
+    },
+    {
+        "id": "bad eczema",
+        "weight": "22",
+        "type": "Term",
+        "group": "0"
+    },
+    {
+        "id": "ingrown hairs",
+        "weight": "22",
+        "type": "Term",
+        "group": "17"
+    },
+    {
+        "id": "Aveeno foaming",
+        "weight": "22",
+        "type": "Term",
+        "group": "7"
+    },
+    {
+        "id": "SkincareAddictionUK",
+        "weight": "21",
+        "type": "Subreddit",
+        "group": "8"
+    },
+    {
+        "id": "skincareexchange",
+        "weight": "21",
+        "type": "Subreddit",
+        "group": "16"
+    },
+    {
+        "id": "cerave lotion",
+        "weight": "21",
+        "type": "Term",
+        "group": "4"
+    },
+    {
+        "id": "last time",
+        "weight": "21",
+        "type": "Term",
+        "group": "19"
+    },
+    {
+        "id": "acne wash",
+        "weight": "21",
+        "type": "Term",
+        "group": "13"
+    },
+    {
+        "id": "few times a week",
+        "weight": "21",
+        "type": "Term",
+        "group": "16"
+    },
+    {
+        "id": "DIYBeauty",
+        "weight": "20",
+        "type": "Subreddit",
+        "group": "7"
+    },
+    {
+        "id": "Aveeno body",
+        "weight": "20",
+        "type": "Term",
+        "group": "4"
+    },
+    {
+        "id": "day use",
+        "weight": "20",
+        "type": "Term",
+        "group": "14"
+    },
+    {
+        "id": "Accutane",
+        "weight": "20",
+        "type": "Subreddit",
+        "group": "4"
+    },
+    {
+        "id": "Aveeno Skin",
+        "weight": "20",
+        "type": "Term",
+        "group": "7"
+    },
+    {
+        "id": "ehlersdanlos",
+        "weight": "20",
+        "type": "Subreddit",
+        "group": "0"
+    },
+    {
+        "id": "cleansing pads",
+        "weight": "20",
+        "type": "Term",
+        "group": "17"
+    },
+    {
+        "id": "last month",
+        "weight": "19",
+        "type": "Term",
+        "group": "0"
+    },
+    {
+        "id": "aveeno soap",
+        "weight": "19",
+        "type": "Term",
+        "group": "18"
+    },
+    {
+        "id": "use Aveeno eczema",
+        "weight": "19",
+        "type": "Term",
+        "group": "0"
+    },
+    {
+        "id": "sun damage",
+        "weight": "19",
+        "type": "Term",
+        "group": "11"
+    },
+    {
+        "id": "tiny bit",
+        "weight": "19",
+        "type": "Term",
+        "group": "8"
+    },
+    {
+        "id": "baby eczema lotion",
+        "weight": "19",
+        "type": "Term",
+        "group": "2"
+    },
+    {
+        "id": "ParisComments",
+        "weight": "19",
+        "type": "Subreddit",
+        "group": "16"
+    },
+    {
+        "id": "abdiscussion",
+        "weight": "19",
+        "type": "Subreddit",
+        "group": "8"
+    },
+    {
+        "id": "problem areas",
+        "weight": "19",
+        "type": "Term",
+        "group": "18"
+    },
+    {
+        "id": "CeraVe Moisturizing",
+        "weight": "19",
+        "type": "Term",
+        "group": "8"
+    },
+    {
+        "id": "cold showers",
+        "weight": "18",
+        "type": "Term",
+        "group": "12"
+    },
+    {
+        "id": "use Aquaphor",
+        "weight": "18",
+        "type": "Term",
+        "group": "0"
+    },
+    {
+        "id": "Lotion PM",
+        "weight": "18",
+        "type": "Term",
+        "group": "16"
+    },
+    {
+        "id": "Pigmentation",
+        "weight": "18",
+        "type": "Subreddit",
+        "group": "4"
+    },
+    {
+        "id": "baby soap",
+        "weight": "18",
+        "type": "Term",
+        "group": "8"
+    },
+    {
+        "id": "Aveeno night",
+        "weight": "18",
+        "type": "Term",
+        "group": "11"
+    },
+    {
+        "id": "Stratia Liquid Gold",
+        "weight": "18",
+        "type": "Term",
+        "group": "7"
+    },
+    {
+        "id": "titanium dioxide",
+        "weight": "18",
+        "type": "Term",
+        "group": "4"
+    },
+    {
+        "id": "Vitamin D",
+        "weight": "18",
+        "type": "Term",
+        "group": "10"
+    },
+    {
+        "id": "Aveeno face wash",
+        "weight": "18",
+        "type": "Term",
+        "group": "18"
+    },
+    {
+        "id": "skin condition",
+        "weight": "17",
+        "type": "Term",
+        "group": "0"
+    },
+    {
+        "id": "use a cleanser",
+        "weight": "17",
+        "type": "Term",
+        "group": "8"
+    },
+    {
+        "id": "dryer sheets",
+        "weight": "17",
+        "type": "Term",
+        "group": "7"
+    },
+    {
+        "id": "Skin Relief Body",
+        "weight": "17",
+        "type": "Term",
+        "group": "13"
+    },
+    {
+        "id": "cetaphil lotion",
+        "weight": "17",
+        "type": "Term",
+        "group": "8"
+    },
+    {
+        "id": "Dermatology",
+        "weight": "16",
+        "type": "Subreddit",
+        "group": "3"
+    },
+    {
+        "id": "whole body",
+        "weight": "16",
+        "type": "Term",
+        "group": "2"
+    },
+    {
+        "id": "water a day",
+        "weight": "16",
+        "type": "Term",
+        "group": "7"
+    },
+    {
+        "id": "Ultra Repair Cream",
+        "weight": "16",
+        "type": "Term",
+        "group": "14"
+    },
+    {
+        "id": "use Aveeno moisturizer",
+        "weight": "16",
+        "type": "Term",
+        "group": "0"
+    },
+    {
+        "id": "baby eczema",
+        "weight": "16",
+        "type": "Term",
+        "group": "2"
+    },
+    {
+        "id": "left side",
+        "weight": "16",
+        "type": "Term",
+        "group": "19"
+    },
+    {
+        "id": "Relief Body Wash",
+        "weight": "16",
+        "type": "Term",
+        "group": "13"
+    },
+    {
+        "id": "past few months",
+        "weight": "16",
+        "type": "Term",
+        "group": "4"
+    },
+    {
+        "id": "dust mites",
+        "weight": "15",
+        "type": "Term",
+        "group": "1"
+    },
+    {
+        "id": "BeautyGuruChatter",
+        "weight": "15",
+        "type": "Subreddit",
+        "group": "3"
+    },
+    {
+        "id": "calamine lotion",
+        "weight": "15",
+        "type": "Term",
+        "group": "13"
+    },
+    {
+        "id": "gay",
+        "weight": "15",
+        "type": "Subreddit",
+        "group": "17"
+    },
+    {
+        "id": "TransSupport",
+        "weight": "14",
+        "type": "Subreddit",
+        "group": "17"
+    },
+    {
+        "id": "light coverage",
+        "weight": "14",
+        "type": "Term",
+        "group": "6"
+    },
+    {
+        "id": "fatlogic",
+        "weight": "14",
+        "type": "Subreddit",
+        "group": "7"
+    },
+    {
+        "id": "baby eczema cream",
+        "weight": "14",
+        "type": "Term",
+        "group": "2"
+    },
+    {
+        "id": "skin relief lotion",
+        "weight": "14",
+        "type": "Term",
+        "group": "5"
+    },
+    {
+        "id": "FeminineNotFeminist",
+        "weight": "14",
+        "type": "Subreddit",
+        "group": "6"
+    },
+    {
+        "id": "malefashionadvice",
+        "weight": "13",
+        "type": "Subreddit",
+        "group": "11"
+    },
+    {
+        "id": "steroids",
+        "weight": "13",
+        "type": "Subreddit",
+        "group": "12"
+    },
+    {
+        "id": "use Aveeno body",
+        "weight": "13",
+        "type": "Term",
+        "group": "0"
+    },
+    {
+        "id": "skin care products",
+        "weight": "13",
+        "type": "Term",
+        "group": "2"
+    },
+    {
+        "id": "couple times a week",
+        "weight": "13",
+        "type": "Term",
+        "group": "15"
+    },
+    {
+        "id": "LushCosmetics",
+        "weight": "12",
+        "type": "Subreddit",
+        "group": "7"
+    },
+    {
+        "id": "use body wash",
+        "weight": "12",
+        "type": "Term",
+        "group": "16"
+    },
+    {
+        "id": "BeautyBoxes",
+        "weight": "12",
+        "type": "Subreddit",
+        "group": "6"
+    },
+    {
+        "id": "funny",
+        "weight": "12",
+        "type": "Subreddit",
+        "group": "16"
+    },
+    {
+        "id": "FragranceFreeLife",
+        "weight": "12",
+        "type": "Subreddit",
+        "group": "11"
+    },
+    {
+        "id": "Aveeno oatmeal lotion",
+        "weight": "12",
+        "type": "Term",
+        "group": "3"
+    },
+    {
+        "id": "proED",
+        "weight": "12",
+        "type": "Subreddit",
+        "group": "16"
+    },
+    {
+        "id": "SkincareRehab",
+        "weight": "11",
+        "type": "Subreddit",
+        "group": "1"
+    },
+    {
+        "id": "askgaybros",
+        "weight": "11",
+        "type": "Subreddit",
+        "group": "7"
+    },
+    {
+        "id": "FormulaFeeders",
+        "weight": "11",
+        "type": "Subreddit",
+        "group": "2"
+    },
+    {
+        "id": "blogsnark",
+        "weight": "11",
+        "type": "Subreddit",
+        "group": "4"
+    },
+    {
+        "id": "NaturalBeauty",
+        "weight": "11",
+        "type": "Subreddit",
+        "group": "10"
+    },
+    {
+        "id": "sex",
+        "weight": "11",
+        "type": "Subreddit",
+        "group": "11"
+    },
+    {
+        "id": "gonewildstories",
+        "weight": "10",
+        "type": "Subreddit",
+        "group": "6"
+    },
+    {
+        "id": "worldnews",
+        "weight": "10",
+        "type": "Subreddit",
+        "group": "4"
+    },
+    {
+        "id": "AsianBeautyRehab",
+        "weight": "10",
+        "type": "Subreddit",
+        "group": "6"
+    },
+    {
+        "id": "MUAontheCheap",
+        "weight": "10",
+        "type": "Subreddit",
+        "group": "1"
+    },
+    {
+        "id": "DecemberBumpers2017",
+        "weight": "10",
+        "type": "Subreddit",
+        "group": "5"
+    },
+    {
+        "id": "loseit",
+        "weight": "10",
+        "type": "Subreddit",
+        "group": "8"
+    },
+    {
+        "id": "science",
+        "weight": "9",
+        "type": "Subreddit",
+        "group": "13"
+    },
+    {
+        "id": "Mommit",
+        "weight": "9",
+        "type": "Subreddit",
+        "group": "7"
+    },
+    {
+        "id": "CasualConversation",
+        "weight": "9",
+        "type": "Subreddit",
+        "group": "9"
+    },
+    {
+        "id": "Advice",
+        "weight": "9",
+        "type": "Subreddit",
+        "group": "7"
+    },
+    {
+        "id": "Frugal",
+        "weight": "9",
+        "type": "Subreddit",
+        "group": "0"
+    },
+    {
+        "id": "bjj",
+        "weight": "9",
+        "type": "Subreddit",
+        "group": "13"
+    },
+    {
+        "id": "pics",
+        "weight": "8",
+        "type": "Subreddit",
+        "group": "10"
+    },
+    {
+        "id": "starbucks",
+        "weight": "8",
+        "type": "Subreddit",
+        "group": "0"
+    },
+    {
+        "id": "minimalism",
+        "weight": "8",
+        "type": "Subreddit",
+        "group": "18"
+    },
+    {
+        "id": "Nexplanon",
+        "weight": "8",
+        "type": "Subreddit",
+        "group": "7"
+    },
+    {
+        "id": "xxfitness",
+        "weight": "8",
+        "type": "Subreddit",
+        "group": "0"
+    },
+    {
+        "id": "buzzfeedbot",
+        "weight": "8",
+        "type": "Subreddit",
+        "group": "4"
+    },
+    {
+        "id": "breastfeeding",
+        "weight": "8",
+        "type": "Subreddit",
+        "group": "2"
+    },
+    {
+        "id": "Makeup101",
+        "weight": "8",
+        "type": "Subreddit",
+        "group": "15"
+    },
+    {
+        "id": "OctoberBumpers2017",
+        "weight": "8",
+        "type": "Subreddit",
+        "group": "8"
+    },
+    {
+        "id": "InfertilityBabies",
+        "weight": "7",
+        "type": "Subreddit",
+        "group": "10"
+    },
+    {
+        "id": "fragrance",
+        "weight": "7",
+        "type": "Subreddit",
+        "group": "4"
+    },
+    {
+        "id": "Hedgehogs",
+        "weight": "7",
+        "type": "Subreddit",
+        "group": "7"
+    },
+    {
+        "id": "PCOS",
+        "weight": "7",
+        "type": "Subreddit",
+        "group": "15"
+    },
+    {
+        "id": "askwomenadvice",
+        "weight": "7",
+        "type": "Subreddit",
+        "group": "18"
+    },
+    {
+        "id": "Sunblock",
+        "weight": "7",
+        "type": "Subreddit",
+        "group": "4"
+    },
+    {
+        "id": "weddingplanning",
+        "weight": "7",
+        "type": "Subreddit",
+        "group": "13"
+    },
+    {
+        "id": "moderatelygranolamoms",
+        "weight": "7",
+        "type": "Subreddit",
+        "group": "7"
+    },
+    {
+        "id": "medical",
+        "weight": "7",
+        "type": "Subreddit",
+        "group": "13"
+    },
+    {
+        "id": "AugustBumpers2017",
+        "weight": "7",
+        "type": "Subreddit",
+        "group": "5"
+    },
+    {
+        "id": "JUSTNOMIL",
+        "weight": "7",
+        "type": "Subreddit",
+        "group": "0"
+    },
+    {
+        "id": "MakeupAddictionCanada",
+        "weight": "7",
+        "type": "Subreddit",
+        "group": "5"
+    },
+    {
+        "id": "April2017Bumpers",
+        "weight": "7",
+        "type": "Subreddit",
+        "group": "11"
+    },
+    {
+        "id": "keto",
+        "weight": "7",
+        "type": "Subreddit",
+        "group": "4"
+    },
+    {
+        "id": "running",
+        "weight": "7",
+        "type": "Subreddit",
+        "group": "18"
+    },
+    {
+        "id": "Septemberbumpers2017",
+        "weight": "7",
+        "type": "Subreddit",
+        "group": "13"
+    },
+    {
+        "id": "30PlusSkinCare",
+        "weight": "7",
+        "type": "Subreddit",
+        "group": "15"
+    },
+    {
+        "id": "aspergirls",
+        "weight": "7",
+        "type": "Subreddit",
+        "group": "0"
+    },
+    {
+        "id": "AsianBeautyAdvice",
+        "weight": "6",
+        "type": "Subreddit",
+        "group": "5"
+    },
+    {
+        "id": "BeautyIndustryChatter",
+        "weight": "6",
+        "type": "Subreddit",
+        "group": "4"
+    },
+    {
+        "id": "IFseniorclass",
+        "weight": "6",
+        "type": "Subreddit",
+        "group": "18"
+    },
+    {
+        "id": "AustralianMakeup",
+        "weight": "6",
+        "type": "Subreddit",
+        "group": "5"
+    },
+    {
+        "id": "nursing",
+        "weight": "6",
+        "type": "Subreddit",
+        "group": "19"
+    },
+    {
+        "id": "tattoo",
+        "weight": "6",
+        "type": "Subreddit",
+        "group": "14"
+    },
+    {
+        "id": "NoStupidQuestions",
+        "weight": "6",
+        "type": "Subreddit",
+        "group": "13"
+    },
+    {
+        "id": "popping",
+        "weight": "6",
+        "type": "Subreddit",
+        "group": "13"
+    },
+    {
+        "id": "teenmom",
+        "weight": "6",
+        "type": "Subreddit",
+        "group": "6"
+    },
+    {
+        "id": "foreskin_restoration",
+        "weight": "6",
+        "type": "Subreddit",
+        "group": "2"
+    },
+    {
+        "id": "NordicSkinCare",
+        "weight": "6",
+        "type": "Subreddit",
+        "group": "15"
+    },
+    {
+        "id": "vegan",
+        "weight": "5",
+        "type": "Subreddit",
+        "group": "10"
+    },
+    {
+        "id": "Fude",
+        "weight": "5",
+        "type": "Subreddit",
+        "group": "12"
+    },
+    {
+        "id": "childfree",
+        "weight": "5",
+        "type": "Subreddit",
+        "group": "10"
+    },
+    {
+        "id": "ferrets",
+        "weight": "5",
+        "type": "Subreddit",
+        "group": "12"
+    },
+    {
+        "id": "needadvice",
+        "weight": "5",
+        "type": "Subreddit",
+        "group": "8"
+    },
+    {
+        "id": "Parenting_Tips",
+        "weight": "5",
+        "type": "Subreddit",
+        "group": "2"
+    },
+    {
+        "id": "DoesAnybodyElse",
+        "weight": "5",
+        "type": "Subreddit",
+        "group": "4"
+    },
+    {
+        "id": "beards",
+        "weight": "5",
+        "type": "Subreddit",
+        "group": "5"
+    },
+    {
+        "id": "NewParents",
+        "weight": "5",
+        "type": "Subreddit",
+        "group": "11"
+    },
+    {
+        "id": "pregnant",
+        "weight": "5",
+        "type": "Subreddit",
+        "group": "7"
+    },
+    {
+        "id": "BeardAdvice",
+        "weight": "5",
+        "type": "Subreddit",
+        "group": "11"
+    },
+    {
+        "id": "Hirsutism",
+        "weight": "5",
+        "type": "Subreddit",
+        "group": "17"
+    },
+    {
+        "id": "dogs",
+        "weight": "5",
+        "type": "Subreddit",
+        "group": "1"
+    },
+    {
+        "id": "RandomActsofMakeup",
+        "weight": "5",
+        "type": "Subreddit",
+        "group": "15"
+    },
+    {
+        "id": "RandomActsOfAB",
+        "weight": "5",
+        "type": "Subreddit",
+        "group": "15"
+    },
+    {
+        "id": "AskParents",
+        "weight": "5",
+        "type": "Subreddit",
+        "group": "10"
+    },
+    {
+        "id": "xxketo",
+        "weight": "5",
+        "type": "Subreddit",
+        "group": "2"
+    },
+    {
+        "id": "CompulsiveSkinPicking",
+        "weight": "5",
+        "type": "Subreddit",
+        "group": "0"
+    },
+    {
+        "id": "Hypothyroidism",
+        "weight": "5",
+        "type": "Subreddit",
+        "group": "13"
+    },
+    {
+        "id": "daddit",
+        "weight": "4",
+        "type": "Subreddit",
+        "group": "2"
+    },
+    {
+        "id": "shaving",
+        "weight": "4",
+        "type": "Subreddit",
+        "group": "9"
+    },
+    {
+        "id": "bipolar",
+        "weight": "4",
+        "type": "Subreddit",
+        "group": "7"
+    },
+    {
+        "id": "tattoos",
+        "weight": "4",
+        "type": "Subreddit",
+        "group": "14"
+    },
+    {
+        "id": "CanSkincare",
+        "weight": "4",
+        "type": "Subreddit",
+        "group": "0"
+    },
+    {
+        "id": "todayilearned",
+        "weight": "4",
+        "type": "Subreddit",
+        "group": "12"
+    },
+    {
+        "id": "Philippines",
+        "weight": "4",
+        "type": "Subreddit",
+        "group": "8"
+    },
+    {
+        "id": "JulyBumpers2017",
+        "weight": "4",
+        "type": "Subreddit",
+        "group": "10"
+    },
+    {
+        "id": "malehairadvice",
+        "weight": "4",
+        "type": "Subreddit",
+        "group": "1"
+    },
+    {
+        "id": "dryskin",
+        "weight": "4",
+        "type": "Subreddit",
+        "group": "7"
+    },
+    {
+        "id": "freebies",
+        "weight": "4",
+        "type": "Subreddit",
+        "group": "5"
+    },
+    {
+        "id": "MakeupAddicts",
+        "weight": "4",
+        "type": "Subreddit",
+        "group": "11"
+    },
+    {
+        "id": "Indiemakeupandmore",
+        "weight": "4",
+        "type": "Subreddit",
+        "group": "18"
+    },
+    {
+        "id": "trees",
+        "weight": "4",
+        "type": "Subreddit",
+        "group": "9"
+    },
+    {
+        "id": "clothdiaps",
+        "weight": "4",
+        "type": "Subreddit",
+        "group": "18"
+    },
+    {
+        "id": "RATS",
+        "weight": "4",
+        "type": "Subreddit",
+        "group": "8"
+    },
+    {
+        "id": "Dyshidrosis",
+        "weight": "4",
+        "type": "Subreddit",
+        "group": "12"
+    },
+    {
+        "id": "KoreanBeauty",
+        "weight": "4",
+        "type": "Subreddit",
+        "group": "4"
+    },
+    {
+        "id": "instant_regret",
+        "weight": "4",
+        "type": "Subreddit",
+        "group": "17"
+    },
+    {
+        "id": "personalfinance",
+        "weight": "4",
+        "type": "Subreddit",
+        "group": "4"
+    },
+    {
+        "id": "migraine",
+        "weight": "4",
+        "type": "Subreddit",
+        "group": "6"
+    },
+    {
+        "id": "Albuquerque",
+        "weight": "4",
+        "type": "Subreddit",
+        "group": "14"
+    },
+    {
+        "id": "CrohnsDisease",
+        "weight": "4",
+        "type": "Subreddit",
+        "group": "16"
+    },
+    {
+        "id": "TrollXChromosomes",
+        "weight": "4",
+        "type": "Subreddit",
+        "group": "13"
+    },
+    {
+        "id": "FierceFlow",
+        "weight": "4",
+        "type": "Subreddit",
+        "group": "14"
+    },
+    {
+        "id": "PostPreview",
+        "weight": "4",
+        "type": "Subreddit",
+        "group": "9"
+    },
+    {
+        "id": "malegrooming",
+        "weight": "4",
+        "type": "Subreddit",
+        "group": "4"
+    },
+    {
+        "id": "skin_care",
+        "weight": "4",
+        "type": "Subreddit",
+        "group": "18"
+    },
+    {
+        "id": "RoastMe",
+        "weight": "4",
+        "type": "Subreddit",
+        "group": "12"
+    },
+    {
+        "id": "BuyItForLife",
+        "weight": "3",
+        "type": "Subreddit",
+        "group": "7"
+    },
+    {
+        "id": "depression",
+        "weight": "3",
+        "type": "Subreddit",
+        "group": "0"
+    },
+    {
+        "id": "Hair",
+        "weight": "3",
+        "type": "Subreddit",
+        "group": "4"
+    },
+    {
+        "id": "FreeCompliments",
+        "weight": "3",
+        "type": "Subreddit",
+        "group": "15"
+    },
+    {
+        "id": "RedditLaqueristas",
+        "weight": "3",
+        "type": "Subreddit",
+        "group": "6"
+    },
+    {
+        "id": "educationalgifs",
+        "weight": "3",
+        "type": "Subreddit",
+        "group": "17"
+    },
+    {
+        "id": "BeautyRecap",
+        "weight": "3",
+        "type": "Subreddit",
+        "group": "4"
+    },
+    {
+        "id": "ADHD",
+        "weight": "3",
+        "type": "Subreddit",
+        "group": "5"
+    },
+    {
+        "id": "OCD",
+        "weight": "3",
+        "type": "Subreddit",
+        "group": "13"
+    },
+    {
+        "id": "dishwashers",
+        "weight": "3",
+        "type": "Subreddit",
+        "group": "14"
+    },
+    {
+        "id": "infertility",
+        "weight": "3",
+        "type": "Subreddit",
+        "group": "9"
+    },
+    {
+        "id": "Hidradenitis",
+        "weight": "3",
+        "type": "Subreddit",
+        "group": "3"
+    },
+    {
+        "id": "muacirclejerk",
+        "weight": "3",
+        "type": "Subreddit",
+        "group": "17"
+    },
+    {
+        "id": "IAmA",
+        "weight": "3",
+        "type": "Subreddit",
+        "group": "14"
+    },
+    {
+        "id": "Fibromyalgia",
+        "weight": "3",
+        "type": "Subreddit",
+        "group": "13"
+    },
+    {
+        "id": "January2017Bumpers",
+        "weight": "3",
+        "type": "Subreddit",
+        "group": "8"
+    },
+    {
+        "id": "AskWomenOver30",
+        "weight": "3",
+        "type": "Subreddit",
+        "group": "15"
+    },
+    {
+        "id": "teenagers",
+        "weight": "3",
+        "type": "Subreddit",
+        "group": "0"
+    },
+    {
+        "id": "australia",
+        "weight": "3",
+        "type": "Subreddit",
+        "group": "14"
+    },
+    {
+        "id": "VeganBeauty",
+        "weight": "3",
+        "type": "Subreddit",
+        "group": "15"
+    },
+    {
+        "id": "RedPillWomen",
+        "weight": "3",
+        "type": "Subreddit",
+        "group": "15"
+    },
+    {
+        "id": "frugalbeauty",
+        "weight": "3",
+        "type": "Subreddit",
+        "group": "15"
+    },
+    {
+        "id": "tifu",
+        "weight": "3",
+        "type": "Subreddit",
+        "group": "12"
+    },
+    {
+        "id": "blackladies",
+        "weight": "3",
+        "type": "Subreddit",
+        "group": "9"
+    },
+    {
+        "id": "ABraThatFits",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "3"
+    },
+    {
+        "id": "crossdressing",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "4"
+    },
+    {
+        "id": "KitchenConfidential",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "5"
+    },
+    {
+        "id": "Showerthoughts",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "3"
+    },
+    {
+        "id": "chicago",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "7"
+    },
+    {
+        "id": "SantasLittleHelpers",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "13"
+    },
+    {
+        "id": "ibs",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "12"
+    },
+    {
+        "id": "diabetes",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "14"
+    },
+    {
+        "id": "LifeProTips",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "3"
+    },
+    {
+        "id": "ladyshavers",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "14"
+    },
+    {
+        "id": "trypophobia",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "1"
+    },
+    {
+        "id": "normalnudes",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "12"
+    },
+    {
+        "id": "streetwear",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "12"
+    },
+    {
+        "id": "bartenders",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "5"
+    },
+    {
+        "id": "askTO",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "12"
+    },
+    {
+        "id": "90DayFiance",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "12"
+    },
+    {
+        "id": "WTF",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "18"
+    },
+    {
+        "id": "powerlifting",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "15"
+    },
+    {
+        "id": "motorcycles",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "12"
+    },
+    {
+        "id": "newzealand",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "12"
+    },
+    {
+        "id": "Costco",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "4"
+    },
+    {
+        "id": "korea",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "15"
+    },
+    {
+        "id": "bigboobproblems",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "3"
+    },
+    {
+        "id": "MakeupEducation",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "15"
+    },
+    {
+        "id": "cancer",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "1"
+    },
+    {
+        "id": "Blackfellas",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "13"
+    },
+    {
+        "id": "Staples",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "15"
+    },
+    {
+        "id": "transpassing",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "11"
+    },
+    {
+        "id": "SaltLakeCity",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "8"
+    },
+    {
+        "id": "casualMUA",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "18"
+    },
+    {
+        "id": "TrollXOver30",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "18"
+    },
+    {
+        "id": "circumcision",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "12"
+    },
+    {
+        "id": "Moustache",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "0"
+    },
+    {
+        "id": "gifs",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "18"
+    },
+    {
+        "id": "japanlife",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "3"
+    },
+    {
+        "id": "lifehacks",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "11"
+    },
+    {
+        "id": "femalehairadvice",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "3"
+    },
+    {
+        "id": "OkCupid",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "18"
+    },
+    {
+        "id": "OliveMUA",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "15"
+    },
+    {
+        "id": "amiugly",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "4"
+    },
+    {
+        "id": "progresspics",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "3"
+    },
+    {
+        "id": "Calgary",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "14"
+    },
+    {
+        "id": "parentsofmultiples",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "3"
+    },
+    {
+        "id": "sticknpokes",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "14"
+    },
+    {
+        "id": "opiates",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "4"
+    },
+    {
+        "id": "bigdickproblems",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "14"
+    },
+    {
+        "id": "MotoLA",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "12"
+    },
+    {
+        "id": "ottawa",
+        "weight": "2",
+        "type": "Subreddit",
+        "group": "12"
+    },
+    {
+        "id": "uglyduckling",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "4"
+    },
+    {
+        "id": "relationships",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "1"
+    },
+    {
+        "id": "qotsa",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "5"
+    },
+    {
+        "id": "HealthAnxiety",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "13"
+    },
+    {
+        "id": "kratom",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "12"
+    },
+    {
+        "id": "Green",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "16"
+    },
+    {
+        "id": "Shoplifting",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "6"
+    },
+    {
+        "id": "piercing",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "12"
+    },
+    {
+        "id": "chinesecrested",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "5"
+    },
+    {
+        "id": "EDC",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "12"
+    },
+    {
+        "id": "movies",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "12"
+    },
+    {
+        "id": "BravoRealHousewives",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "6"
+    },
+    {
+        "id": "The_Donald",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "4"
+    },
+    {
+        "id": "polandball",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "6"
+    },
+    {
+        "id": "DepthHub",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "1"
+    },
+    {
+        "id": "neopets",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "7"
+    },
+    {
+        "id": "DumpsterDiving",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "12"
+    },
+    {
+        "id": "tressless",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "1"
+    },
+    {
+        "id": "UnsentLetters",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "19"
+    },
+    {
+        "id": "PiercedCock",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "12"
+    },
+    {
+        "id": "actuallesbians",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "15"
+    },
+    {
+        "id": "startrek",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "14"
+    },
+    {
+        "id": "bodymods",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "14"
+    },
+    {
+        "id": "Edmonton",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "16"
+    },
+    {
+        "id": "mildlyinteresting",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "10"
+    },
+    {
+        "id": "Rateme",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "12"
+    },
+    {
+        "id": "medicine",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "6"
+    },
+    {
+        "id": "AppalachianTrail",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "1"
+    },
+    {
+        "id": "ecommerce",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "6"
+    },
+    {
+        "id": "UKBabyBumps",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "10"
+    },
+    {
+        "id": "BPD",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "5"
+    },
+    {
+        "id": "Velo",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "17"
+    },
+    {
+        "id": "FancyFollicles",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "3"
+    },
+    {
+        "id": "malelifestyle",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "16"
+    },
+    {
+        "id": "dandruff",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "5"
+    },
+    {
+        "id": "amazon",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "12"
+    },
+    {
+        "id": "changemyview",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "14"
+    },
+    {
+        "id": "Target",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "0"
+    },
+    {
+        "id": "TalesFromRetail",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "7"
+    },
+    {
+        "id": "news",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "12"
+    },
+    {
+        "id": "badwomensanatomy",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "12"
+    },
+    {
+        "id": "January2018Bumpers",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "9"
+    },
+    {
+        "id": "SubredditSimulator",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "14"
+    },
+    {
+        "id": "cycling",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "3"
+    },
+    {
+        "id": "Guitar",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "3"
+    },
+    {
+        "id": "Unexpected",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "12"
+    },
+    {
+        "id": "ABDL",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "10"
+    },
+    {
+        "id": "Herpes",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "1"
+    },
+    {
+        "id": "RandomActsOfPolish",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "9"
+    },
+    {
+        "id": "medical_advice",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "5"
+    },
+    {
+        "id": "awfuleverything",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "7"
+    },
+    {
+        "id": "lupus",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "14"
+    },
+    {
+        "id": "rupaulsdragrace",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "19"
+    },
+    {
+        "id": "quityourbullshit",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "10"
+    },
+    {
+        "id": "markyjoe",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "19"
+    },
+    {
+        "id": "TwoXSex",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "17"
+    },
+    {
+        "id": "May2017Bumpers",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "12"
+    },
+    {
+        "id": "Gifts",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "6"
+    },
+    {
+        "id": "wheredidthesodago",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "12"
+    },
+    {
+        "id": "raisedbynarcissists",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "13"
+    },
+    {
+        "id": "relationships_advice",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "18"
+    },
+    {
+        "id": "PetMice",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "5"
+    },
+    {
+        "id": "BlackPeopleTwitter",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "10"
+    },
+    {
+        "id": "geocaching",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "19"
+    },
+    {
+        "id": "RunningWithDogs",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "12"
+    },
+    {
+        "id": "ttcafterloss",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "19"
+    },
+    {
+        "id": "shittyama",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "12"
+    },
+    {
+        "id": "MassiveCock",
+        "weight": "1",
+        "type": "Subreddit",
+        "group": "19"
+    }
+],
+	  "links": [
+    {
+        "source": "use a cleanser",
+        "target": "needadvice",
+        "value": 5
+    },
+    {
+        "source": "Allergies",
+        "target": "dust mites",
+        "value": 4
+    },
+    {
+        "source": "baby wash",
+        "target": "Hedgehogs",
+        "value": 3
+    },
+    {
+        "source": "uglyduckling",
+        "target": "acne treatment",
+        "value": 9
+    },
+    {
+        "source": "use aveeno lotion",
+        "target": "tattoo",
+        "value": 3
+    },
+    {
+        "source": "Sunscreen Lotion",
+        "target": "blogsnark",
+        "value": 2
+    },
+    {
+        "source": "beauty",
+        "target": "sulfate free shampoo",
+        "value": 4
+    },
+    {
+        "source": "relationships",
+        "target": "sulfate free shampoo",
+        "value": 11
+    },
+    {
+        "source": "sulfate free shampoo",
+        "target": "tressless",
+        "value": 11
+    },
+    {
+        "source": "whole body",
+        "target": "Parenting_Tips",
+        "value": 5
+    },
+    {
+        "source": "daddit",
+        "target": "Aveeno sensitive",
+        "value": 4
+    },
+    {
+        "source": "LifeProTips",
+        "target": "Aveeno sensitive",
+        "value": 6
+    },
+    {
+        "source": "qotsa",
+        "target": "Healing Ointment",
+        "value": 8
+    },
+    {
+        "source": "AsianBeautyAdvice",
+        "target": "Healing Ointment",
+        "value": 3
+    },
+    {
+        "source": "science",
+        "target": "Skin Relief Body",
+        "value": 4
+    },
+    {
+        "source": "Healing Ointment",
+        "target": "bartenders",
+        "value": 6
+    },
+    {
+        "source": "Aveeno Skin Relief",
+        "target": "bartenders",
+        "value": 4
+    },
+    {
+        "source": "Aveeno face",
+        "target": "DoesAnybodyElse",
+        "value": 2
+    },
+    {
+        "source": "face lotion",
+        "target": "DoesAnybodyElse",
+        "value": 3
+    },
+    {
+        "source": "Pure Renewal Shampoo",
+        "target": "malehairadvice",
+        "value": 5
+    },
+    {
+        "source": "CC cream",
+        "target": "actuallesbians",
+        "value": 7
+    },
+    {
+        "source": "acne treatment",
+        "target": "BeautyRecap",
+        "value": 5
+    },
+    {
+        "source": "InfertilityBabies",
+        "target": "laundry detergent",
+        "value": 2
+    },
+    {
+        "source": "science",
+        "target": "laundry detergent",
+        "value": 4
+    },
+    {
+        "source": "JulyBumpers2017",
+        "target": "laundry detergent",
+        "value": 3
+    },
+    {
+        "source": "Aveeno baby lotion",
+        "target": "BabyBumps",
+        "value": 6
+    },
+    {
+        "source": "Aveeno Eczema",
+        "target": "NewParents",
+        "value": 2
+    },
+    {
+        "source": "askTO",
+        "target": "Dove soap",
+        "value": 6
+    },
+    {
+        "source": "Allergies",
+        "target": "Dove soap",
+        "value": 4
+    },
+    {
+        "source": "eczema cream",
+        "target": "dryskin",
+        "value": 5
+    },
+    {
+        "source": "eye makeup",
+        "target": "PanPorn",
+        "value": 3
+    },
+    {
+        "source": "shower gel",
+        "target": "PanPorn",
+        "value": 2
+    },
+    {
+        "source": "Body Shop",
+        "target": "PanPorn",
+        "value": 4
+    },
+    {
+        "source": "PanPorn",
+        "target": "powder foundation",
+        "value": 5
+    },
+    {
+        "source": "streetwear",
+        "target": "face mask",
+        "value": 4
+    },
+    {
+        "source": "IFseniorclass",
+        "target": "face mask",
+        "value": 2
+    },
+    {
+        "source": "use Aquaphor",
+        "target": "starbucks",
+        "value": 4
+    },
+    {
+        "source": "eczema cream",
+        "target": "starbucks",
+        "value": 4
+    },
+    {
+        "source": "Skin Relief Body",
+        "target": "NoStupidQuestions",
+        "value": 5
+    },
+    {
+        "source": "shaving",
+        "target": "Cetaphil face",
+        "value": 5
+    },
+    {
+        "source": "shower gel",
+        "target": "Edmonton",
+        "value": 10
+    },
+    {
+        "source": "baby wash",
+        "target": "PCOS",
+        "value": 3
+    },
+    {
+        "source": "Hedgehogs",
+        "target": "oatmeal baths",
+        "value": 4
+    },
+    {
+        "source": "neopets",
+        "target": "oatmeal baths",
+        "value": 5
+    },
+    {
+        "source": "BabyBumps",
+        "target": "oatmeal baths",
+        "value": 2
+    },
+    {
+        "source": "beyondthebump",
+        "target": "oatmeal baths",
+        "value": 2
+    },
+    {
+        "source": "Aveeno Skin Relief",
+        "target": "ADHD",
+        "value": 3
+    },
+    {
+        "source": "PanPorn",
+        "target": "body butter",
+        "value": 2
+    },
+    {
+        "source": "TheGirlSurvivalGuide",
+        "target": "body butter",
+        "value": 2
+    },
+    {
+        "source": "worldnews",
+        "target": "past week",
+        "value": 3
+    },
+    {
+        "source": "malehairadvice",
+        "target": "Aveeno Pure Renewal",
+        "value": 4
+    },
+    {
+        "source": "AskMen",
+        "target": "Aveeno Pure Renewal",
+        "value": 2
+    },
+    {
+        "source": "Dermatology",
+        "target": "steroid cream",
+        "value": 3
+    },
+    {
+        "source": "beyondthebump",
+        "target": "steroid cream",
+        "value": 2
+    },
+    {
+        "source": "tattoo",
+        "target": "day time",
+        "value": 2
+    },
+    {
+        "source": "startrek",
+        "target": "day time",
+        "value": 6
+    },
+    {
+        "source": "dryskin",
+        "target": "day time",
+        "value": 3
+    },
+    {
+        "source": "bodymods",
+        "target": "day time",
+        "value": 6
+    },
+    {
+        "source": "beyondthebump",
+        "target": "day time",
+        "value": 2
+    },
+    {
+        "source": "diabetes",
+        "target": "day time",
+        "value": 4
+    },
+    {
+        "source": "face lotion",
+        "target": "askwomenadvice",
+        "value": 2
+    },
+    {
+        "source": "WTF",
+        "target": "aveeno soap",
+        "value": 8
+    },
+    {
+        "source": "NoStupidQuestions",
+        "target": "aveeno soap",
+        "value": 5
+    },
+    {
+        "source": "minimalism",
+        "target": "aveeno soap",
+        "value": 4
+    },
+    {
+        "source": "day time",
+        "target": "dishwashers",
+        "value": 3
+    },
+    {
+        "source": "baby wash",
+        "target": "Nexplanon",
+        "value": 6
+    },
+    {
+        "source": "seed oil",
+        "target": "DIYBeauty",
+        "value": 5
+    },
+    {
+        "source": "oil cleanser",
+        "target": "DIYBeauty",
+        "value": 2
+    },
+    {
+        "source": "skincareexchange",
+        "target": "Lotion PM",
+        "value": 2
+    },
+    {
+        "source": "beards",
+        "target": "coconut oil",
+        "value": 3
+    },
+    {
+        "source": "chinesecrested",
+        "target": "coconut oil",
+        "value": 3
+    },
+    {
+        "source": "TransSupport",
+        "target": "coconut oil",
+        "value": 2
+    },
+    {
+        "source": "SebDerm",
+        "target": "coconut oil",
+        "value": 2
+    },
+    {
+        "source": "AsianBeautyAdvice",
+        "target": "coconut oil",
+        "value": 2
+    },
+    {
+        "source": "fragrance",
+        "target": "cerave lotion",
+        "value": 4
+    },
+    {
+        "source": "oatmeal baths",
+        "target": "Mommit",
+        "value": 11
+    },
+    {
+        "source": "DepthHub",
+        "target": "Aveeno Eczema Therapy",
+        "value": 4
+    },
+    {
+        "source": "trypophobia",
+        "target": "Aveeno Eczema Therapy",
+        "value": 3
+    },
+    {
+        "source": "OCD",
+        "target": "Aveeno Eczema Therapy",
+        "value": 2
+    },
+    {
+        "source": "SkincareRehab",
+        "target": "Aveeno Eczema Therapy",
+        "value": 4
+    },
+    {
+        "source": "face lotion",
+        "target": "Sunblock",
+        "value": 2
+    },
+    {
+        "source": "Sunscreen Lotion",
+        "target": "Sunblock",
+        "value": 3
+    },
+    {
+        "source": "NewParents",
+        "target": "baby shampoo",
+        "value": 4
+    },
+    {
+        "source": "PCOS",
+        "target": "baby shampoo",
+        "value": 3
+    },
+    {
+        "source": "Fude",
+        "target": "baby shampoo",
+        "value": 17
+    },
+    {
+        "source": "todayilearned",
+        "target": "baby shampoo",
+        "value": 4
+    },
+    {
+        "source": "childfree",
+        "target": "baby shampoo",
+        "value": 4
+    },
+    {
+        "source": "nursing",
+        "target": "baby shampoo",
+        "value": 3
+    },
+    {
+        "source": "ferrets",
+        "target": "baby shampoo",
+        "value": 8
+    },
+    {
+        "source": "Allergies",
+        "target": "baby shampoo",
+        "value": 2
+    },
+    {
+        "source": "AppalachianTrail",
+        "target": "body works",
+        "value": 11
+    },
+    {
+        "source": "AskMen",
+        "target": "body works",
+        "value": 3
+    },
+    {
+        "source": "MakeupRehab",
+        "target": "body works",
+        "value": 4
+    },
+    {
+        "source": "LushCosmetics",
+        "target": "Aveeno oatmeal",
+        "value": 5
+    },
+    {
+        "source": "pregnant",
+        "target": "Aveeno oatmeal",
+        "value": 4
+    },
+    {
+        "source": "Mommit",
+        "target": "Aveeno oatmeal",
+        "value": 3
+    },
+    {
+        "source": "chicago",
+        "target": "Aveeno oatmeal",
+        "value": 7
+    },
+    {
+        "source": "bipolar",
+        "target": "Aveeno oatmeal",
+        "value": 5
+    },
+    {
+        "source": "beyondthebump",
+        "target": "Aveeno oatmeal",
+        "value": 2
+    },
+    {
+        "source": "normalnudes",
+        "target": "been using Aveeno",
+        "value": 5
+    },
+    {
+        "source": "ibs",
+        "target": "been using Aveeno",
+        "value": 5
+    },
+    {
+        "source": "chicago",
+        "target": "Good luck",
+        "value": 3
+    },
+    {
+        "source": "Aveeno Baby Eczema",
+        "target": "MakeupAddicts",
+        "value": 2
+    },
+    {
+        "source": "BabyBumps",
+        "target": "Aveeno oatmeal bath",
+        "value": 3
+    },
+    {
+        "source": "popping",
+        "target": "Aveeno oatmeal bath",
+        "value": 4
+    },
+    {
+        "source": "HealthAnxiety",
+        "target": "Aveeno oatmeal bath",
+        "value": 11
+    },
+    {
+        "source": "Skin Relief Body",
+        "target": "weddingplanning",
+        "value": 4
+    },
+    {
+        "source": "face mask",
+        "target": "steroids",
+        "value": 3
+    },
+    {
+        "source": "face wash",
+        "target": "steroids",
+        "value": 5
+    },
+    {
+        "source": "dryskin",
+        "target": "cold water",
+        "value": 4
+    },
+    {
+        "source": "SkincareRehab",
+        "target": "eczema therapy cream",
+        "value": 3
+    },
+    {
+        "source": "steroids",
+        "target": "pillow case",
+        "value": 5
+    },
+    {
+        "source": "Allergies",
+        "target": "pillow case",
+        "value": 4
+    },
+    {
+        "source": "BabyBumps",
+        "target": "body wash",
+        "value": 2
+    },
+    {
+        "source": "TwoXChromosomes",
+        "target": "body wash",
+        "value": 2
+    },
+    {
+        "source": "depression",
+        "target": "body wash",
+        "value": 3
+    },
+    {
+        "source": "body butter",
+        "target": "Indiemakeupandmore",
+        "value": 4
+    },
+    {
+        "source": "aveeno soap",
+        "target": "Indiemakeupandmore",
+        "value": 6
+    },
+    {
+        "source": "Aveeno Baby Eczema",
+        "target": "Indiemakeupandmore",
+        "value": 2
+    },
+    {
+        "source": "educationalgifs",
+        "target": "tea tree oil",
+        "value": 3
+    },
+    {
+        "source": "malehairadvice",
+        "target": "tea tree oil",
+        "value": 3
+    },
+    {
+        "source": "BeardAdvice",
+        "target": "tea tree oil",
+        "value": 2
+    },
+    {
+        "source": "TransSupport",
+        "target": "tea tree oil",
+        "value": 3
+    },
+    {
+        "source": "Aveeno baby lotion",
+        "target": "UKBabyBumps",
+        "value": 8
+    },
+    {
+        "source": "dust mites",
+        "target": "dogs",
+        "value": 6
+    },
+    {
+        "source": "sulfate free shampoo",
+        "target": "dogs",
+        "value": 5
+    },
+    {
+        "source": "needadvice",
+        "target": "shea butter",
+        "value": 2
+    },
+    {
+        "source": "ADHD",
+        "target": "shea butter",
+        "value": 3
+    },
+    {
+        "source": "dryer sheets",
+        "target": "moderatelygranolamoms",
+        "value": 4
+    },
+    {
+        "source": "baby wash",
+        "target": "moderatelygranolamoms",
+        "value": 3
+    },
+    {
+        "source": "BabyBumps",
+        "target": "baby lotion",
+        "value": 3
+    },
+    {
+        "source": "SebDerm",
+        "target": "baby lotion",
+        "value": 4
+    },
+    {
+        "source": "coconut oil",
+        "target": "NaturalBeauty",
+        "value": 3
+    },
+    {
+        "source": "asktransgender",
+        "target": "Witch Hazel",
+        "value": 3
+    },
+    {
+        "source": "FreeCompliments",
+        "target": "Witch Hazel",
+        "value": 3
+    },
+    {
+        "source": "Cetaphil face",
+        "target": "infertility",
+        "value": 5
+    },
+    {
+        "source": "blogsnark",
+        "target": "Aveeno body",
+        "value": 3
+    },
+    {
+        "source": "Hair",
+        "target": "Aveeno body",
+        "value": 6
+    },
+    {
+        "source": "SkincareRehab",
+        "target": "eczema cream",
+        "value": 3
+    },
+    {
+        "source": "tattoos",
+        "target": "day use",
+        "value": 5
+    },
+    {
+        "source": "flare ups",
+        "target": "Hidradenitis",
+        "value": 4
+    },
+    {
+        "source": "birth control",
+        "target": "Hidradenitis",
+        "value": 3
+    },
+    {
+        "source": "laundry detergent",
+        "target": "teenmom",
+        "value": 3
+    },
+    {
+        "source": "dry shampoo",
+        "target": "teenmom",
+        "value": 6
+    },
+    {
+        "source": "spot treatment",
+        "target": "muacirclejerk",
+        "value": 3
+    },
+    {
+        "source": "Witch Hazel",
+        "target": "muacirclejerk",
+        "value": 3
+    },
+    {
+        "source": "FreeCompliments",
+        "target": "apple cider vinegar",
+        "value": 5
+    },
+    {
+        "source": "Sunscreen Lotion",
+        "target": "Pigmentation",
+        "value": 6
+    },
+    {
+        "source": "BeautyIndustryChatter",
+        "target": "tea tree",
+        "value": 2
+    },
+    {
+        "source": "MakeupRehab",
+        "target": "tea tree",
+        "value": 2
+    },
+    {
+        "source": "good moisturizer",
+        "target": "IAmA",
+        "value": 5
+    },
+    {
+        "source": "day time",
+        "target": "IAmA",
+        "value": 3
+    },
+    {
+        "source": "blogsnark",
+        "target": "body moisturizer",
+        "value": 3
+    },
+    {
+        "source": "Allergies",
+        "target": "body moisturizer",
+        "value": 3
+    },
+    {
+        "source": "dryer sheets",
+        "target": "Parenting",
+        "value": 2
+    },
+    {
+        "source": "food allergies",
+        "target": "Parenting",
+        "value": 6
+    },
+    {
+        "source": "Aveeno Baby Eczema",
+        "target": "Parenting",
+        "value": 3
+    },
+    {
+        "source": "whole body",
+        "target": "Parenting",
+        "value": 5
+    },
+    {
+        "source": "Parenting_Tips",
+        "target": "skin care products",
+        "value": 6
+    },
+    {
+        "source": "worldnews",
+        "target": "skin care products",
+        "value": 4
+    },
+    {
+        "source": "BeautyGuruChatter",
+        "target": "acne prone skin",
+        "value": 4
+    },
+    {
+        "source": "tretinoin",
+        "target": "other night",
+        "value": 4
+    },
+    {
+        "source": "Aveeno oatmeal bath",
+        "target": "Fibromyalgia",
+        "value": 6
+    },
+    {
+        "source": "SebDerm",
+        "target": "use Aveeno eczema",
+        "value": 6
+    },
+    {
+        "source": "CanSkincare",
+        "target": "CeraVe in the tub",
+        "value": 3
+    },
+    {
+        "source": "SkincareAddictionUK",
+        "target": "cetaphil lotion",
+        "value": 2
+    },
+    {
+        "source": "Mommit",
+        "target": "eczema lotion",
+        "value": 3
+    },
+    {
+        "source": "Hidradenitis",
+        "target": "eczema lotion",
+        "value": 5
+    },
+    {
+        "source": "teenmom",
+        "target": "eczema lotion",
+        "value": 4
+    },
+    {
+        "source": "Sunblock",
+        "target": "zinc oxide",
+        "value": 5
+    },
+    {
+        "source": "Pigmentation",
+        "target": "zinc oxide",
+        "value": 7
+    },
+    {
+        "source": "The_Donald",
+        "target": "zinc oxide",
+        "value": 7
+    },
+    {
+        "source": "laundry detergent",
+        "target": "medical",
+        "value": 2
+    },
+    {
+        "source": "BabyBumps",
+        "target": "baby soap",
+        "value": 2
+    },
+    {
+        "source": "breakingmom",
+        "target": "baby soap",
+        "value": 6
+    },
+    {
+        "source": "FormulaFeeders",
+        "target": "baby soap",
+        "value": 3
+    },
+    {
+        "source": "Philippines",
+        "target": "baby soap",
+        "value": 6
+    },
+    {
+        "source": "Healing Ointment",
+        "target": "AugustBumpers2017",
+        "value": 3
+    },
+    {
+        "source": "Aveeno baby lotion",
+        "target": "AugustBumpers2017",
+        "value": 3
+    },
+    {
+        "source": "Good luck",
+        "target": "FancyFollicles",
+        "value": 5
+    },
+    {
+        "source": "moisturizing lotion",
+        "target": "Wetshaving",
+        "value": 13
+    },
+    {
+        "source": "Aveeno body",
+        "target": "Accutane",
+        "value": 2
+    },
+    {
+        "source": "zinc oxide",
+        "target": "Accutane",
+        "value": 3
+    },
+    {
+        "source": "Body Shop",
+        "target": "malelifestyle",
+        "value": 5
+    },
+    {
+        "source": "Makeup",
+        "target": "setting spray",
+        "value": 5
+    },
+    {
+        "source": "2-3 times a week",
+        "target": "RandomActsofMakeup",
+        "value": 5
+    },
+    {
+        "source": "apple cider vinegar",
+        "target": "RandomActsofMakeup",
+        "value": 4
+    },
+    {
+        "source": "Aveeno Skin Relief",
+        "target": "dandruff",
+        "value": 6
+    },
+    {
+        "source": "malefashionadvice",
+        "target": "sun damage",
+        "value": 3
+    },
+    {
+        "source": "Aveeno Ultra",
+        "target": "January2017Bumpers",
+        "value": 3
+    },
+    {
+        "source": "Aveeno baby lotion",
+        "target": "January2017Bumpers",
+        "value": 4
+    },
+    {
+        "source": "cold water",
+        "target": "wicked_edge",
+        "value": 2
+    },
+    {
+        "source": "Accutane",
+        "target": "Aveeno Skin",
+        "value": 2
+    },
+    {
+        "source": "askgaybros",
+        "target": "Aveeno Skin",
+        "value": 3
+    },
+    {
+        "source": "worldnews",
+        "target": "Aveeno Skin",
+        "value": 3
+    },
+    {
+        "source": "NewParents",
+        "target": "CeraVe Moisturizing Cream",
+        "value": 4
+    },
+    {
+        "source": "malefashionadvice",
+        "target": "CeraVe Moisturizing Cream",
+        "value": 2
+    },
+    {
+        "source": "BB cream",
+        "target": "RandomActsOfAB",
+        "value": 4
+    },
+    {
+        "source": "Vitamin C serum",
+        "target": "RandomActsOfAB",
+        "value": 2
+    },
+    {
+        "source": "oil cleanser",
+        "target": "RandomActsOfAB",
+        "value": 2
+    },
+    {
+        "source": "ftm",
+        "target": "tiny bit",
+        "value": 4
+    },
+    {
+        "source": "eczema lotion",
+        "target": "AskParents",
+        "value": 4
+    },
+    {
+        "source": "Aveeno baby lotion",
+        "target": "AskParents",
+        "value": 3
+    },
+    {
+        "source": "needadvice",
+        "target": "moisturizing body wash",
+        "value": 4
+    },
+    {
+        "source": "past week",
+        "target": "xxketo",
+        "value": 5
+    },
+    {
+        "source": "PaleMUA",
+        "target": "light coverage",
+        "value": 2
+    },
+    {
+        "source": "MakeupRehab",
+        "target": "light coverage",
+        "value": 2
+    },
+    {
+        "source": "SkincareAddictionUK",
+        "target": "La Roche Posay",
+        "value": 2
+    },
+    {
+        "source": "DIYBeauty",
+        "target": "La Roche Posay",
+        "value": 4
+    },
+    {
+        "source": "aveeno soap",
+        "target": "clothdiaps",
+        "value": 6
+    },
+    {
+        "source": "Aveeno oatmeal bath",
+        "target": "clothdiaps",
+        "value": 5
+    },
+    {
+        "source": "baby lotion",
+        "target": "clothdiaps",
+        "value": 4
+    },
+    {
+        "source": "breakingmom",
+        "target": "Aveeno body wash",
+        "value": 2
+    },
+    {
+        "source": "tattoos",
+        "target": "Aveeno body wash",
+        "value": 4
+    },
+    {
+        "source": "CanSkincare",
+        "target": "Aveeno body wash",
+        "value": 4
+    },
+    {
+        "source": "todayilearned",
+        "target": "Aveeno body wash",
+        "value": 4
+    },
+    {
+        "source": "AustralianMakeup",
+        "target": "Aveeno body wash",
+        "value": 3
+    },
+    {
+        "source": "AskMen",
+        "target": "Aveeno body wash",
+        "value": 2
+    },
+    {
+        "source": "pillow case",
+        "target": "motorcycles",
+        "value": 6
+    },
+    {
+        "source": "MakeupAddicts",
+        "target": "Aveeno night",
+        "value": 6
+    },
+    {
+        "source": "skin condition",
+        "target": "JUSTNOMIL",
+        "value": 4
+    },
+    {
+        "source": "UnsentLetters",
+        "target": "last time",
+        "value": 11
+    },
+    {
+        "source": "LushCosmetics",
+        "target": "last time",
+        "value": 3
+    },
+    {
+        "source": "Wetshaving",
+        "target": "last time",
+        "value": 5
+    },
+    {
+        "source": "use aveeno lotion",
+        "target": "CasualConversation",
+        "value": 3
+    },
+    {
+        "source": "BB cream",
+        "target": "AskWomenOver30",
+        "value": 2
+    },
+    {
+        "source": "tinted moisturizer",
+        "target": "AskWomenOver30",
+        "value": 5
+    },
+    {
+        "source": "baby soap",
+        "target": "RATS",
+        "value": 6
+    },
+    {
+        "source": "tiny bit",
+        "target": "RATS",
+        "value": 6
+    },
+    {
+        "source": "starbucks",
+        "target": "use Aveeno moisturizer",
+        "value": 4
+    },
+    {
+        "source": "Aveeno Pure Renewal",
+        "target": "AskWomen",
+        "value": 4
+    },
+    {
+        "source": "body works",
+        "target": "AskWomen",
+        "value": 2
+    },
+    {
+        "source": "Pure Renewal Shampoo",
+        "target": "AskWomen",
+        "value": 3
+    },
+    {
+        "source": "DIYBeauty",
+        "target": "Stratia Liquid Gold",
+        "value": 2
+    },
+    {
+        "source": "askgaybros",
+        "target": "Stratia Liquid Gold",
+        "value": 3
+    },
+    {
+        "source": "Aveeno sensitive",
+        "target": "sex",
+        "value": 2
+    },
+    {
+        "source": "Dove soap",
+        "target": "sex",
+        "value": 2
+    },
+    {
+        "source": "baby shampoo",
+        "target": "sex",
+        "value": 2
+    },
+    {
+        "source": "baby lotion",
+        "target": "sex",
+        "value": 2
+    },
+    {
+        "source": "Aveeno night",
+        "target": "sex",
+        "value": 3
+    },
+    {
+        "source": "popping",
+        "target": "calamine lotion",
+        "value": 5
+    },
+    {
+        "source": "medical",
+        "target": "calamine lotion",
+        "value": 5
+    },
+    {
+        "source": "day time",
+        "target": "changemyview",
+        "value": 6
+    },
+    {
+        "source": "Dove soap",
+        "target": "newzealand",
+        "value": 6
+    },
+    {
+        "source": "skincareexchange",
+        "target": "use body wash",
+        "value": 6
+    },
+    {
+        "source": "daddit",
+        "target": "Aveeno Baby Eczema",
+        "value": 2
+    },
+    {
+        "source": "Aveeno eczema care",
+        "target": "Skincare_Addiction",
+        "value": 2
+    },
+    {
+        "source": "LushCosmetics",
+        "target": "face cleanser",
+        "value": 2
+    },
+    {
+        "source": "Parenting_Tips",
+        "target": "baby eczema lotion",
+        "value": 5
+    },
+    {
+        "source": "xxketo",
+        "target": "baby eczema lotion",
+        "value": 5
+    },
+    {
+        "source": "JUSTNOMIL",
+        "target": "baby eczema lotion",
+        "value": 4
+    },
+    {
+        "source": "daddit",
+        "target": "baby eczema lotion",
+        "value": 6
+    },
+    {
+        "source": "beyondthebump",
+        "target": "baby eczema lotion",
+        "value": 4
+    },
+    {
+        "source": "FormulaFeeders",
+        "target": "baby eczema lotion",
+        "value": 3
+    },
+    {
+        "source": "Aveeno face",
+        "target": "Costco",
+        "value": 4
+    },
+    {
+        "source": "whole body",
+        "target": "foreskin_restoration",
+        "value": 5
+    },
+    {
+        "source": "body wash",
+        "target": "Target",
+        "value": 3
+    },
+    {
+        "source": "Aveeno oatmeal",
+        "target": "TalesFromRetail",
+        "value": 10
+    },
+    {
+        "source": "eczema cream",
+        "target": "Dermatology",
+        "value": 2
+    },
+    {
+        "source": "gonewildstories",
+        "target": "eye cream",
+        "value": 2
+    },
+    {
+        "source": "Shoplifting",
+        "target": "eye cream",
+        "value": 4
+    },
+    {
+        "source": "BravoRealHousewives",
+        "target": "eye cream",
+        "value": 4
+    },
+    {
+        "source": "MakeupRehab",
+        "target": "eye cream",
+        "value": 3
+    },
+    {
+        "source": "CasualConversation",
+        "target": "hydrating toner",
+        "value": 3
+    },
+    {
+        "source": "Sunblock",
+        "target": "titanium dioxide",
+        "value": 4
+    },
+    {
+        "source": "Pigmentation",
+        "target": "titanium dioxide",
+        "value": 8
+    },
+    {
+        "source": "OCD",
+        "target": "Therapy Moisturizing Cream",
+        "value": 4
+    },
+    {
+        "source": "science",
+        "target": "Therapy Moisturizing Cream",
+        "value": 2
+    },
+    {
+        "source": "eczema lotion",
+        "target": "bigboobproblems",
+        "value": 7
+    },
+    {
+        "source": "Hedgehogs",
+        "target": "Vitamin E",
+        "value": 2
+    },
+    {
+        "source": "BeardAdvice",
+        "target": "Vitamin E",
+        "value": 3
+    },
+    {
+        "source": "powerlifting",
+        "target": "Vitamin E",
+        "value": 9
+    },
+    {
+        "source": "fragrance",
+        "target": "Vitamin E",
+        "value": 2
+    },
+    {
+        "source": "Psoriasis",
+        "target": "Vitamin D",
+        "value": 4
+    },
+    {
+        "source": "InfertilityBabies",
+        "target": "Vitamin D",
+        "value": 9
+    },
+    {
+        "source": "Accutane",
+        "target": "Vitamin D",
+        "value": 2
+    },
+    {
+        "source": "childfree",
+        "target": "Vitamin D",
+        "value": 5
+    },
+    {
+        "source": "CC cream",
+        "target": "MakeupEducation",
+        "value": 5
+    },
+    {
+        "source": "BB cream",
+        "target": "MakeupEducation",
+        "value": 3
+    },
+    {
+        "source": "MakeupAddicts",
+        "target": "moisturizer Night",
+        "value": 4
+    },
+    {
+        "source": "sulfate free shampoo",
+        "target": "HaircareScience",
+        "value": 5
+    },
+    {
+        "source": "Aveeno Active Naturals",
+        "target": "HaircareScience",
+        "value": 4
+    },
+    {
+        "source": "Aveeno Pure Renewal",
+        "target": "HaircareScience",
+        "value": 12
+    },
+    {
+        "source": "Pure Renewal Shampoo",
+        "target": "HaircareScience",
+        "value": 13
+    },
+    {
+        "source": "dry shampoo",
+        "target": "HaircareScience",
+        "value": 3
+    },
+    {
+        "source": "DumpsterDiving",
+        "target": "Aveeno lotion",
+        "value": 3
+    },
+    {
+        "source": "askTO",
+        "target": "Aveeno lotion",
+        "value": 2
+    },
+    {
+        "source": "PiercedCock",
+        "target": "Aveeno lotion",
+        "value": 3
+    },
+    {
+        "source": "90DayFiance",
+        "target": "Aveeno lotion",
+        "value": 5
+    },
+    {
+        "source": "Rateme",
+        "target": "Aveeno lotion",
+        "value": 3
+    },
+    {
+        "source": "amazon",
+        "target": "Aveeno lotion",
+        "value": 3
+    },
+    {
+        "source": "motorcycles",
+        "target": "Aveeno lotion",
+        "value": 2
+    },
+    {
+        "source": "news",
+        "target": "Aveeno lotion",
+        "value": 3
+    },
+    {
+        "source": "badwomensanatomy",
+        "target": "Aveeno lotion",
+        "value": 3
+    },
+    {
+        "source": "kratom",
+        "target": "Aveeno lotion",
+        "value": 3
+    },
+    {
+        "source": "ibs",
+        "target": "Aveeno lotion",
+        "value": 2
+    },
+    {
+        "source": "piercing",
+        "target": "Aveeno lotion",
+        "value": 3
+    },
+    {
+        "source": "todayilearned",
+        "target": "Aveeno lotion",
+        "value": 3
+    },
+    {
+        "source": "EDC",
+        "target": "Aveeno lotion",
+        "value": 3
+    },
+    {
+        "source": "movies",
+        "target": "Aveeno lotion",
+        "value": 3
+    },
+    {
+        "source": "ladyshavers",
+        "target": "Aveeno lotion",
+        "value": 2
+    },
+    {
+        "source": "face cleanser",
+        "target": "January2018Bumpers",
+        "value": 9
+    },
+    {
+        "source": "Aveeno Eczema Therapy",
+        "target": "cancer",
+        "value": 3
+    },
+    {
+        "source": "eczema therapy cream",
+        "target": "cancer",
+        "value": 7
+    },
+    {
+        "source": "use Aquaphor",
+        "target": "xxfitness",
+        "value": 4
+    },
+    {
+        "source": "2-3 times a week",
+        "target": "xxfitness",
+        "value": 4
+    },
+    {
+        "source": "use Aveeno body",
+        "target": "xxfitness",
+        "value": 5
+    },
+    {
+        "source": "Aveeno body wash",
+        "target": "xxfitness",
+        "value": 2
+    },
+    {
+        "source": "BeautyRecap",
+        "target": "face cream",
+        "value": 5
+    },
+    {
+        "source": "Costco",
+        "target": "face cream",
+        "value": 6
+    },
+    {
+        "source": "keto",
+        "target": "face cream",
+        "value": 3
+    },
+    {
+        "source": "worldnews",
+        "target": "face cream",
+        "value": 5
+    },
+    {
+        "source": "BeautyIndustryChatter",
+        "target": "face cream",
+        "value": 3
+    },
+    {
+        "source": "good moisturizer",
+        "target": "SubredditSimulator",
+        "value": 9
+    },
+    {
+        "source": "Aveeno Pure Renewal",
+        "target": "femalefashionadvice",
+        "value": 2
+    },
+    {
+        "source": "face lotion",
+        "target": "femalefashionadvice",
+        "value": 5
+    },
+    {
+        "source": "body wash",
+        "target": "BeautyBoxes",
+        "value": 2
+    },
+    {
+        "source": "dry shampoo",
+        "target": "BeautyBoxes",
+        "value": 4
+    },
+    {
+        "source": "Aveeno eczema cream",
+        "target": "BeautyBoxes",
+        "value": 2
+    },
+    {
+        "source": "shower gel",
+        "target": "ParisComments",
+        "value": 4
+    },
+    {
+        "source": "Body Shop",
+        "target": "ParisComments",
+        "value": 5
+    },
+    {
+        "source": "flare ups",
+        "target": "cycling",
+        "value": 7
+    },
+    {
+        "source": "korea",
+        "target": "body lotion",
+        "value": 3
+    },
+    {
+        "source": "MakeupRehab",
+        "target": "body lotion",
+        "value": 2
+    },
+    {
+        "source": "steroid cream",
+        "target": "Dyshidrosis",
+        "value": 2
+    },
+    {
+        "source": "Aveeno lotion",
+        "target": "Dyshidrosis",
+        "value": 3
+    },
+    {
+        "source": "steroid cream",
+        "target": "Guitar",
+        "value": 5
+    },
+    {
+        "source": "body lotion",
+        "target": "Blackfellas",
+        "value": 3
+    },
+    {
+        "source": "past week",
+        "target": "KoreanBeauty",
+        "value": 5
+    },
+    {
+        "source": "Aveeno face",
+        "target": "KoreanBeauty",
+        "value": 3
+    },
+    {
+        "source": "face cream",
+        "target": "KoreanBeauty",
+        "value": 4
+    },
+    {
+        "source": "Sunscreen Lotion",
+        "target": "KoreanBeauty",
+        "value": 4
+    },
+    {
+        "source": "dryer sheets",
+        "target": "fatlogic",
+        "value": 3
+    },
+    {
+        "source": "Dove soap",
+        "target": "fatlogic",
+        "value": 2
+    },
+    {
+        "source": "Aveeno oatmeal",
+        "target": "fatlogic",
+        "value": 2
+    },
+    {
+        "source": "eczema cream",
+        "target": "fatlogic",
+        "value": 6
+    },
+    {
+        "source": "Aveeno Skin",
+        "target": "fatlogic",
+        "value": 3
+    },
+    {
+        "source": "use Aquaphor",
+        "target": "ehlersdanlos",
+        "value": 2
+    },
+    {
+        "source": "body wash",
+        "target": "ehlersdanlos",
+        "value": 2
+    },
+    {
+        "source": "Aveeno night",
+        "target": "ehlersdanlos",
+        "value": 2
+    },
+    {
+        "source": "BeautyGuruChatter",
+        "target": "bad eczema",
+        "value": 2
+    },
+    {
+        "source": "eczema therapy cream",
+        "target": "gay",
+        "value": 2
+    },
+    {
+        "source": "CC cream",
+        "target": "MakeupAddiction",
+        "value": 3
+    },
+    {
+        "source": "powder foundation",
+        "target": "MakeupAddiction",
+        "value": 3
+    },
+    {
+        "source": "BB cream",
+        "target": "MakeupAddiction",
+        "value": 4
+    },
+    {
+        "source": "Estee Lauder",
+        "target": "MakeupAddiction",
+        "value": 3
+    },
+    {
+        "source": "tinted moisturizer",
+        "target": "MakeupAddiction",
+        "value": 4
+    },
+    {
+        "source": "setting spray",
+        "target": "MakeupAddiction",
+        "value": 6
+    },
+    {
+        "source": "light coverage",
+        "target": "MakeupAddiction",
+        "value": 4
+    },
+    {
+        "source": "gay",
+        "target": "cleansing pads",
+        "value": 3
+    },
+    {
+        "source": "TheGirlSurvivalGuide",
+        "target": "cleansing pads",
+        "value": 9
+    },
+    {
+        "source": "Good luck",
+        "target": "teenagers",
+        "value": 2
+    },
+    {
+        "source": "CeraVe in the tub",
+        "target": "teenagers",
+        "value": 4
+    },
+    {
+        "source": "body lotion",
+        "target": "teenagers",
+        "value": 2
+    },
+    {
+        "source": "Aveeno lotion",
+        "target": "Unexpected",
+        "value": 3
+    },
+    {
+        "source": "sulfate free shampoo",
+        "target": "curlyhair",
+        "value": 9
+    },
+    {
+        "source": "Aveeno Pure Renewal",
+        "target": "curlyhair",
+        "value": 15
+    },
+    {
+        "source": "Pure Renewal Shampoo",
+        "target": "curlyhair",
+        "value": 7
+    },
+    {
+        "source": "trees",
+        "target": "Aveeno Ultra Calming",
+        "value": 2
+    },
+    {
+        "source": "AskWomenOver30",
+        "target": "Aveeno Ultra Calming",
+        "value": 3
+    },
+    {
+        "source": "Rosacea",
+        "target": "Aveeno Ultra Calming",
+        "value": 3
+    },
+    {
+        "source": "InfertilityBabies",
+        "target": "Aveeno baby lotion",
+        "value": 3
+    },
+    {
+        "source": "daddit",
+        "target": "Aveeno baby lotion",
+        "value": 4
+    },
+    {
+        "source": "cold water",
+        "target": "instant_regret",
+        "value": 4
+    },
+    {
+        "source": "lukewarm water",
+        "target": "instant_regret",
+        "value": 4
+    },
+    {
+        "source": "Aveeno baby lotion",
+        "target": "ABDL",
+        "value": 8
+    },
+    {
+        "source": "beyondthebump",
+        "target": "baby eczema cream",
+        "value": 3
+    },
+    {
+        "source": "FormulaFeeders",
+        "target": "baby eczema cream",
+        "value": 4
+    },
+    {
+        "source": "weddingplanning",
+        "target": "complexion foaming cleanser",
+        "value": 3
+    },
+    {
+        "source": "tretinoin",
+        "target": "complexion foaming cleanser",
+        "value": 2
+    },
+    {
+        "source": "weddingplanning",
+        "target": "Clear Complexion Foaming",
+        "value": 3
+    },
+    {
+        "source": "Aveeno Active Naturals",
+        "target": "Herpes",
+        "value": 8
+    },
+    {
+        "source": "SkincareAddictionUK",
+        "target": "Aveeno face wash",
+        "value": 2
+    },
+    {
+        "source": "minimalism",
+        "target": "Aveeno face wash",
+        "value": 4
+    },
+    {
+        "source": "IFseniorclass",
+        "target": "Aveeno face wash",
+        "value": 5
+    },
+    {
+        "source": "cold water",
+        "target": "MtF",
+        "value": 2
+    },
+    {
+        "source": "shea butter",
+        "target": "MtF",
+        "value": 3
+    },
+    {
+        "source": "Parenting_Tips",
+        "target": "baby eczema",
+        "value": 5
+    },
+    {
+        "source": "beyondthebump",
+        "target": "baby eczema",
+        "value": 6
+    },
+    {
+        "source": "FormulaFeeders",
+        "target": "baby eczema",
+        "value": 8
+    },
+    {
+        "source": "cerave lotion",
+        "target": "personalfinance",
+        "value": 5
+    },
+    {
+        "source": "face cream",
+        "target": "personalfinance",
+        "value": 4
+    },
+    {
+        "source": "face lotion",
+        "target": "personalfinance",
+        "value": 3
+    },
+    {
+        "source": "body wash",
+        "target": "funny",
+        "value": 2
+    },
+    {
+        "source": "use body wash",
+        "target": "funny",
+        "value": 4
+    },
+    {
+        "source": "titanium dioxide",
+        "target": "funny",
+        "value": 3
+    },
+    {
+        "source": "shower gel",
+        "target": "funny",
+        "value": 5
+    },
+    {
+        "source": "Estee Lauder",
+        "target": "australia",
+        "value": 5
+    },
+    {
+        "source": "day use",
+        "target": "australia",
+        "value": 6
+    },
+    {
+        "source": "dust mites",
+        "target": "eczema",
+        "value": 3
+    },
+    {
+        "source": "oatmeal baths",
+        "target": "eczema",
+        "value": 5
+    },
+    {
+        "source": "steroid cream",
+        "target": "eczema",
+        "value": 7
+    },
+    {
+        "source": "Aveeno Eczema",
+        "target": "eczema",
+        "value": 3
+    },
+    {
+        "source": "Aveeno Eczema Therapy",
+        "target": "eczema",
+        "value": 3
+    },
+    {
+        "source": "Good luck",
+        "target": "eczema",
+        "value": 3
+    },
+    {
+        "source": "eczema lotion",
+        "target": "eczema",
+        "value": 2
+    },
+    {
+        "source": "Vitamin D",
+        "target": "eczema",
+        "value": 3
+    },
+    {
+        "source": "flare ups",
+        "target": "eczema",
+        "value": 4
+    },
+    {
+        "source": "cold showers",
+        "target": "eczema",
+        "value": 3
+    },
+    {
+        "source": "OCD",
+        "target": "Eczema Therapy Moisturizing",
+        "value": 4
+    },
+    {
+        "source": "science",
+        "target": "Eczema Therapy Moisturizing",
+        "value": 2
+    },
+    {
+        "source": "Allergies",
+        "target": "Elta MD",
+        "value": 4
+    },
+    {
+        "source": "CC cream",
+        "target": "drugstoreMUA",
+        "value": 6
+    },
+    {
+        "source": "BB cream",
+        "target": "drugstoreMUA",
+        "value": 9
+    },
+    {
+        "source": "light coverage",
+        "target": "drugstoreMUA",
+        "value": 2
+    },
+    {
+        "source": "tea tree",
+        "target": "migraine",
+        "value": 6
+    },
+    {
+        "source": "baby lotion",
+        "target": "casualMUA",
+        "value": 6
+    },
+    {
+        "source": "use Aveeno eczema",
+        "target": "CompulsiveSkinPicking",
+        "value": 5
+    },
+    {
+        "source": "Aveeno Skin Relief",
+        "target": "CompulsiveSkinPicking",
+        "value": 2
+    },
+    {
+        "source": "eczema cream",
+        "target": "awfuleverything",
+        "value": 11
+    },
+    {
+        "source": "acne treatment",
+        "target": "buzzfeedbot",
+        "value": 6
+    },
+    {
+        "source": "body moisturizer",
+        "target": "buzzfeedbot",
+        "value": 3
+    },
+    {
+        "source": "face lotion",
+        "target": "buzzfeedbot",
+        "value": 2
+    },
+    {
+        "source": "CC cream",
+        "target": "VeganBeauty",
+        "value": 8
+    },
+    {
+        "source": "tiny bit",
+        "target": "abdiscussion",
+        "value": 2
+    },
+    {
+        "source": "hydrating toner",
+        "target": "abdiscussion",
+        "value": 2
+    },
+    {
+        "source": "use a cleanser",
+        "target": "abdiscussion",
+        "value": 2
+    },
+    {
+        "source": "use aveeno lotion",
+        "target": "lupus",
+        "value": 9
+    },
+    {
+        "source": "crossdressing",
+        "target": "face lotion",
+        "value": 5
+    },
+    {
+        "source": "malefashionadvice",
+        "target": "wash cloth",
+        "value": 3
+    },
+    {
+        "source": "FormulaFeeders",
+        "target": "wash cloth",
+        "value": 3
+    },
+    {
+        "source": "TransSupport",
+        "target": "wash cloth",
+        "value": 2
+    },
+    {
+        "source": "SebDerm",
+        "target": "wash cloth",
+        "value": 3
+    },
+    {
+        "source": "nursing",
+        "target": "wash cloth",
+        "value": 4
+    },
+    {
+        "source": "PaleMUA",
+        "target": "Hada Labo",
+        "value": 3
+    },
+    {
+        "source": "tretinoin",
+        "target": "Hada Labo",
+        "value": 3
+    },
+    {
+        "source": "RandomActsOfAB",
+        "target": "oil control",
+        "value": 4
+    },
+    {
+        "source": "SkincareAddictionUK",
+        "target": "left side",
+        "value": 2
+    },
+    {
+        "source": "Wetshaving",
+        "target": "left side",
+        "value": 20
+    },
+    {
+        "source": "nursing",
+        "target": "left side",
+        "value": 16
+    },
+    {
+        "source": "Aveeno Baby Eczema",
+        "target": "breastfeeding",
+        "value": 3
+    },
+    {
+        "source": "baby eczema lotion",
+        "target": "breastfeeding",
+        "value": 4
+    },
+    {
+        "source": "baby eczema cream",
+        "target": "breastfeeding",
+        "value": 5
+    },
+    {
+        "source": "wash cloth",
+        "target": "breastfeeding",
+        "value": 3
+    },
+    {
+        "source": "SantasLittleHelpers",
+        "target": "acne wash",
+        "value": 8
+    },
+    {
+        "source": "moisturizing lotion",
+        "target": "rupaulsdragrace",
+        "value": 3
+    },
+    {
+        "source": "wicked_edge",
+        "target": "use Aveeno",
+        "value": 2
+    },
+    {
+        "source": "foreskin_restoration",
+        "target": "use Aveeno",
+        "value": 3
+    },
+    {
+        "source": "curlyhair",
+        "target": "use Aveeno",
+        "value": 3
+    },
+    {
+        "source": "Aveeno face wash",
+        "target": "TrollXOver30",
+        "value": 8
+    },
+    {
+        "source": "Aveeno baby lotion",
+        "target": "quityourbullshit",
+        "value": 8
+    },
+    {
+        "source": "MakeupRehab",
+        "target": "dry shampoo",
+        "value": 9
+    },
+    {
+        "source": "oatmeal baths",
+        "target": "Advice",
+        "value": 9
+    },
+    {
+        "source": "Aveeno Skin",
+        "target": "Advice",
+        "value": 3
+    },
+    {
+        "source": "AugustBumpers2017",
+        "target": "skin relief lotion",
+        "value": 5
+    },
+    {
+        "source": "AustralianMakeup",
+        "target": "skin relief lotion",
+        "value": 5
+    },
+    {
+        "source": "Aveeno lotion",
+        "target": "circumcision",
+        "value": 2
+    },
+    {
+        "source": "tretinoin",
+        "target": "Vit C",
+        "value": 3
+    },
+    {
+        "source": "body wash",
+        "target": "Frugal",
+        "value": 3
+    },
+    {
+        "source": "Aveeno eczema care",
+        "target": "Frugal",
+        "value": 6
+    },
+    {
+        "source": "use Aveeno eczema",
+        "target": "Frugal",
+        "value": 4
+    },
+    {
+        "source": "bad eczema",
+        "target": "Frugal",
+        "value": 3
+    },
+    {
+        "source": "face lotion",
+        "target": "Frugal",
+        "value": 2
+    },
+    {
+        "source": "dryer sheets",
+        "target": "FragranceFreeLife",
+        "value": 3
+    },
+    {
+        "source": "CeraVe Moisturizing Cream",
+        "target": "FragranceFreeLife",
+        "value": 5
+    },
+    {
+        "source": "PCOS",
+        "target": "Shea Moisture",
+        "value": 4
+    },
+    {
+        "source": "curlyhair",
+        "target": "Shea Moisture",
+        "value": 5
+    },
+    {
+        "source": "powder foundation",
+        "target": "Makeup101",
+        "value": 6
+    },
+    {
+        "source": "couple times a week",
+        "target": "Makeup101",
+        "value": 5
+    },
+    {
+        "source": "setting spray",
+        "target": "Makeup101",
+        "value": 2
+    },
+    {
+        "source": "moisturizing lotion",
+        "target": "markyjoe",
+        "value": 3
+    },
+    {
+        "source": "CC cream",
+        "target": "makeupexchange",
+        "value": 3
+    },
+    {
+        "source": "body oil",
+        "target": "makeupexchange",
+        "value": 3
+    },
+    {
+        "source": "powder foundation",
+        "target": "makeupexchange",
+        "value": 4
+    },
+    {
+        "source": "BB cream",
+        "target": "makeupexchange",
+        "value": 5
+    },
+    {
+        "source": "Estee Lauder",
+        "target": "makeupexchange",
+        "value": 4
+    },
+    {
+        "source": "tinted moisturizer",
+        "target": "makeupexchange",
+        "value": 3
+    },
+    {
+        "source": "setting spray",
+        "target": "makeupexchange",
+        "value": 5
+    },
+    {
+        "source": "La Roche Posay",
+        "target": "makeupexchange",
+        "value": 2
+    },
+    {
+        "source": "Skin Relief",
+        "target": "makeupexchange",
+        "value": 4
+    },
+    {
+        "source": "sunscreen SPF",
+        "target": "makeupexchange",
+        "value": 2
+    },
+    {
+        "source": "Aveeno Eczema Therapy",
+        "target": "Moustache",
+        "value": 3
+    },
+    {
+        "source": "use Aveeno eczema",
+        "target": "Moustache",
+        "value": 8
+    },
+    {
+        "source": "aveeno soap",
+        "target": "gifs",
+        "value": 8
+    },
+    {
+        "source": "Shea Moisture",
+        "target": "RedPillWomen",
+        "value": 12
+    },
+    {
+        "source": "SkincareAddictionUK",
+        "target": "love Aveeno",
+        "value": 3
+    },
+    {
+        "source": "Fibromyalgia",
+        "target": "love Aveeno",
+        "value": 4
+    },
+    {
+        "source": "January2017Bumpers",
+        "target": "love Aveeno",
+        "value": 4
+    },
+    {
+        "source": "SaltLakeCity",
+        "target": "love Aveeno",
+        "value": 6
+    },
+    {
+        "source": "Makeup",
+        "target": "love Aveeno",
+        "value": 3
+    },
+    {
+        "source": "Philippines",
+        "target": "love Aveeno",
+        "value": 4
+    },
+    {
+        "source": "casualMUA",
+        "target": "problem areas",
+        "value": 8
+    },
+    {
+        "source": "powder foundation",
+        "target": "frugalbeauty",
+        "value": 5
+    },
+    {
+        "source": "Shea Moisture",
+        "target": "frugalbeauty",
+        "value": 6
+    },
+    {
+        "source": "polandball",
+        "target": "hand cream",
+        "value": 4
+    },
+    {
+        "source": "RedditLaqueristas",
+        "target": "hand cream",
+        "value": 5
+    },
+    {
+        "source": "blogsnark",
+        "target": "hand cream",
+        "value": 2
+    },
+    {
+        "source": "AsianBeautyRehab",
+        "target": "hand cream",
+        "value": 9
+    },
+    {
+        "source": "medicine",
+        "target": "hand cream",
+        "value": 4
+    },
+    {
+        "source": "SkincareRehab",
+        "target": "hand cream",
+        "value": 4
+    },
+    {
+        "source": "ecommerce",
+        "target": "hand cream",
+        "value": 4
+    },
+    {
+        "source": "makeupexchange",
+        "target": "hand cream",
+        "value": 2
+    },
+    {
+        "source": "MakeupRehab",
+        "target": "hand cream",
+        "value": 7
+    },
+    {
+        "source": "calamine lotion",
+        "target": "Septemberbumpers2017",
+        "value": 5
+    },
+    {
+        "source": "Vitamin E",
+        "target": "Septemberbumpers2017",
+        "value": 2
+    },
+    {
+        "source": "body lotion",
+        "target": "Septemberbumpers2017",
+        "value": 3
+    },
+    {
+        "source": "Aveeno eczema cream",
+        "target": "Septemberbumpers2017",
+        "value": 3
+    },
+    {
+        "source": "dryer sheets",
+        "target": "AskReddit",
+        "value": 3
+    },
+    {
+        "source": "Aveeno body wash",
+        "target": "AskReddit",
+        "value": 3
+    },
+    {
+        "source": "Aveeno lotion",
+        "target": "AskReddit",
+        "value": 4
+    },
+    {
+        "source": "bad eczema",
+        "target": "AskReddit",
+        "value": 2
+    },
+    {
+        "source": "Aveeno Eczema",
+        "target": "Hypothyroidism",
+        "value": 2
+    },
+    {
+        "source": "food allergies",
+        "target": "Hypothyroidism",
+        "value": 4
+    },
+    {
+        "source": "Aveeno oatmeal bath",
+        "target": "Hypothyroidism",
+        "value": 5
+    },
+    {
+        "source": "Aveeno face",
+        "target": "Hypothyroidism",
+        "value": 2
+    },
+    {
+        "source": "Good luck",
+        "target": "japanlife",
+        "value": 3
+    },
+    {
+        "source": "NewParents",
+        "target": "Aveeno baby",
+        "value": 3
+    },
+    {
+        "source": "freebies",
+        "target": "Aveeno baby",
+        "value": 4
+    },
+    {
+        "source": "PCOS",
+        "target": "Aveeno baby",
+        "value": 3
+    },
+    {
+        "source": "BPD",
+        "target": "Aveeno baby",
+        "value": 4
+    },
+    {
+        "source": "AugustBumpers2017",
+        "target": "Aveeno baby",
+        "value": 3
+    },
+    {
+        "source": "MakeupAddictionCanada",
+        "target": "Aveeno baby",
+        "value": 3
+    },
+    {
+        "source": "medical_advice",
+        "target": "Aveeno baby",
+        "value": 4
+    },
+    {
+        "source": "beyondthebump",
+        "target": "Aveeno baby",
+        "value": 3
+    },
+    {
+        "source": "ferrets",
+        "target": "Aveeno baby",
+        "value": 3
+    },
+    {
+        "source": "Aveeno lotion",
+        "target": "May2017Bumpers",
+        "value": 3
+    },
+    {
+        "source": "Vitamin E",
+        "target": "30PlusSkinCare",
+        "value": 2
+    },
+    {
+        "source": "Hirsutism",
+        "target": "ingrown hairs",
+        "value": 10
+    },
+    {
+        "source": "asktransgender",
+        "target": "ingrown hairs",
+        "value": 4
+    },
+    {
+        "source": "Velo",
+        "target": "ingrown hairs",
+        "value": 11
+    },
+    {
+        "source": "instant_regret",
+        "target": "ingrown hairs",
+        "value": 5
+    },
+    {
+        "source": "CompulsiveSkinPicking",
+        "target": "ingrown hairs",
+        "value": 5
+    },
+    {
+        "source": "TwoXSex",
+        "target": "ingrown hairs",
+        "value": 11
+    },
+    {
+        "source": "TransSupport",
+        "target": "ingrown hairs",
+        "value": 6
+    },
+    {
+        "source": "NaturalBeauty",
+        "target": "Aveeno foaming",
+        "value": 3
+    },
+    {
+        "source": "BuyItForLife",
+        "target": "Aveeno foaming",
+        "value": 6
+    },
+    {
+        "source": "askgaybros",
+        "target": "Aveeno foaming",
+        "value": 3
+    },
+    {
+        "source": "transpassing",
+        "target": "CeraVe foaming cleanser",
+        "value": 6
+    },
+    {
+        "source": "FragranceFreeLife",
+        "target": "CeraVe foaming cleanser",
+        "value": 2
+    },
+    {
+        "source": "spot treatment",
+        "target": "SkincareAddiction",
+        "value": 3
+    },
+    {
+        "source": "Witch Hazel",
+        "target": "SkincareAddiction",
+        "value": 2
+    },
+    {
+        "source": "birth control",
+        "target": "SkincareAddiction",
+        "value": 3
+    },
+    {
+        "source": "RandomActsofMakeup",
+        "target": "Mario Badescu",
+        "value": 6
+    },
+    {
+        "source": "makeupexchange",
+        "target": "Mario Badescu",
+        "value": 3
+    },
+    {
+        "source": "day use",
+        "target": "Albuquerque",
+        "value": 5
+    },
+    {
+        "source": "Ultra Repair Cream",
+        "target": "Albuquerque",
+        "value": 6
+    },
+    {
+        "source": "NoStupidQuestions",
+        "target": "Relief Body Wash",
+        "value": 5
+    },
+    {
+        "source": "weddingplanning",
+        "target": "Relief Body Wash",
+        "value": 5
+    },
+    {
+        "source": "science",
+        "target": "Relief Body Wash",
+        "value": 4
+    },
+    {
+        "source": "hand cream",
+        "target": "Gifts",
+        "value": 4
+    },
+    {
+        "source": "Aveeno Pure Renewal",
+        "target": "MUAontheCheap",
+        "value": 5
+    },
+    {
+        "source": "Aveeno Eczema Therapy",
+        "target": "MUAontheCheap",
+        "value": 2
+    },
+    {
+        "source": "eczema therapy cream",
+        "target": "MUAontheCheap",
+        "value": 6
+    },
+    {
+        "source": "Pure Renewal Shampoo",
+        "target": "MUAontheCheap",
+        "value": 6
+    },
+    {
+        "source": "Aveeno Eczema",
+        "target": "lifehacks",
+        "value": 4
+    },
+    {
+        "source": "australia",
+        "target": "St Ives",
+        "value": 5
+    },
+    {
+        "source": "AsianBeautyAdvice",
+        "target": "CeraVe Hydrating Cleanser",
+        "value": 2
+    },
+    {
+        "source": "Good luck",
+        "target": "femalehairadvice",
+        "value": 3
+    },
+    {
+        "source": "use Aveeno body",
+        "target": "aspergirls",
+        "value": 5
+    },
+    {
+        "source": "Aveeno body wash",
+        "target": "aspergirls",
+        "value": 3
+    },
+    {
+        "source": "Cerave cleanser",
+        "target": "OkCupid",
+        "value": 7
+    },
+    {
+        "source": "CeraVe AM",
+        "target": "OkCupid",
+        "value": 6
+    },
+    {
+        "source": "Showerthoughts",
+        "target": "Aveeno oatmeal lotion",
+        "value": 11
+    },
+    {
+        "source": "BeautyGuruChatter",
+        "target": "Aveeno oatmeal lotion",
+        "value": 3
+    },
+    {
+        "source": "Dermatology",
+        "target": "Aveeno oatmeal lotion",
+        "value": 3
+    },
+    {
+        "source": "ABraThatFits",
+        "target": "Aveeno oatmeal lotion",
+        "value": 11
+    },
+    {
+        "source": "LifeProTips",
+        "target": "Aveeno oatmeal lotion",
+        "value": 11
+    },
+    {
+        "source": "water a day",
+        "target": "AusSkincare",
+        "value": 2
+    },
+    {
+        "source": "couple times a week",
+        "target": "AusSkincare",
+        "value": 2
+    },
+    {
+        "source": "La Roche Posay",
+        "target": "AusSkincare",
+        "value": 3
+    },
+    {
+        "source": "body oil",
+        "target": "NordicSkinCare",
+        "value": 4
+    },
+    {
+        "source": "face mask",
+        "target": "NordicSkinCare",
+        "value": 2
+    },
+    {
+        "source": "day time",
+        "target": "NordicSkinCare",
+        "value": 2
+    },
+    {
+        "source": "coconut oil",
+        "target": "NordicSkinCare",
+        "value": 2
+    },
+    {
+        "source": "Mario Badescu",
+        "target": "NordicSkinCare",
+        "value": 2
+    },
+    {
+        "source": "body oil",
+        "target": "AussieMakeupExchange",
+        "value": 6
+    },
+    {
+        "source": "Cetaphil Gentle Skin",
+        "target": "AussieMakeupExchange",
+        "value": 3
+    },
+    {
+        "source": "micellar water",
+        "target": "AussieMakeupExchange",
+        "value": 2
+    },
+    {
+        "source": "eye cream",
+        "target": "AussieMakeupExchange",
+        "value": 2
+    },
+    {
+        "source": "Vitamin E",
+        "target": "AussieMakeupExchange",
+        "value": 4
+    },
+    {
+        "source": "face cream",
+        "target": "AussieMakeupExchange",
+        "value": 2
+    },
+    {
+        "source": "foaming cleanser",
+        "target": "AussieMakeupExchange",
+        "value": 4
+    },
+    {
+        "source": "hand cream",
+        "target": "AussieMakeupExchange",
+        "value": 2
+    },
+    {
+        "source": "Gentle Skin Cleanser",
+        "target": "AussieMakeupExchange",
+        "value": 3
+    },
+    {
+        "source": "BabyBumps",
+        "target": "use coconut oil",
+        "value": 4
+    },
+    {
+        "source": "AsianBeautyRehab",
+        "target": "use coconut oil",
+        "value": 2
+    },
+    {
+        "source": "Mommit",
+        "target": "use coconut oil",
+        "value": 2
+    },
+    {
+        "source": "vegan",
+        "target": "use coconut oil",
+        "value": 3
+    },
+    {
+        "source": "NaturalBeauty",
+        "target": "use coconut oil",
+        "value": 4
+    },
+    {
+        "source": "JUSTNOMIL",
+        "target": "use coconut oil",
+        "value": 3
+    },
+    {
+        "source": "pics",
+        "target": "use coconut oil",
+        "value": 2
+    },
+    {
+        "source": "nursing",
+        "target": "use coconut oil",
+        "value": 3
+    },
+    {
+        "source": "blogsnark",
+        "target": "face moisturizer",
+        "value": 2
+    },
+    {
+        "source": "askwomenadvice",
+        "target": "face moisturizer",
+        "value": 3
+    },
+    {
+        "source": "aspergirls",
+        "target": "face moisturizer",
+        "value": 3
+    },
+    {
+        "source": "IFseniorclass",
+        "target": "face moisturizer",
+        "value": 3
+    },
+    {
+        "source": "Aveeno lotion",
+        "target": "wheredidthesodago",
+        "value": 3
+    },
+    {
+        "source": "korea",
+        "target": "Aveeno body lotion",
+        "value": 6
+    },
+    {
+        "source": "Staples",
+        "target": "Aveeno body lotion",
+        "value": 6
+    },
+    {
+        "source": "MtF",
+        "target": "Aveeno body lotion",
+        "value": 3
+    },
+    {
+        "source": "Aveeno face",
+        "target": "worldnews",
+        "value": 4
+    },
+    {
+        "source": "Aveeno body lotion",
+        "target": "OliveMUA",
+        "value": 6
+    },
+    {
+        "source": "Aveeno body",
+        "target": "amiugly",
+        "value": 8
+    },
+    {
+        "source": "Aveeno lotion",
+        "target": "amiugly",
+        "value": 2
+    },
+    {
+        "source": "Good luck",
+        "target": "progresspics",
+        "value": 3
+    },
+    {
+        "source": "Aveeno oatmeal lotion",
+        "target": "progresspics",
+        "value": 11
+    },
+    {
+        "source": "Aveeno Eczema",
+        "target": "CrohnsDisease",
+        "value": 3
+    },
+    {
+        "source": "shower gel",
+        "target": "CrohnsDisease",
+        "value": 4
+    },
+    {
+        "source": "use aveeno lotion",
+        "target": "CrohnsDisease",
+        "value": 4
+    },
+    {
+        "source": "PaleMUA",
+        "target": "First Aid Beauty",
+        "value": 2
+    },
+    {
+        "source": "Hirsutism",
+        "target": "First Aid Beauty",
+        "value": 3
+    },
+    {
+        "source": "infertility",
+        "target": "First Aid Beauty",
+        "value": 4
+    },
+    {
+        "source": "RandomActsOfPolish",
+        "target": "First Aid Beauty",
+        "value": 7
+    },
+    {
+        "source": "Albuquerque",
+        "target": "First Aid Beauty",
+        "value": 3
+    },
+    {
+        "source": "BeautyIndustryChatter",
+        "target": "First Aid Beauty",
+        "value": 2
+    },
+    {
+        "source": "Aveeno Active Naturals",
+        "target": "bjj",
+        "value": 2
+    },
+    {
+        "source": "Therapy Moisturizing Cream",
+        "target": "bjj",
+        "value": 2
+    },
+    {
+        "source": "Eczema Therapy Moisturizing",
+        "target": "bjj",
+        "value": 2
+    },
+    {
+        "source": "MakeupAddiction",
+        "target": "Aveeno Clear Complexion",
+        "value": 2
+    },
+    {
+        "source": "SkincareAddiction",
+        "target": "Aveeno Clear Complexion",
+        "value": 2
+    },
+    {
+        "source": "femalefashionadvice",
+        "target": "past few months",
+        "value": 4
+    },
+    {
+        "source": "Healing Ointment",
+        "target": "DecemberBumpers2017",
+        "value": 2
+    },
+    {
+        "source": "Aveeno baby lotion",
+        "target": "DecemberBumpers2017",
+        "value": 2
+    },
+    {
+        "source": "Aveeno baby",
+        "target": "DecemberBumpers2017",
+        "value": 4
+    },
+    {
+        "source": "calamine lotion",
+        "target": "TrollXChromosomes",
+        "value": 13
+    },
+    {
+        "source": "St Ives",
+        "target": "TrollXChromosomes",
+        "value": 4
+    },
+    {
+        "source": "Aveeno Skin Relief",
+        "target": "TrollXChromosomes",
+        "value": 3
+    },
+    {
+        "source": "bipolar",
+        "target": "clear complexion moisturizer",
+        "value": 4
+    },
+    {
+        "source": "day time",
+        "target": "Calgary",
+        "value": 4
+    },
+    {
+        "source": "Aveeno lotion",
+        "target": "Calgary",
+        "value": 2
+    },
+    {
+        "source": "Aveeno lotion",
+        "target": "tifu",
+        "value": 4
+    },
+    {
+        "source": "cold showers",
+        "target": "tifu",
+        "value": 7
+    },
+    {
+        "source": "last month",
+        "target": "proED",
+        "value": 3
+    },
+    {
+        "source": "CeraVe Moisturizing Lotion",
+        "target": "proED",
+        "value": 2
+    },
+    {
+        "source": "cetaphil lotion",
+        "target": "proED",
+        "value": 3
+    },
+    {
+        "source": "moisturizing body wash",
+        "target": "proED",
+        "value": 3
+    },
+    {
+        "source": "use body wash",
+        "target": "proED",
+        "value": 4
+    },
+    {
+        "source": "InfertilityBabies",
+        "target": "use Aveeno baby",
+        "value": 3
+    },
+    {
+        "source": "breakingmom",
+        "target": "use Aveeno baby",
+        "value": 4
+    },
+    {
+        "source": "xxketo",
+        "target": "use Aveeno baby",
+        "value": 3
+    },
+    {
+        "source": "beyondthebump",
+        "target": "use Aveeno baby",
+        "value": 4
+    },
+    {
+        "source": "BeautyIndustryChatter",
+        "target": "use Aveeno baby",
+        "value": 3
+    },
+    {
+        "source": "Good luck",
+        "target": "parentsofmultiples",
+        "value": 3
+    },
+    {
+        "source": "moisturizing body wash",
+        "target": "loseit",
+        "value": 3
+    },
+    {
+        "source": "Aveeno body wash",
+        "target": "loseit",
+        "value": 2
+    },
+    {
+        "source": "love Aveeno",
+        "target": "loseit",
+        "value": 2
+    },
+    {
+        "source": "CeraVe Moisturizing",
+        "target": "loseit",
+        "value": 3
+    },
+    {
+        "source": "trees",
+        "target": "Calming Foaming Cleanser",
+        "value": 3
+    },
+    {
+        "source": "BeautyIndustryChatter",
+        "target": "Calming Foaming Cleanser",
+        "value": 2
+    },
+    {
+        "source": "CC cream",
+        "target": "FeminineNotFeminist",
+        "value": 3
+    },
+    {
+        "source": "light coverage",
+        "target": "FeminineNotFeminist",
+        "value": 3
+    },
+    {
+        "source": "dry shampoo",
+        "target": "FeminineNotFeminist",
+        "value": 4
+    },
+    {
+        "source": "Body Shop",
+        "target": "FeminineNotFeminist",
+        "value": 3
+    },
+    {
+        "source": "ftm",
+        "target": "benzoyl peroxide",
+        "value": 2
+    },
+    {
+        "source": "SkincareAddiction",
+        "target": "benzoyl peroxide",
+        "value": 3
+    },
+    {
+        "source": "body lotion",
+        "target": "raisedbynarcissists",
+        "value": 4
+    },
+    {
+        "source": "Psoriasis",
+        "target": "fragrance free",
+        "value": 3
+    },
+    {
+        "source": "WTF",
+        "target": "fragrance free",
+        "value": 3
+    },
+    {
+        "source": "Pigmentation",
+        "target": "fragrance free",
+        "value": 3
+    },
+    {
+        "source": "newzealand",
+        "target": "fragrance free",
+        "value": 3
+    },
+    {
+        "source": "running",
+        "target": "fragrance free",
+        "value": 5
+    },
+    {
+        "source": "day time",
+        "target": "sticknpokes",
+        "value": 4
+    },
+    {
+        "source": "use aveeno lotion",
+        "target": "sticknpokes",
+        "value": 6
+    },
+    {
+        "source": "baby lotion",
+        "target": "relationships_advice",
+        "value": 9
+    },
+    {
+        "source": "sulfate free shampoo",
+        "target": "FierceFlow",
+        "value": 5
+    },
+    {
+        "source": "day use",
+        "target": "FierceFlow",
+        "value": 5
+    },
+    {
+        "source": "use Aveeno baby",
+        "target": "FierceFlow",
+        "value": 4
+    },
+    {
+        "source": "coconut oil",
+        "target": "PetMice",
+        "value": 3
+    },
+    {
+        "source": "BeardAdvice",
+        "target": "eczema relief",
+        "value": 4
+    },
+    {
+        "source": "MakeupAddicts",
+        "target": "eczema relief",
+        "value": 5
+    },
+    {
+        "source": "April2017Bumpers",
+        "target": "eczema relief",
+        "value": 3
+    },
+    {
+        "source": "FragranceFreeLife",
+        "target": "eczema relief",
+        "value": 2
+    },
+    {
+        "source": "lifehacks",
+        "target": "eczema relief",
+        "value": 7
+    },
+    {
+        "source": "Aveeno baby lotion",
+        "target": "BlackPeopleTwitter",
+        "value": 8
+    },
+    {
+        "source": "seed oil",
+        "target": "Hedgehog",
+        "value": 3
+    },
+    {
+        "source": "oatmeal baths",
+        "target": "Hedgehog",
+        "value": 2
+    },
+    {
+        "source": "baby shampoo",
+        "target": "Hedgehog",
+        "value": 3
+    },
+    {
+        "source": "Aveeno oatmeal bath",
+        "target": "Hedgehog",
+        "value": 3
+    },
+    {
+        "source": "use Aveeno baby",
+        "target": "Hedgehog",
+        "value": 4
+    },
+    {
+        "source": "Therapy Moisturizing Cream",
+        "target": "Random_Acts_Of_Amazon",
+        "value": 2
+    },
+    {
+        "source": "Eczema Therapy Moisturizing",
+        "target": "Random_Acts_Of_Amazon",
+        "value": 2
+    },
+    {
+        "source": "proED",
+        "target": "few times a week",
+        "value": 3
+    },
+    {
+        "source": "last time",
+        "target": "geocaching",
+        "value": 11
+    },
+    {
+        "source": "Aveeno Ultra",
+        "target": "PostPreview",
+        "value": 3
+    },
+    {
+        "source": "First Aid Beauty",
+        "target": "PostPreview",
+        "value": 3
+    },
+    {
+        "source": "Calming Foaming Cleanser",
+        "target": "PostPreview",
+        "value": 3
+    },
+    {
+        "source": "Aveeno Ultra-Calming Foaming",
+        "target": "PostPreview",
+        "value": 5
+    },
+    {
+        "source": "MakeupAddiction",
+        "target": "Marc Jacobs",
+        "value": 3
+    },
+    {
+        "source": "makeupexchange",
+        "target": "Marc Jacobs",
+        "value": 7
+    },
+    {
+        "source": "AussieMakeupExchange",
+        "target": "Marc Jacobs",
+        "value": 5
+    },
+    {
+        "source": "OliveMUA",
+        "target": "Marc Jacobs",
+        "value": 6
+    },
+    {
+        "source": "Aveeno lotion",
+        "target": "RunningWithDogs",
+        "value": 3
+    },
+    {
+        "source": "CanSkincare",
+        "target": "Moisturizing Cream",
+        "value": 3
+    },
+    {
+        "source": "Skin Relief Body",
+        "target": "beautytalkph",
+        "value": 2
+    },
+    {
+        "source": "cetaphil lotion",
+        "target": "beautytalkph",
+        "value": 2
+    },
+    {
+        "source": "Relief Body Wash",
+        "target": "beautytalkph",
+        "value": 2
+    },
+    {
+        "source": "Cetaphil face",
+        "target": "malegrooming",
+        "value": 5
+    },
+    {
+        "source": "Aveeno body",
+        "target": "malegrooming",
+        "value": 5
+    },
+    {
+        "source": "Aveeno Ultra Calming",
+        "target": "malegrooming",
+        "value": 2
+    },
+    {
+        "source": "CeraVe Moisturizing Lotion",
+        "target": "skin_care",
+        "value": 4
+    },
+    {
+        "source": "micellar water",
+        "target": "skin_care",
+        "value": 2
+    },
+    {
+        "source": "Aveeno face wash",
+        "target": "skin_care",
+        "value": 6
+    },
+    {
+        "source": "CeraVe AM",
+        "target": "skin_care",
+        "value": 4
+    },
+    {
+        "source": "moisturizing lotion",
+        "target": "ttcafterloss",
+        "value": 3
+    },
+    {
+        "source": "face cleanser",
+        "target": "blackladies",
+        "value": 5
+    },
+    {
+        "source": "Vitamin C",
+        "target": "blackladies",
+        "value": 2
+    },
+    {
+        "source": "Hedgehogs",
+        "target": "Aveeno baby wash",
+        "value": 4
+    },
+    {
+        "source": "BabyBumps",
+        "target": "Aveeno baby wash",
+        "value": 3
+    },
+    {
+        "source": "mildlyinteresting",
+        "target": "Aveeno baby wash",
+        "value": 10
+    },
+    {
+        "source": "InfertilityBabies",
+        "target": "Aveeno baby wash",
+        "value": 4
+    },
+    {
+        "source": "moderatelygranolamoms",
+        "target": "Aveeno baby wash",
+        "value": 4
+    },
+    {
+        "source": "AskParents",
+        "target": "Aveeno baby wash",
+        "value": 4
+    },
+    {
+        "source": "beyondthebump",
+        "target": "Aveeno baby wash",
+        "value": 3
+    },
+    {
+        "source": "pics",
+        "target": "Aveeno baby wash",
+        "value": 3
+    },
+    {
+        "source": "baby shampoo",
+        "target": "OctoberBumpers2017",
+        "value": 3
+    },
+    {
+        "source": "cetaphil lotion",
+        "target": "OctoberBumpers2017",
+        "value": 4
+    },
+    {
+        "source": "baby soap",
+        "target": "OctoberBumpers2017",
+        "value": 4
+    },
+    {
+        "source": "Aveeno baby lotion",
+        "target": "OctoberBumpers2017",
+        "value": 2
+    },
+    {
+        "source": "eczema relief",
+        "target": "OctoberBumpers2017",
+        "value": 3
+    },
+    {
+        "source": "Aveeno lotion",
+        "target": "shittyama",
+        "value": 3
+    },
+    {
+        "source": "eczema therapy cream",
+        "target": "muacjdiscussion",
+        "value": 5
+    },
+    {
+        "source": "Aveeno body",
+        "target": "opiates",
+        "value": 8
+    },
+    {
+        "source": "face lotion",
+        "target": "opiates",
+        "value": 5
+    },
+    {
+        "source": "baby shampoo",
+        "target": "RoastMe",
+        "value": 4
+    },
+    {
+        "source": "pillow case",
+        "target": "RoastMe",
+        "value": 4
+    },
+    {
+        "source": "use aveeno lotion",
+        "target": "RoastMe",
+        "value": 4
+    },
+    {
+        "source": "popping",
+        "target": "Aveeno eczema lotion",
+        "value": 3
+    },
+    {
+        "source": "SkincareRehab",
+        "target": "Aveeno eczema lotion",
+        "value": 2
+    },
+    {
+        "source": "Fibromyalgia",
+        "target": "Aveeno eczema lotion",
+        "value": 5
+    },
+    {
+        "source": "CrohnsDisease",
+        "target": "Aveeno eczema lotion",
+        "value": 4
+    },
+    {
+        "source": "bjj",
+        "target": "Aveeno eczema lotion",
+        "value": 5
+    },
+    {
+        "source": "loseit",
+        "target": "Aveeno eczema lotion",
+        "value": 2
+    },
+    {
+        "source": "SantasLittleHelpers",
+        "target": "Aveeno eczema lotion",
+        "value": 6
+    },
+    {
+        "source": "Allergies",
+        "target": "Aveeno eczema lotion",
+        "value": 3
+    },
+    {
+        "source": "Aveeno lotion",
+        "target": "bigdickproblems",
+        "value": 2
+    },
+    {
+        "source": "use aveeno lotion",
+        "target": "bigdickproblems",
+        "value": 6
+    },
+    {
+        "source": "pillow case",
+        "target": "MotoLA",
+        "value": 6
+    },
+    {
+        "source": "Aveeno oatmeal bath",
+        "target": "AskDocs",
+        "value": 3
+    },
+    {
+        "source": "calamine lotion",
+        "target": "AskDocs",
+        "value": 3
+    },
+    {
+        "source": "Aveeno lotion",
+        "target": "ottawa",
+        "value": 2
+    },
+    {
+        "source": "acne",
+        "target": "salicylic acid",
+        "value": 2
+    },
+    {
+        "source": "gay",
+        "target": "salicylic acid",
+        "value": 2
+    },
+    {
+        "source": "Makeup101",
+        "target": "salicylic acid",
+        "value": 2
+    },
+    {
+        "source": "SkincareAddiction",
+        "target": "salicylic acid",
+        "value": 3
+    },
+    {
+        "source": "moisturizing lotion",
+        "target": "MassiveCock",
+        "value": 3
+    },
+    {
+        "source": "eye makeup",
+        "target": "AsianBeauty",
+        "value": 2
+    },
+    {
+        "source": "hydrating toner",
+        "target": "AsianBeauty",
+        "value": 4
+    },
+    {
+        "source": "Vitamin C",
+        "target": "AsianBeauty",
+        "value": 3
+    },
+    {
+        "source": "oil cleanser",
+        "target": "AsianBeauty",
+        "value": 6
+    },
+    {
+        "source": "Hada Labo",
+        "target": "AsianBeauty",
+        "value": 7
+    },
+    {
+        "source": "Aveeno Eczema",
+        "target": "beyondthebump",
+        "value": 3
+    },
+    {
+        "source": "baby wash",
+        "target": "beyondthebump",
+        "value": 3
+    },
+    {
+        "source": "Aveeno Baby Eczema",
+        "target": "beyondthebump",
+        "value": 5
+    },
+    {
+        "source": "Aveeno baby lotion",
+        "target": "beyondthebump",
+        "value": 3
+    },
+    {
+        "source": "Aveeno Baby Eczema",
+        "target": "FormulaFeeders",
+        "value": 3
+    },
+    {
+        "source": "Aveeno face",
+        "target": "IFseniorclass",
+        "value": 2
+    },
+    {
+        "source": "gonewildstories",
+        "target": "Aveeno foaming cleanser",
+        "value": 3
+    },
+    {
+        "source": "LushCosmetics",
+        "target": "shower gel",
+        "value": 2
+    },
+    {
+        "source": "Green",
+        "target": "shower gel",
+        "value": 10
+    },
+    {
+        "source": "MakeupRehab",
+        "target": "shower gel",
+        "value": 2
+    },
+    {
+        "source": "shower gel",
+        "target": "fragrance",
+        "value": 3
+    },
+    {
+        "source": "last month",
+        "target": "SebDerm",
+        "value": 6
+    },
+    {
+        "source": "Aveeno Eczema",
+        "target": "SebDerm",
+        "value": 2
+    },
+    {
+        "source": "skin condition",
+        "target": "SebDerm",
+        "value": 4
+    },
+    {
+        "source": "KitchenConfidential",
+        "target": "Aveeno Skin Relief",
+        "value": 4
+    },
+    {
+        "source": "Philippines",
+        "target": "Aveeno Skin Relief",
+        "value": 3
+    },
+    {
+        "source": "worldnews",
+        "target": "use aveeno lotion",
+        "value": 3
+    },
+    {
+        "source": "tattoos",
+        "target": "use aveeno lotion",
+        "value": 4
+    },
+    {
+        "source": "ladyshavers",
+        "target": "use aveeno lotion",
+        "value": 6
+    },
+    {
+        "source": "Aveeno baby lotion",
+        "target": "JulyBumpers2017",
+        "value": 4
+    },
+    {
+        "source": "cold showers",
+        "target": "Allergies",
+        "value": 5
+    }
+]
+}

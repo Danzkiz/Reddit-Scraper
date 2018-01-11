@@ -1,0 +1,5311 @@
+{
+  "nodes": [
+    {
+        "name": "1in6",
+        "modularity_class": "10",
+        "weighted": "2"
+    },
+    {
+        "name": "80s",
+        "modularity_class": "0",
+        "weighted": "16"
+    },
+    {
+        "name": "aarp",
+        "modularity_class": "18",
+        "weighted": "2142"
+    },
+    {
+        "name": "abuse",
+        "modularity_class": "26",
+        "weighted": "19"
+    },
+    {
+        "name": "advocacy",
+        "modularity_class": "19",
+        "weighted": "52"
+    },
+    {
+        "name": "agenda2030",
+        "modularity_class": "18",
+        "weighted": "2142"
+    },
+    {
+        "name": "agenda21",
+        "modularity_class": "18",
+        "weighted": "2142"
+    },
+    {
+        "name": "alllivesmatter",
+        "modularity_class": "5",
+        "weighted": "1"
+    },
+    {
+        "name": "allvictimscount",
+        "modularity_class": "1",
+        "weighted": "4"
+    },
+    {
+        "name": "allvictimsmatter",
+        "modularity_class": "1",
+        "weighted": "4"
+    },
+    {
+        "name": "amreading",
+        "modularity_class": "11",
+        "weighted": "12"
+    },
+    {
+        "name": "amwriting",
+        "modularity_class": "11",
+        "weighted": "12"
+    },
+    {
+        "name": "andrearamsey",
+        "modularity_class": "16",
+        "weighted": "1"
+    },
+    {
+        "name": "antifeminst",
+        "modularity_class": "29",
+        "weighted": "48"
+    },
+    {
+        "name": "askwomenanything",
+        "modularity_class": "2",
+        "weighted": "17"
+    },
+    {
+        "name": "barbarawalters",
+        "modularity_class": "20",
+        "weighted": "16"
+    },
+    {
+        "name": "batman",
+        "modularity_class": "11",
+        "weighted": "6"
+    },
+    {
+        "name": "beyondmetoo",
+        "modularity_class": "2",
+        "weighted": "15"
+    },
+    {
+        "name": "beyou",
+        "modularity_class": "10",
+        "weighted": "15"
+    },
+    {
+        "name": "beyour",
+        "modularity_class": "10",
+        "weighted": "20"
+    },
+    {
+        "name": "blacklivesmatter",
+        "modularity_class": "5",
+        "weighted": "36"
+    },
+    {
+        "name": "blackmagic",
+        "modularity_class": "26",
+        "weighted": "4"
+    },
+    {
+        "name": "blackwomentoo",
+        "modularity_class": "3",
+        "weighted": "2"
+    },
+    {
+        "name": "bloggers",
+        "modularity_class": "10",
+        "weighted": "12"
+    },
+    {
+        "name": "bluelivesmatter",
+        "modularity_class": "5",
+        "weighted": "31"
+    },
+    {
+        "name": "bookreviewers",
+        "modularity_class": "10",
+        "weighted": "12"
+    },
+    {
+        "name": "books",
+        "modularity_class": "11",
+        "weighted": "12"
+    },
+    {
+        "name": "boycotthollywood",
+        "modularity_class": "20",
+        "weighted": "16"
+    },
+    {
+        "name": "boysandmentoo",
+        "modularity_class": "13",
+        "weighted": "58"
+    },
+    {
+        "name": "boystoo",
+        "modularity_class": "20",
+        "weighted": "16"
+    },
+    {
+        "name": "breakthesilence",
+        "modularity_class": "3",
+        "weighted": "2"
+    },
+    {
+        "name": "bruceweber",
+        "modularity_class": "24",
+        "weighted": "5"
+    },
+    {
+        "name": "castingcouch",
+        "modularity_class": "20",
+        "weighted": "16"
+    },
+    {
+        "name": "cats",
+        "modularity_class": "18",
+        "weighted": "16"
+    },
+    {
+        "name": "cedaw",
+        "modularity_class": "18",
+        "weighted": "30"
+    },
+    {
+        "name": "childabuse",
+        "modularity_class": "20",
+        "weighted": "4"
+    },
+    {
+        "name": "churchtoo",
+        "modularity_class": "20",
+        "weighted": "4"
+    },
+    {
+        "name": "cnn",
+        "modularity_class": "18",
+        "weighted": "151"
+    },
+    {
+        "name": "collectiveresponsibility",
+        "modularity_class": "13",
+        "weighted": "8"
+    },
+    {
+        "name": "column",
+        "modularity_class": "15",
+        "weighted": "27"
+    },
+    {
+        "name": "coming",
+        "modularity_class": "6",
+        "weighted": "8"
+    },
+    {
+        "name": "counseling",
+        "modularity_class": "26",
+        "weighted": "6"
+    },
+    {
+        "name": "csa",
+        "modularity_class": "10",
+        "weighted": "36"
+    },
+    {
+        "name": "csasurvivors",
+        "modularity_class": "19",
+        "weighted": "23"
+    },
+    {
+        "name": "cse",
+        "modularity_class": "10",
+        "weighted": "6"
+    },
+    {
+        "name": "csm",
+        "modularity_class": "4",
+        "weighted": "26"
+    },
+    {
+        "name": "dating",
+        "modularity_class": "29",
+        "weighted": "24"
+    },
+    {
+        "name": "dccomics",
+        "modularity_class": "11",
+        "weighted": "6"
+    },
+    {
+        "name": "defend",
+        "modularity_class": "5",
+        "weighted": "31"
+    },
+    {
+        "name": "deflect",
+        "modularity_class": "5",
+        "weighted": "31"
+    },
+    {
+        "name": "deny",
+        "modularity_class": "5",
+        "weighted": "31"
+    },
+    {
+        "name": "dogs",
+        "modularity_class": "18",
+        "weighted": "16"
+    },
+    {
+        "name": "domesticviolence",
+        "modularity_class": "19",
+        "weighted": "52"
+    },
+    {
+        "name": "drdelvena",
+        "modularity_class": "19",
+        "weighted": "52"
+    },
+    {
+        "name": "drtbrainlove",
+        "modularity_class": "19",
+        "weighted": "52"
+    },
+    {
+        "name": "ducktail",
+        "modularity_class": "6",
+        "weighted": "8"
+    },
+    {
+        "name": "dumptrump",
+        "modularity_class": "9",
+        "weighted": "6"
+    },
+    {
+        "name": "dvam",
+        "modularity_class": "19",
+        "weighted": "18"
+    },
+    {
+        "name": "eclecticshaman",
+        "modularity_class": "26",
+        "weighted": "10"
+    },
+    {
+        "name": "ecowomentoo",
+        "modularity_class": "10",
+        "weighted": "5"
+    },
+    {
+        "name": "empowerment_of_women",
+        "modularity_class": "10",
+        "weighted": "24"
+    },
+    {
+        "name": "empowermenthour",
+        "modularity_class": "26",
+        "weighted": "2"
+    },
+    {
+        "name": "endrapeculturenow",
+        "modularity_class": "9",
+        "weighted": "8"
+    },
+    {
+        "name": "energyvampire",
+        "modularity_class": "26",
+        "weighted": "6"
+    },
+    {
+        "name": "equality",
+        "modularity_class": "11",
+        "weighted": "5"
+    },
+    {
+        "name": "evil",
+        "modularity_class": "18",
+        "weighted": "71"
+    },
+    {
+        "name": "existen",
+        "modularity_class": "14",
+        "weighted": "4"
+    },
+    {
+        "name": "fakecases",
+        "modularity_class": "7",
+        "weighted": "25"
+    },
+    {
+        "name": "fakefeminism",
+        "modularity_class": "8",
+        "weighted": "6"
+    },
+    {
+        "name": "fakerape",
+        "modularity_class": "29",
+        "weighted": "13"
+    },
+    {
+        "name": "fb",
+        "modularity_class": "20",
+        "weighted": "10"
+    },
+    {
+        "name": "fearnoscar",
+        "modularity_class": "11",
+        "weighted": "2"
+    },
+    {
+        "name": "femaleprivilege",
+        "modularity_class": "19",
+        "weighted": "3"
+    },
+    {
+        "name": "feminism",
+        "modularity_class": "29",
+        "weighted": "2461"
+    },
+    {
+        "name": "feminismisawful",
+        "modularity_class": "18",
+        "weighted": "127"
+    },
+    {
+        "name": "feminismiscancer",
+        "modularity_class": "29",
+        "weighted": "80"
+    },
+    {
+        "name": "feminismus",
+        "modularity_class": "9",
+        "weighted": "5"
+    },
+    {
+        "name": "feminist",
+        "modularity_class": "29",
+        "weighted": "106"
+    },
+    {
+        "name": "feminists",
+        "modularity_class": "29",
+        "weighted": "79"
+    },
+    {
+        "name": "film",
+        "modularity_class": "26",
+        "weighted": "6"
+    },
+    {
+        "name": "firstdate",
+        "modularity_class": "29",
+        "weighted": "24"
+    },
+    {
+        "name": "fosteringjustice",
+        "modularity_class": "10",
+        "weighted": "4"
+    },
+    {
+        "name": "foxnews",
+        "modularity_class": "18",
+        "weighted": "154"
+    },
+    {
+        "name": "gaslight",
+        "modularity_class": "5",
+        "weighted": "31"
+    },
+    {
+        "name": "gender",
+        "modularity_class": "9",
+        "weighted": "2"
+    },
+    {
+        "name": "goldenglobes",
+        "modularity_class": "10",
+        "weighted": "14"
+    },
+    {
+        "name": "grandrapids",
+        "modularity_class": "26",
+        "weighted": "6"
+    },
+    {
+        "name": "greetings",
+        "modularity_class": "10",
+        "weighted": "24"
+    },
+    {
+        "name": "guystoo",
+        "modularity_class": "27",
+        "weighted": "1"
+    },
+    {
+        "name": "harassment",
+        "modularity_class": "11",
+        "weighted": "4"
+    },
+    {
+        "name": "harvey",
+        "modularity_class": "11",
+        "weighted": "18"
+    },
+    {
+        "name": "harveyweinstein",
+        "modularity_class": "11",
+        "weighted": "37"
+    },
+    {
+        "name": "heal",
+        "modularity_class": "10",
+        "weighted": "20"
+    },
+    {
+        "name": "health",
+        "modularity_class": "19",
+        "weighted": "6"
+    },
+    {
+        "name": "hertoo",
+        "modularity_class": "20",
+        "weighted": "19"
+    },
+    {
+        "name": "hetoo",
+        "modularity_class": "11",
+        "weighted": "9"
+    },
+    {
+        "name": "himthough",
+        "modularity_class": "20",
+        "weighted": "7"
+    },
+    {
+        "name": "himtoo",
+        "modularity_class": "20",
+        "weighted": "15"
+    },
+    {
+        "name": "hollywood",
+        "modularity_class": "20",
+        "weighted": "12"
+    },
+    {
+        "name": "hollywoodpredators",
+        "modularity_class": "12",
+        "weighted": "15"
+    },
+    {
+        "name": "houseofcards",
+        "modularity_class": "12",
+        "weighted": "15"
+    },
+    {
+        "name": "howiwillchange",
+        "modularity_class": "13",
+        "weighted": "45"
+    },
+    {
+        "name": "howwewillchange",
+        "modularity_class": "13",
+        "weighted": "8"
+    },
+    {
+        "name": "ibelievethewomen",
+        "modularity_class": "20",
+        "weighted": "4"
+    },
+    {
+        "name": "ibelieveyou",
+        "modularity_class": "10",
+        "weighted": "4"
+    },
+    {
+        "name": "ihearyou",
+        "modularity_class": "13",
+        "weighted": "104"
+    },
+    {
+        "name": "illumination",
+        "modularity_class": "26",
+        "weighted": "10"
+    },
+    {
+        "name": "itsgettingsillynow",
+        "modularity_class": "18",
+        "weighted": "62"
+    },
+    {
+        "name": "itsoktotalk",
+        "modularity_class": "19",
+        "weighted": "10"
+    },
+    {
+        "name": "iwillspeakup",
+        "modularity_class": "13",
+        "weighted": "34"
+    },
+    {
+        "name": "johntravolta",
+        "modularity_class": "12",
+        "weighted": "31"
+    },
+    {
+        "name": "joseluissariego",
+        "modularity_class": "14",
+        "weighted": "4"
+    },
+    {
+        "name": "justice",
+        "modularity_class": "20",
+        "weighted": "3"
+    },
+    {
+        "name": "justinbieber",
+        "modularity_class": "20",
+        "weighted": "7"
+    },
+    {
+        "name": "kevinspacey",
+        "modularity_class": "20",
+        "weighted": "2"
+    },
+    {
+        "name": "lajjadiaries",
+        "modularity_class": "21",
+        "weighted": "4"
+    },
+    {
+        "name": "lezen",
+        "modularity_class": "15",
+        "weighted": "27"
+    },
+    {
+        "name": "lgbt",
+        "modularity_class": "9",
+        "weighted": "3"
+    },
+    {
+        "name": "lgbtq",
+        "modularity_class": "26",
+        "weighted": "8"
+    },
+    {
+        "name": "littlelivesmatter",
+        "modularity_class": "10",
+        "weighted": "20"
+    },
+    {
+        "name": "louisck",
+        "modularity_class": "12",
+        "weighted": "15"
+    },
+    {
+        "name": "maga",
+        "modularity_class": "16",
+        "weighted": "1"
+    },
+    {
+        "name": "malesurvivor",
+        "modularity_class": "10",
+        "weighted": "4"
+    },
+    {
+        "name": "malevictims",
+        "modularity_class": "19",
+        "weighted": "18"
+    },
+    {
+        "name": "meaningoflife",
+        "modularity_class": "20",
+        "weighted": "6"
+    },
+    {
+        "name": "media",
+        "modularity_class": "2",
+        "weighted": "17"
+    },
+    {
+        "name": "medicineman",
+        "modularity_class": "26",
+        "weighted": "10"
+    },
+    {
+        "name": "meetoo",
+        "modularity_class": "20",
+        "weighted": "10"
+    },
+    {
+        "name": "men",
+        "modularity_class": "20",
+        "weighted": "28"
+    },
+    {
+        "name": "menaretrash",
+        "modularity_class": "29",
+        "weighted": "26"
+    },
+    {
+        "name": "menforwomen",
+        "modularity_class": "17",
+        "weighted": "2"
+    },
+    {
+        "name": "meninist",
+        "modularity_class": "29",
+        "weighted": "28"
+    },
+    {
+        "name": "mens",
+        "modularity_class": "20",
+        "weighted": "6"
+    },
+    {
+        "name": "mensday",
+        "modularity_class": "18",
+        "weighted": "127"
+    },
+    {
+        "name": "mensrights",
+        "modularity_class": "19",
+        "weighted": "26"
+    },
+    {
+        "name": "mensrightsmeetmh",
+        "modularity_class": "20",
+        "weighted": "6"
+    },
+    {
+        "name": "mentalabuse",
+        "modularity_class": "26",
+        "weighted": "25"
+    },
+    {
+        "name": "mentalhealth",
+        "modularity_class": "11",
+        "weighted": "10"
+    },
+    {
+        "name": "mentalslavery",
+        "modularity_class": "26",
+        "weighted": "14"
+    },
+    {
+        "name": "meto",
+        "modularity_class": "20",
+        "weighted": "8"
+    },
+    {
+        "name": "metoomen",
+        "modularity_class": "11",
+        "weighted": "89"
+    },
+    {
+        "name": "metoomovement",
+        "modularity_class": "20",
+        "weighted": "4"
+    },
+    {
+        "name": "metooportraits",
+        "modularity_class": "21",
+        "weighted": "4"
+    },
+    {
+        "name": "metoothedebate",
+        "modularity_class": "20",
+        "weighted": "5"
+    },
+    {
+        "name": "metoowhatnext",
+        "modularity_class": "11",
+        "weighted": "1"
+    },
+    {
+        "name": "mgtow",
+        "modularity_class": "18",
+        "weighted": "2548"
+    },
+    {
+        "name": "midos",
+        "modularity_class": "13",
+        "weighted": "12"
+    },
+    {
+        "name": "misandrie",
+        "modularity_class": "22",
+        "weighted": "2"
+    },
+    {
+        "name": "misery4money",
+        "modularity_class": "11",
+        "weighted": "4"
+    },
+    {
+        "name": "mmim",
+        "modularity_class": "23",
+        "weighted": "6"
+    },
+    {
+        "name": "mmiwg",
+        "modularity_class": "23",
+        "weighted": "6"
+    },
+    {
+        "name": "modelos",
+        "modularity_class": "24",
+        "weighted": "5"
+    },
+    {
+        "name": "mra",
+        "modularity_class": "20",
+        "weighted": "9"
+    },
+    {
+        "name": "msnbc",
+        "modularity_class": "18",
+        "weighted": "148"
+    },
+    {
+        "name": "nationalism",
+        "modularity_class": "19",
+        "weighted": "2"
+    },
+    {
+        "name": "needed",
+        "modularity_class": "6",
+        "weighted": "8"
+    },
+    {
+        "name": "neverletitgo",
+        "modularity_class": "10",
+        "weighted": "6"
+    },
+    {
+        "name": "news",
+        "modularity_class": "20",
+        "weighted": "1"
+    },
+    {
+        "name": "niceguys",
+        "modularity_class": "29",
+        "weighted": "24"
+    },
+    {
+        "name": "nobillag",
+        "modularity_class": "25",
+        "weighted": "2"
+    },
+    {
+        "name": "nolabels",
+        "modularity_class": "26",
+        "weighted": "6"
+    },
+    {
+        "name": "nomore",
+        "modularity_class": "20",
+        "weighted": "4"
+    },
+    {
+        "name": "nomoreabuse",
+        "modularity_class": "27",
+        "weighted": "1"
+    },
+    {
+        "name": "nonbinarytoo",
+        "modularity_class": "28",
+        "weighted": "2"
+    },
+    {
+        "name": "notallmen",
+        "modularity_class": "13",
+        "weighted": "2"
+    },
+    {
+        "name": "notjustourdaughters",
+        "modularity_class": "19",
+        "weighted": "18"
+    },
+    {
+        "name": "notme",
+        "modularity_class": "29",
+        "weighted": "29"
+    },
+    {
+        "name": "notokay",
+        "modularity_class": "20",
+        "weighted": "12"
+    },
+    {
+        "name": "oann",
+        "modularity_class": "18",
+        "weighted": "153"
+    },
+    {
+        "name": "okcupid",
+        "modularity_class": "29",
+        "weighted": "24"
+    },
+    {
+        "name": "oliverstone",
+        "modularity_class": "12",
+        "weighted": "15"
+    },
+    {
+        "name": "ongewenst",
+        "modularity_class": "15",
+        "weighted": "27"
+    },
+    {
+        "name": "oprah2020",
+        "modularity_class": "10",
+        "weighted": "24"
+    },
+    {
+        "name": "outlier",
+        "modularity_class": "10",
+        "weighted": "4"
+    },
+    {
+        "name": "outlierstories",
+        "modularity_class": "10",
+        "weighted": "10"
+    },
+    {
+        "name": "patriarchy",
+        "modularity_class": "5",
+        "weighted": "11"
+    },
+    {
+        "name": "pedogate",
+        "modularity_class": "10",
+        "weighted": "32"
+    },
+    {
+        "name": "pedowood",
+        "modularity_class": "10",
+        "weighted": "32"
+    },
+    {
+        "name": "personoftheyear",
+        "modularity_class": "20",
+        "weighted": "3"
+    },
+    {
+        "name": "pinkstinks",
+        "modularity_class": "9",
+        "weighted": "3"
+    },
+    {
+        "name": "pizzagate",
+        "modularity_class": "10",
+        "weighted": "32"
+    },
+    {
+        "name": "pizzagateisreal",
+        "modularity_class": "10",
+        "weighted": "14"
+    },
+    {
+        "name": "podernfamily",
+        "modularity_class": "11",
+        "weighted": "2"
+    },
+    {
+        "name": "pr",
+        "modularity_class": "10",
+        "weighted": "12"
+    },
+    {
+        "name": "prettymuchallwomentoo",
+        "modularity_class": "20",
+        "weighted": "9"
+    },
+    {
+        "name": "privilege",
+        "modularity_class": "5",
+        "weighted": "31"
+    },
+    {
+        "name": "problemofevil",
+        "modularity_class": "13",
+        "weighted": "6"
+    },
+    {
+        "name": "prosecutetrump",
+        "modularity_class": "9",
+        "weighted": "6"
+    },
+    {
+        "name": "publicist",
+        "modularity_class": "10",
+        "weighted": "12"
+    },
+    {
+        "name": "rape",
+        "modularity_class": "19",
+        "weighted": "27"
+    },
+    {
+        "name": "rapeculture",
+        "modularity_class": "29",
+        "weighted": "16"
+    },
+    {
+        "name": "read",
+        "modularity_class": "15",
+        "weighted": "27"
+    },
+    {
+        "name": "reading",
+        "modularity_class": "11",
+        "weighted": "12"
+    },
+    {
+        "name": "recovery",
+        "modularity_class": "19",
+        "weighted": "4"
+    },
+    {
+        "name": "resist",
+        "modularity_class": "10",
+        "weighted": "8"
+    },
+    {
+        "name": "resistance",
+        "modularity_class": "30",
+        "weighted": "14"
+    },
+    {
+        "name": "riskreduction",
+        "modularity_class": "18",
+        "weighted": "46"
+    },
+    {
+        "name": "rosearmy",
+        "modularity_class": "11",
+        "weighted": "20"
+    },
+    {
+        "name": "roymoore",
+        "modularity_class": "10",
+        "weighted": "2"
+    },
+    {
+        "name": "savemen",
+        "modularity_class": "7",
+        "weighted": "25"
+    },
+    {
+        "name": "sdg5",
+        "modularity_class": "20",
+        "weighted": "9"
+    },
+    {
+        "name": "sexcrimes",
+        "modularity_class": "20",
+        "weighted": "3"
+    },
+    {
+        "name": "sexismus",
+        "modularity_class": "22",
+        "weighted": "2"
+    },
+    {
+        "name": "sexualabuse",
+        "modularity_class": "26",
+        "weighted": "20"
+    },
+    {
+        "name": "sexualassault",
+        "modularity_class": "19",
+        "weighted": "96"
+    },
+    {
+        "name": "sexualassaultawareness",
+        "modularity_class": "9",
+        "weighted": "3"
+    },
+    {
+        "name": "sexualharassment",
+        "modularity_class": "20",
+        "weighted": "26"
+    },
+    {
+        "name": "sexualharrasment",
+        "modularity_class": "2",
+        "weighted": "9"
+    },
+    {
+        "name": "sexualhealth",
+        "modularity_class": "19",
+        "weighted": "6"
+    },
+    {
+        "name": "shaman",
+        "modularity_class": "26",
+        "weighted": "20"
+    },
+    {
+        "name": "shame",
+        "modularity_class": "10",
+        "weighted": "20"
+    },
+    {
+        "name": "shetoo",
+        "modularity_class": "9",
+        "weighted": "1"
+    },
+    {
+        "name": "sheusedme",
+        "modularity_class": "18",
+        "weighted": "2406"
+    },
+    {
+        "name": "silencebreakers",
+        "modularity_class": "20",
+        "weighted": "9"
+    },
+    {
+        "name": "sjw",
+        "modularity_class": "29",
+        "weighted": "76"
+    },
+    {
+        "name": "snowflake",
+        "modularity_class": "18",
+        "weighted": "12"
+    },
+    {
+        "name": "solidarity",
+        "modularity_class": "11",
+        "weighted": "4"
+    },
+    {
+        "name": "soulloss",
+        "modularity_class": "26",
+        "weighted": "6"
+    },
+    {
+        "name": "spacey",
+        "modularity_class": "20",
+        "weighted": "8"
+    },
+    {
+        "name": "speakup",
+        "modularity_class": "10",
+        "weighted": "31"
+    },
+    {
+        "name": "speakupnotmanup",
+        "modularity_class": "19",
+        "weighted": "18"
+    },
+    {
+        "name": "speakyourtruth",
+        "modularity_class": "10",
+        "weighted": "24"
+    },
+    {
+        "name": "spreadtheword",
+        "modularity_class": "19",
+        "weighted": "48"
+    },
+    {
+        "name": "sra",
+        "modularity_class": "10",
+        "weighted": "20"
+    },
+    {
+        "name": "srf",
+        "modularity_class": "25",
+        "weighted": "2"
+    },
+    {
+        "name": "standtogether",
+        "modularity_class": "11",
+        "weighted": "4"
+    },
+    {
+        "name": "stem",
+        "modularity_class": "10",
+        "weighted": "4"
+    },
+    {
+        "name": "stepuptotheplate",
+        "modularity_class": "20",
+        "weighted": "4"
+    },
+    {
+        "name": "stillbreathing",
+        "modularity_class": "10",
+        "weighted": "18"
+    },
+    {
+        "name": "stopworkingwithwoodyallen",
+        "modularity_class": "10",
+        "weighted": "4"
+    },
+    {
+        "name": "strongertogether",
+        "modularity_class": "31",
+        "weighted": "12"
+    },
+    {
+        "name": "superhero",
+        "modularity_class": "10",
+        "weighted": "20"
+    },
+    {
+        "name": "survivor",
+        "modularity_class": "20",
+        "weighted": "2"
+    },
+    {
+        "name": "survivors",
+        "modularity_class": "0",
+        "weighted": "16"
+    },
+    {
+        "name": "sustainability",
+        "modularity_class": "18",
+        "weighted": "2242"
+    },
+    {
+        "name": "takeastand",
+        "modularity_class": "19",
+        "weighted": "52"
+    },
+    {
+        "name": "takethemdown",
+        "modularity_class": "12",
+        "weighted": "15"
+    },
+    {
+        "name": "terrycrews",
+        "modularity_class": "20",
+        "weighted": "7"
+    },
+    {
+        "name": "thankyou",
+        "modularity_class": "10",
+        "weighted": "6"
+    },
+    {
+        "name": "thankyoualabama",
+        "modularity_class": "6",
+        "weighted": "8"
+    },
+    {
+        "name": "themenmatter",
+        "modularity_class": "23",
+        "weighted": "6"
+    },
+    {
+        "name": "themtoo",
+        "modularity_class": "28",
+        "weighted": "2"
+    },
+    {
+        "name": "theneganofmetoo",
+        "modularity_class": "18",
+        "weighted": "81"
+    },
+    {
+        "name": "theyareplayingwithfirenow",
+        "modularity_class": "18",
+        "weighted": "35"
+    },
+    {
+        "name": "thursdaymotivation",
+        "modularity_class": "10",
+        "weighted": "6"
+    },
+    {
+        "name": "timesup",
+        "modularity_class": "10",
+        "weighted": "101"
+    },
+    {
+        "name": "tinder",
+        "modularity_class": "29",
+        "weighted": "24"
+    },
+    {
+        "name": "transparency",
+        "modularity_class": "8",
+        "weighted": "6"
+    },
+    {
+        "name": "transrightsarehumanrights",
+        "modularity_class": "26",
+        "weighted": "2"
+    },
+    {
+        "name": "trauma",
+        "modularity_class": "20",
+        "weighted": "2"
+    },
+    {
+        "name": "truthcampaign",
+        "modularity_class": "0",
+        "weighted": "16"
+    },
+    {
+        "name": "tuesdaythoughts",
+        "modularity_class": "30",
+        "weighted": "14"
+    },
+    {
+        "name": "tyrese",
+        "modularity_class": "11",
+        "weighted": "9"
+    },
+    {
+        "name": "tyresegibson",
+        "modularity_class": "11",
+        "weighted": "9"
+    },
+    {
+        "name": "uhart",
+        "modularity_class": "5",
+        "weighted": "1"
+    },
+    {
+        "name": "un",
+        "modularity_class": "18",
+        "weighted": "2270"
+    },
+    {
+        "name": "unicef",
+        "modularity_class": "18",
+        "weighted": "2170"
+    },
+    {
+        "name": "unitednations",
+        "modularity_class": "18",
+        "weighted": "2242"
+    },
+    {
+        "name": "unity",
+        "modularity_class": "19",
+        "weighted": "28"
+    },
+    {
+        "name": "vawg",
+        "modularity_class": "20",
+        "weighted": "9"
+    },
+    {
+        "name": "victims",
+        "modularity_class": "0",
+        "weighted": "16"
+    },
+    {
+        "name": "violence",
+        "modularity_class": "26",
+        "weighted": "2"
+    },
+    {
+        "name": "voicesofforgottenindigenousmen",
+        "modularity_class": "23",
+        "weighted": "6"
+    },
+    {
+        "name": "weinstein",
+        "modularity_class": "20",
+        "weighted": "28"
+    },
+    {
+        "name": "weinsteingate",
+        "modularity_class": "4",
+        "weighted": "26"
+    },
+    {
+        "name": "wetoo",
+        "modularity_class": "9",
+        "weighted": "14"
+    },
+    {
+        "name": "wgbh",
+        "modularity_class": "31",
+        "weighted": "12"
+    },
+    {
+        "name": "whatilearnedtoday",
+        "modularity_class": "10",
+        "weighted": "1"
+    },
+    {
+        "name": "whosyourharvey",
+        "modularity_class": "0",
+        "weighted": "16"
+    },
+    {
+        "name": "whywewearblack",
+        "modularity_class": "10",
+        "weighted": "13"
+    },
+    {
+        "name": "win",
+        "modularity_class": "6",
+        "weighted": "8"
+    },
+    {
+        "name": "witch",
+        "modularity_class": "26",
+        "weighted": "6"
+    },
+    {
+        "name": "witchdoctor",
+        "modularity_class": "26",
+        "weighted": "10"
+    },
+    {
+        "name": "women",
+        "modularity_class": "20",
+        "weighted": "13"
+    },
+    {
+        "name": "womenagainstfeminism",
+        "modularity_class": "29",
+        "weighted": "50"
+    },
+    {
+        "name": "womenboycotttwitter",
+        "modularity_class": "11",
+        "weighted": "28"
+    },
+    {
+        "name": "womeninhollywood",
+        "modularity_class": "11",
+        "weighted": "28"
+    },
+    {
+        "name": "womeninstem",
+        "modularity_class": "10",
+        "weighted": "4"
+    },
+    {
+        "name": "womensconvention",
+        "modularity_class": "11",
+        "weighted": "10"
+    },
+    {
+        "name": "womensinspire",
+        "modularity_class": "11",
+        "weighted": "10"
+    },
+    {
+        "name": "womensrights",
+        "modularity_class": "19",
+        "weighted": "4"
+    },
+    {
+        "name": "womensvoices17",
+        "modularity_class": "11",
+        "weighted": "18"
+    },
+    {
+        "name": "womentoo",
+        "modularity_class": "17",
+        "weighted": "2"
+    },
+    {
+        "name": "womenwriters",
+        "modularity_class": "29",
+        "weighted": "24"
+    },
+    {
+        "name": "workinprogress",
+        "modularity_class": "10",
+        "weighted": "7"
+    },
+    {
+        "name": "writerslife",
+        "modularity_class": "11",
+        "weighted": "12"
+    },
+    {
+        "name": "writing",
+        "modularity_class": "11",
+        "weighted": "12"
+    },
+    {
+        "name": "yesyou",
+        "modularity_class": "1",
+        "weighted": "4"
+    },
+    {
+        "name": "yournotalone",
+        "modularity_class": "10",
+        "weighted": "20"
+    },
+    {
+        "name": "youtoo",
+        "modularity_class": "29",
+        "weighted": "1"
+    }
+],
+	  "links": [
+    {
+        "source": "batman",
+        "target": "dccomics",
+        "value": "3"
+    },
+    {
+        "source": "blacklivesmatter",
+        "target": "defend",
+        "value": "5"
+    },
+    {
+        "source": "bluelivesmatter",
+        "target": "defend",
+        "value": "5"
+    },
+    {
+        "source": "defend",
+        "target": "deflect",
+        "value": "5"
+    },
+    {
+        "source": "blacklivesmatter",
+        "target": "deflect",
+        "value": "5"
+    },
+    {
+        "source": "bluelivesmatter",
+        "target": "deflect",
+        "value": "5"
+    },
+    {
+        "source": "defend",
+        "target": "deny",
+        "value": "5"
+    },
+    {
+        "source": "deflect",
+        "target": "deny",
+        "value": "5"
+    },
+    {
+        "source": "blacklivesmatter",
+        "target": "deny",
+        "value": "5"
+    },
+    {
+        "source": "bluelivesmatter",
+        "target": "deny",
+        "value": "5"
+    },
+    {
+        "source": "cats",
+        "target": "dogs",
+        "value": "2"
+    },
+    {
+        "source": "advocacy",
+        "target": "domesticviolence",
+        "value": "7"
+    },
+    {
+        "source": "advocacy",
+        "target": "drdelvena",
+        "value": "8"
+    },
+    {
+        "source": "domesticviolence",
+        "target": "drdelvena",
+        "value": "7"
+    },
+    {
+        "source": "advocacy",
+        "target": "drtbrainlove",
+        "value": "8"
+    },
+    {
+        "source": "domesticviolence",
+        "target": "drtbrainlove",
+        "value": "7"
+    },
+    {
+        "source": "drdelvena",
+        "target": "drtbrainlove",
+        "value": "8"
+    },
+    {
+        "source": "coming",
+        "target": "ducktail",
+        "value": "2"
+    },
+    {
+        "source": "advocacy",
+        "target": "dvam",
+        "value": "3"
+    },
+    {
+        "source": "domesticviolence",
+        "target": "dvam",
+        "value": "2"
+    },
+    {
+        "source": "drdelvena",
+        "target": "dvam",
+        "value": "3"
+    },
+    {
+        "source": "drtbrainlove",
+        "target": "dvam",
+        "value": "3"
+    },
+    {
+        "source": "abuse",
+        "target": "empowermenthour",
+        "value": "1"
+    },
+    {
+        "source": "dumptrump",
+        "target": "endrapeculturenow",
+        "value": "2"
+    },
+    {
+        "source": "aarp",
+        "target": "agenda2030",
+        "value": "238"
+    },
+    {
+        "source": "dogs",
+        "target": "evil",
+        "value": "2"
+    },
+    {
+        "source": "cats",
+        "target": "evil",
+        "value": "2"
+    },
+    {
+        "source": "agenda2030",
+        "target": "agenda21",
+        "value": "238"
+    },
+    {
+        "source": "aarp",
+        "target": "agenda21",
+        "value": "238"
+    },
+    {
+        "source": "childabuse",
+        "target": "fb",
+        "value": "1"
+    },
+    {
+        "source": "dogs",
+        "target": "feminism",
+        "value": "2"
+    },
+    {
+        "source": "agenda2030",
+        "target": "feminism",
+        "value": "238"
+    },
+    {
+        "source": "evil",
+        "target": "feminism",
+        "value": "12"
+    },
+    {
+        "source": "fakerape",
+        "target": "feminism",
+        "value": "2"
+    },
+    {
+        "source": "agenda21",
+        "target": "feminism",
+        "value": "238"
+    },
+    {
+        "source": "aarp",
+        "target": "feminism",
+        "value": "238"
+    },
+    {
+        "source": "antifeminst",
+        "target": "feminism",
+        "value": "8"
+    },
+    {
+        "source": "cats",
+        "target": "feminism",
+        "value": "2"
+    },
+    {
+        "source": "dogs",
+        "target": "feminismisawful",
+        "value": "2"
+    },
+    {
+        "source": "evil",
+        "target": "feminismisawful",
+        "value": "12"
+    },
+    {
+        "source": "feminism",
+        "target": "feminismisawful",
+        "value": "26"
+    },
+    {
+        "source": "cats",
+        "target": "feminismisawful",
+        "value": "2"
+    },
+    {
+        "source": "fakerape",
+        "target": "feminismiscancer",
+        "value": "2"
+    },
+    {
+        "source": "feminism",
+        "target": "feminismiscancer",
+        "value": "15"
+    },
+    {
+        "source": "antifeminst",
+        "target": "feminismiscancer",
+        "value": "8"
+    },
+    {
+        "source": "dating",
+        "target": "feminist",
+        "value": "3"
+    },
+    {
+        "source": "fakerape",
+        "target": "feminist",
+        "value": "2"
+    },
+    {
+        "source": "feminism",
+        "target": "feminist",
+        "value": "14"
+    },
+    {
+        "source": "feminismiscancer",
+        "target": "feminist",
+        "value": "14"
+    },
+    {
+        "source": "antifeminst",
+        "target": "feminist",
+        "value": "8"
+    },
+    {
+        "source": "fakerape",
+        "target": "feminists",
+        "value": "2"
+    },
+    {
+        "source": "feminism",
+        "target": "feminists",
+        "value": "14"
+    },
+    {
+        "source": "feminismiscancer",
+        "target": "feminists",
+        "value": "13"
+    },
+    {
+        "source": "feminist",
+        "target": "feminists",
+        "value": "13"
+    },
+    {
+        "source": "antifeminst",
+        "target": "feminists",
+        "value": "8"
+    },
+    {
+        "source": "abuse",
+        "target": "film",
+        "value": "2"
+    },
+    {
+        "source": "counseling",
+        "target": "film",
+        "value": "2"
+    },
+    {
+        "source": "dating",
+        "target": "firstdate",
+        "value": "3"
+    },
+    {
+        "source": "feminist",
+        "target": "firstdate",
+        "value": "3"
+    },
+    {
+        "source": "cnn",
+        "target": "foxnews",
+        "value": "30"
+    },
+    {
+        "source": "defend",
+        "target": "gaslight",
+        "value": "5"
+    },
+    {
+        "source": "deflect",
+        "target": "gaslight",
+        "value": "5"
+    },
+    {
+        "source": "deny",
+        "target": "gaslight",
+        "value": "5"
+    },
+    {
+        "source": "blacklivesmatter",
+        "target": "gaslight",
+        "value": "5"
+    },
+    {
+        "source": "bluelivesmatter",
+        "target": "gaslight",
+        "value": "5"
+    },
+    {
+        "source": "feminismus",
+        "target": "gender",
+        "value": "2"
+    },
+    {
+        "source": "beyou",
+        "target": "goldenglobes",
+        "value": "1"
+    },
+    {
+        "source": "blacklivesmatter",
+        "target": "goldenglobes",
+        "value": "1"
+    },
+    {
+        "source": "film",
+        "target": "grandrapids",
+        "value": "2"
+    },
+    {
+        "source": "abuse",
+        "target": "grandrapids",
+        "value": "2"
+    },
+    {
+        "source": "counseling",
+        "target": "grandrapids",
+        "value": "2"
+    },
+    {
+        "source": "empowerment_of_women",
+        "target": "greetings",
+        "value": "6"
+    },
+    {
+        "source": "equality",
+        "target": "harassment",
+        "value": "1"
+    },
+    {
+        "source": "feminism",
+        "target": "harassment",
+        "value": "1"
+    },
+    {
+        "source": "feminism",
+        "target": "harveyweinstein",
+        "value": "1"
+    },
+    {
+        "source": "harassment",
+        "target": "harveyweinstein",
+        "value": "1"
+    },
+    {
+        "source": "harvey",
+        "target": "harveyweinstein",
+        "value": "3"
+    },
+    {
+        "source": "amreading",
+        "target": "harveyweinstein",
+        "value": "2"
+    },
+    {
+        "source": "amwriting",
+        "target": "harveyweinstein",
+        "value": "2"
+    },
+    {
+        "source": "books",
+        "target": "harveyweinstein",
+        "value": "2"
+    },
+    {
+        "source": "beyour",
+        "target": "heal",
+        "value": "4"
+    },
+    {
+        "source": "allvictimscount",
+        "target": "allvictimsmatter",
+        "value": "2"
+    },
+    {
+        "source": "churchtoo",
+        "target": "hertoo",
+        "value": "1"
+    },
+    {
+        "source": "goldenglobes",
+        "target": "himtoo",
+        "value": "1"
+    },
+    {
+        "source": "hertoo",
+        "target": "himtoo",
+        "value": "3"
+    },
+    {
+        "source": "himthough",
+        "target": "himtoo",
+        "value": "2"
+    },
+    {
+        "source": "boystoo",
+        "target": "hollywood",
+        "value": "2"
+    },
+    {
+        "source": "childabuse",
+        "target": "hollywood",
+        "value": "1"
+    },
+    {
+        "source": "hollywoodpredators",
+        "target": "houseofcards",
+        "value": "3"
+    },
+    {
+        "source": "collectiveresponsibility",
+        "target": "howiwillchange",
+        "value": "3"
+    },
+    {
+        "source": "howiwillchange",
+        "target": "howwewillchange",
+        "value": "3"
+    },
+    {
+        "source": "collectiveresponsibility",
+        "target": "howwewillchange",
+        "value": "3"
+    },
+    {
+        "source": "boystoo",
+        "target": "ibelievethewomen",
+        "value": "2"
+    },
+    {
+        "source": "beyou",
+        "target": "ibelieveyou",
+        "value": "1"
+    },
+    {
+        "source": "howiwillchange",
+        "target": "ihearyou",
+        "value": "17"
+    },
+    {
+        "source": "boysandmentoo",
+        "target": "ihearyou",
+        "value": "58"
+    },
+    {
+        "source": "eclecticshaman",
+        "target": "illumination",
+        "value": "2"
+    },
+    {
+        "source": "amreading",
+        "target": "amwriting",
+        "value": "2"
+    },
+    {
+        "source": "foxnews",
+        "target": "itsgettingsillynow",
+        "value": "13"
+    },
+    {
+        "source": "cnn",
+        "target": "itsgettingsillynow",
+        "value": "11"
+    },
+    {
+        "source": "howiwillchange",
+        "target": "iwillspeakup",
+        "value": "17"
+    },
+    {
+        "source": "ihearyou",
+        "target": "iwillspeakup",
+        "value": "17"
+    },
+    {
+        "source": "hollywoodpredators",
+        "target": "johntravolta",
+        "value": "3"
+    },
+    {
+        "source": "houseofcards",
+        "target": "johntravolta",
+        "value": "3"
+    },
+    {
+        "source": "existen",
+        "target": "joseluissariego",
+        "value": "4"
+    },
+    {
+        "source": "hertoo",
+        "target": "justice",
+        "value": "1"
+    },
+    {
+        "source": "johntravolta",
+        "target": "justice",
+        "value": "1"
+    },
+    {
+        "source": "himthough",
+        "target": "justinbieber",
+        "value": "2"
+    },
+    {
+        "source": "himtoo",
+        "target": "justinbieber",
+        "value": "2"
+    },
+    {
+        "source": "boystoo",
+        "target": "kevinspacey",
+        "value": "1"
+    },
+    {
+        "source": "column",
+        "target": "lezen",
+        "value": "9"
+    },
+    {
+        "source": "health",
+        "target": "lgbtq",
+        "value": "2"
+    },
+    {
+        "source": "csa",
+        "target": "littlelivesmatter",
+        "value": "3"
+    },
+    {
+        "source": "hollywoodpredators",
+        "target": "louisck",
+        "value": "3"
+    },
+    {
+        "source": "houseofcards",
+        "target": "louisck",
+        "value": "3"
+    },
+    {
+        "source": "johntravolta",
+        "target": "louisck",
+        "value": "3"
+    },
+    {
+        "source": "andrearamsey",
+        "target": "maga",
+        "value": "1"
+    },
+    {
+        "source": "1in6",
+        "target": "malesurvivor",
+        "value": "1"
+    },
+    {
+        "source": "csa",
+        "target": "malesurvivor",
+        "value": "2"
+    },
+    {
+        "source": "csasurvivors",
+        "target": "malevictims",
+        "value": "3"
+    },
+    {
+        "source": "askwomenanything",
+        "target": "media",
+        "value": "8"
+    },
+    {
+        "source": "beyondmetoo",
+        "target": "media",
+        "value": "6"
+    },
+    {
+        "source": "eclecticshaman",
+        "target": "medicineman",
+        "value": "2"
+    },
+    {
+        "source": "illumination",
+        "target": "medicineman",
+        "value": "2"
+    },
+    {
+        "source": "domesticviolence",
+        "target": "meetoo",
+        "value": "1"
+    },
+    {
+        "source": "feminism",
+        "target": "men",
+        "value": "2"
+    },
+    {
+        "source": "feminists",
+        "target": "men",
+        "value": "1"
+    },
+    {
+        "source": "meaningoflife",
+        "target": "men",
+        "value": "2"
+    },
+    {
+        "source": "meetoo",
+        "target": "men",
+        "value": "1"
+    },
+    {
+        "source": "dating",
+        "target": "menaretrash",
+        "value": "3"
+    },
+    {
+        "source": "feminist",
+        "target": "menaretrash",
+        "value": "3"
+    },
+    {
+        "source": "firstdate",
+        "target": "menaretrash",
+        "value": "3"
+    },
+    {
+        "source": "harveyweinstein",
+        "target": "menaretrash",
+        "value": "1"
+    },
+    {
+        "source": "dating",
+        "target": "meninist",
+        "value": "3"
+    },
+    {
+        "source": "feminism",
+        "target": "meninist",
+        "value": "1"
+    },
+    {
+        "source": "feminist",
+        "target": "meninist",
+        "value": "4"
+    },
+    {
+        "source": "firstdate",
+        "target": "meninist",
+        "value": "3"
+    },
+    {
+        "source": "harassment",
+        "target": "meninist",
+        "value": "1"
+    },
+    {
+        "source": "harveyweinstein",
+        "target": "meninist",
+        "value": "1"
+    },
+    {
+        "source": "menaretrash",
+        "target": "meninist",
+        "value": "3"
+    },
+    {
+        "source": "meaningoflife",
+        "target": "mens",
+        "value": "2"
+    },
+    {
+        "source": "men",
+        "target": "mens",
+        "value": "2"
+    },
+    {
+        "source": "dogs",
+        "target": "mensday",
+        "value": "2"
+    },
+    {
+        "source": "evil",
+        "target": "mensday",
+        "value": "12"
+    },
+    {
+        "source": "feminism",
+        "target": "mensday",
+        "value": "26"
+    },
+    {
+        "source": "feminismisawful",
+        "target": "mensday",
+        "value": "26"
+    },
+    {
+        "source": "cats",
+        "target": "mensday",
+        "value": "2"
+    },
+    {
+        "source": "feminist",
+        "target": "mensrights",
+        "value": "1"
+    },
+    {
+        "source": "himthough",
+        "target": "mensrights",
+        "value": "1"
+    },
+    {
+        "source": "himtoo",
+        "target": "mensrights",
+        "value": "1"
+    },
+    {
+        "source": "justinbieber",
+        "target": "mensrights",
+        "value": "1"
+    },
+    {
+        "source": "malevictims",
+        "target": "mensrights",
+        "value": "3"
+    },
+    {
+        "source": "csasurvivors",
+        "target": "mensrights",
+        "value": "3"
+    },
+    {
+        "source": "meaningoflife",
+        "target": "mensrightsmeetmh",
+        "value": "2"
+    },
+    {
+        "source": "men",
+        "target": "mensrightsmeetmh",
+        "value": "2"
+    },
+    {
+        "source": "mens",
+        "target": "mensrightsmeetmh",
+        "value": "2"
+    },
+    {
+        "source": "eclecticshaman",
+        "target": "mentalabuse",
+        "value": "2"
+    },
+    {
+        "source": "illumination",
+        "target": "mentalabuse",
+        "value": "2"
+    },
+    {
+        "source": "abuse",
+        "target": "mentalabuse",
+        "value": "1"
+    },
+    {
+        "source": "medicineman",
+        "target": "mentalabuse",
+        "value": "2"
+    },
+    {
+        "source": "eclecticshaman",
+        "target": "mentalslavery",
+        "value": "2"
+    },
+    {
+        "source": "illumination",
+        "target": "mentalslavery",
+        "value": "2"
+    },
+    {
+        "source": "medicineman",
+        "target": "mentalslavery",
+        "value": "2"
+    },
+    {
+        "source": "mentalabuse",
+        "target": "mentalslavery",
+        "value": "5"
+    },
+    {
+        "source": "hollywood",
+        "target": "meto",
+        "value": "2"
+    },
+    {
+        "source": "boystoo",
+        "target": "meto",
+        "value": "2"
+    },
+    {
+        "source": "dccomics",
+        "target": "metoomen",
+        "value": "3"
+    },
+    {
+        "source": "domesticviolence",
+        "target": "metoomen",
+        "value": "1"
+    },
+    {
+        "source": "fearnoscar",
+        "target": "metoomen",
+        "value": "2"
+    },
+    {
+        "source": "harvey",
+        "target": "metoomen",
+        "value": "3"
+    },
+    {
+        "source": "harveyweinstein",
+        "target": "metoomen",
+        "value": "3"
+    },
+    {
+        "source": "hollywood",
+        "target": "metoomen",
+        "value": "2"
+    },
+    {
+        "source": "howiwillchange",
+        "target": "metoomen",
+        "value": "2"
+    },
+    {
+        "source": "ihearyou",
+        "target": "metoomen",
+        "value": "6"
+    },
+    {
+        "source": "meetoo",
+        "target": "metoomen",
+        "value": "2"
+    },
+    {
+        "source": "men",
+        "target": "metoomen",
+        "value": "2"
+    },
+    {
+        "source": "mentalhealth",
+        "target": "metoomen",
+        "value": "2"
+    },
+    {
+        "source": "meto",
+        "target": "metoomen",
+        "value": "2"
+    },
+    {
+        "source": "barbarawalters",
+        "target": "metoomen",
+        "value": "4"
+    },
+    {
+        "source": "batman",
+        "target": "metoomen",
+        "value": "3"
+    },
+    {
+        "source": "boycotthollywood",
+        "target": "metoomen",
+        "value": "4"
+    },
+    {
+        "source": "boystoo",
+        "target": "metoomen",
+        "value": "2"
+    },
+    {
+        "source": "castingcouch",
+        "target": "metoomen",
+        "value": "4"
+    },
+    {
+        "source": "men",
+        "target": "metoomovement",
+        "value": "1"
+    },
+    {
+        "source": "metoomen",
+        "target": "metoomovement",
+        "value": "2"
+    },
+    {
+        "source": "lajjadiaries",
+        "target": "metooportraits",
+        "value": "4"
+    },
+    {
+        "source": "hertoo",
+        "target": "metoothedebate",
+        "value": "1"
+    },
+    {
+        "source": "himtoo",
+        "target": "metoothedebate",
+        "value": "1"
+    },
+    {
+        "source": "metoomen",
+        "target": "metoothedebate",
+        "value": "1"
+    },
+    {
+        "source": "metoomen",
+        "target": "metoowhatnext",
+        "value": "1"
+    },
+    {
+        "source": "dogs",
+        "target": "mgtow",
+        "value": "2"
+    },
+    {
+        "source": "agenda2030",
+        "target": "mgtow",
+        "value": "238"
+    },
+    {
+        "source": "evil",
+        "target": "mgtow",
+        "value": "12"
+    },
+    {
+        "source": "agenda21",
+        "target": "mgtow",
+        "value": "238"
+    },
+    {
+        "source": "feminism",
+        "target": "mgtow",
+        "value": "286"
+    },
+    {
+        "source": "feminismisawful",
+        "target": "mgtow",
+        "value": "26"
+    },
+    {
+        "source": "foxnews",
+        "target": "mgtow",
+        "value": "27"
+    },
+    {
+        "source": "aarp",
+        "target": "mgtow",
+        "value": "238"
+    },
+    {
+        "source": "itsgettingsillynow",
+        "target": "mgtow",
+        "value": "9"
+    },
+    {
+        "source": "mensday",
+        "target": "mgtow",
+        "value": "26"
+    },
+    {
+        "source": "cats",
+        "target": "mgtow",
+        "value": "2"
+    },
+    {
+        "source": "cedaw",
+        "target": "mgtow",
+        "value": "8"
+    },
+    {
+        "source": "cnn",
+        "target": "mgtow",
+        "value": "27"
+    },
+    {
+        "source": "ihearyou",
+        "target": "midos",
+        "value": "6"
+    },
+    {
+        "source": "metoomen",
+        "target": "midos",
+        "value": "6"
+    },
+    {
+        "source": "hetoo",
+        "target": "misery4money",
+        "value": "1"
+    },
+    {
+        "source": "metoomen",
+        "target": "misery4money",
+        "value": "1"
+    },
+    {
+        "source": "mmim",
+        "target": "mmiwg",
+        "value": "2"
+    },
+    {
+        "source": "bruceweber",
+        "target": "modelos",
+        "value": "5"
+    },
+    {
+        "source": "himthough",
+        "target": "mra",
+        "value": "2"
+    },
+    {
+        "source": "himtoo",
+        "target": "mra",
+        "value": "2"
+    },
+    {
+        "source": "justinbieber",
+        "target": "mra",
+        "value": "2"
+    },
+    {
+        "source": "mensrights",
+        "target": "mra",
+        "value": "1"
+    },
+    {
+        "source": "mgtow",
+        "target": "mra",
+        "value": "2"
+    },
+    {
+        "source": "foxnews",
+        "target": "msnbc",
+        "value": "29"
+    },
+    {
+        "source": "itsgettingsillynow",
+        "target": "msnbc",
+        "value": "10"
+    },
+    {
+        "source": "mgtow",
+        "target": "msnbc",
+        "value": "27"
+    },
+    {
+        "source": "cnn",
+        "target": "msnbc",
+        "value": "29"
+    },
+    {
+        "source": "mensrights",
+        "target": "nationalism",
+        "value": "2"
+    },
+    {
+        "source": "ducktail",
+        "target": "needed",
+        "value": "2"
+    },
+    {
+        "source": "coming",
+        "target": "needed",
+        "value": "2"
+    },
+    {
+        "source": "dating",
+        "target": "niceguys",
+        "value": "3"
+    },
+    {
+        "source": "feminist",
+        "target": "niceguys",
+        "value": "3"
+    },
+    {
+        "source": "firstdate",
+        "target": "niceguys",
+        "value": "3"
+    },
+    {
+        "source": "menaretrash",
+        "target": "niceguys",
+        "value": "3"
+    },
+    {
+        "source": "meninist",
+        "target": "niceguys",
+        "value": "3"
+    },
+    {
+        "source": "lgbtq",
+        "target": "nolabels",
+        "value": "1"
+    },
+    {
+        "source": "abuse",
+        "target": "nolabels",
+        "value": "1"
+    },
+    {
+        "source": "mentalabuse",
+        "target": "nolabels",
+        "value": "1"
+    },
+    {
+        "source": "abuse",
+        "target": "nomore",
+        "value": "1"
+    },
+    {
+        "source": "boystoo",
+        "target": "nomore",
+        "value": "1"
+    },
+    {
+        "source": "guystoo",
+        "target": "nomoreabuse",
+        "value": "1"
+    },
+    {
+        "source": "howiwillchange",
+        "target": "notallmen",
+        "value": "1"
+    },
+    {
+        "source": "malevictims",
+        "target": "notjustourdaughters",
+        "value": "3"
+    },
+    {
+        "source": "mensrights",
+        "target": "notjustourdaughters",
+        "value": "3"
+    },
+    {
+        "source": "csasurvivors",
+        "target": "notjustourdaughters",
+        "value": "3"
+    },
+    {
+        "source": "fakerape",
+        "target": "notme",
+        "value": "1"
+    },
+    {
+        "source": "feminism",
+        "target": "notme",
+        "value": "4"
+    },
+    {
+        "source": "feminismiscancer",
+        "target": "notme",
+        "value": "4"
+    },
+    {
+        "source": "feminist",
+        "target": "notme",
+        "value": "4"
+    },
+    {
+        "source": "feminists",
+        "target": "notme",
+        "value": "4"
+    },
+    {
+        "source": "antifeminst",
+        "target": "notme",
+        "value": "3"
+    },
+    {
+        "source": "meetoo",
+        "target": "notme",
+        "value": "1"
+    },
+    {
+        "source": "kevinspacey",
+        "target": "notokay",
+        "value": "1"
+    },
+    {
+        "source": "nomore",
+        "target": "notokay",
+        "value": "1"
+    },
+    {
+        "source": "boystoo",
+        "target": "notokay",
+        "value": "2"
+    },
+    {
+        "source": "foxnews",
+        "target": "oann",
+        "value": "31"
+    },
+    {
+        "source": "itsgettingsillynow",
+        "target": "oann",
+        "value": "12"
+    },
+    {
+        "source": "mgtow",
+        "target": "oann",
+        "value": "27"
+    },
+    {
+        "source": "msnbc",
+        "target": "oann",
+        "value": "29"
+    },
+    {
+        "source": "cnn",
+        "target": "oann",
+        "value": "30"
+    },
+    {
+        "source": "dating",
+        "target": "okcupid",
+        "value": "3"
+    },
+    {
+        "source": "feminist",
+        "target": "okcupid",
+        "value": "3"
+    },
+    {
+        "source": "firstdate",
+        "target": "okcupid",
+        "value": "3"
+    },
+    {
+        "source": "menaretrash",
+        "target": "okcupid",
+        "value": "3"
+    },
+    {
+        "source": "meninist",
+        "target": "okcupid",
+        "value": "3"
+    },
+    {
+        "source": "niceguys",
+        "target": "okcupid",
+        "value": "3"
+    },
+    {
+        "source": "hollywoodpredators",
+        "target": "oliverstone",
+        "value": "3"
+    },
+    {
+        "source": "houseofcards",
+        "target": "oliverstone",
+        "value": "3"
+    },
+    {
+        "source": "johntravolta",
+        "target": "oliverstone",
+        "value": "3"
+    },
+    {
+        "source": "louisck",
+        "target": "oliverstone",
+        "value": "3"
+    },
+    {
+        "source": "lezen",
+        "target": "ongewenst",
+        "value": "9"
+    },
+    {
+        "source": "column",
+        "target": "ongewenst",
+        "value": "9"
+    },
+    {
+        "source": "empowerment_of_women",
+        "target": "oprah2020",
+        "value": "6"
+    },
+    {
+        "source": "greetings",
+        "target": "oprah2020",
+        "value": "6"
+    },
+    {
+        "source": "fosteringjustice",
+        "target": "outlier",
+        "value": "2"
+    },
+    {
+        "source": "fosteringjustice",
+        "target": "outlierstories",
+        "value": "1"
+    },
+    {
+        "source": "outlier",
+        "target": "outlierstories",
+        "value": "1"
+    },
+    {
+        "source": "defend",
+        "target": "patriarchy",
+        "value": "1"
+    },
+    {
+        "source": "deflect",
+        "target": "patriarchy",
+        "value": "1"
+    },
+    {
+        "source": "deny",
+        "target": "patriarchy",
+        "value": "1"
+    },
+    {
+        "source": "domesticviolence",
+        "target": "patriarchy",
+        "value": "1"
+    },
+    {
+        "source": "gaslight",
+        "target": "patriarchy",
+        "value": "1"
+    },
+    {
+        "source": "meetoo",
+        "target": "patriarchy",
+        "value": "1"
+    },
+    {
+        "source": "metoomen",
+        "target": "patriarchy",
+        "value": "1"
+    },
+    {
+        "source": "blacklivesmatter",
+        "target": "patriarchy",
+        "value": "1"
+    },
+    {
+        "source": "bluelivesmatter",
+        "target": "patriarchy",
+        "value": "1"
+    },
+    {
+        "source": "littlelivesmatter",
+        "target": "pedogate",
+        "value": "3"
+    },
+    {
+        "source": "csa",
+        "target": "pedogate",
+        "value": "3"
+    },
+    {
+        "source": "littlelivesmatter",
+        "target": "pedowood",
+        "value": "3"
+    },
+    {
+        "source": "pedogate",
+        "target": "pedowood",
+        "value": "7"
+    },
+    {
+        "source": "csa",
+        "target": "pedowood",
+        "value": "3"
+    },
+    {
+        "source": "feminismus",
+        "target": "pinkstinks",
+        "value": "2"
+    },
+    {
+        "source": "littlelivesmatter",
+        "target": "pizzagate",
+        "value": "3"
+    },
+    {
+        "source": "pedogate",
+        "target": "pizzagate",
+        "value": "7"
+    },
+    {
+        "source": "pedowood",
+        "target": "pizzagate",
+        "value": "7"
+    },
+    {
+        "source": "csa",
+        "target": "pizzagate",
+        "value": "3"
+    },
+    {
+        "source": "littlelivesmatter",
+        "target": "pizzagateisreal",
+        "value": "2"
+    },
+    {
+        "source": "pedogate",
+        "target": "pizzagateisreal",
+        "value": "2"
+    },
+    {
+        "source": "pedowood",
+        "target": "pizzagateisreal",
+        "value": "2"
+    },
+    {
+        "source": "pizzagate",
+        "target": "pizzagateisreal",
+        "value": "2"
+    },
+    {
+        "source": "csa",
+        "target": "pizzagateisreal",
+        "value": "2"
+    },
+    {
+        "source": "askwomenanything",
+        "target": "beyondmetoo",
+        "value": "6"
+    },
+    {
+        "source": "bloggers",
+        "target": "pr",
+        "value": "3"
+    },
+    {
+        "source": "bookreviewers",
+        "target": "pr",
+        "value": "3"
+    },
+    {
+        "source": "hertoo",
+        "target": "prettymuchallwomentoo",
+        "value": "3"
+    },
+    {
+        "source": "defend",
+        "target": "privilege",
+        "value": "5"
+    },
+    {
+        "source": "deflect",
+        "target": "privilege",
+        "value": "5"
+    },
+    {
+        "source": "deny",
+        "target": "privilege",
+        "value": "5"
+    },
+    {
+        "source": "gaslight",
+        "target": "privilege",
+        "value": "5"
+    },
+    {
+        "source": "patriarchy",
+        "target": "privilege",
+        "value": "1"
+    },
+    {
+        "source": "blacklivesmatter",
+        "target": "privilege",
+        "value": "5"
+    },
+    {
+        "source": "bluelivesmatter",
+        "target": "privilege",
+        "value": "5"
+    },
+    {
+        "source": "howiwillchange",
+        "target": "problemofevil",
+        "value": "2"
+    },
+    {
+        "source": "howwewillchange",
+        "target": "problemofevil",
+        "value": "2"
+    },
+    {
+        "source": "collectiveresponsibility",
+        "target": "problemofevil",
+        "value": "2"
+    },
+    {
+        "source": "dumptrump",
+        "target": "prosecutetrump",
+        "value": "2"
+    },
+    {
+        "source": "endrapeculturenow",
+        "target": "prosecutetrump",
+        "value": "2"
+    },
+    {
+        "source": "pr",
+        "target": "publicist",
+        "value": "3"
+    },
+    {
+        "source": "bloggers",
+        "target": "publicist",
+        "value": "3"
+    },
+    {
+        "source": "bookreviewers",
+        "target": "publicist",
+        "value": "3"
+    },
+    {
+        "source": "femaleprivilege",
+        "target": "rape",
+        "value": "3"
+    },
+    {
+        "source": "health",
+        "target": "rape",
+        "value": "1"
+    },
+    {
+        "source": "hollywood",
+        "target": "rape",
+        "value": "1"
+    },
+    {
+        "source": "lgbtq",
+        "target": "rape",
+        "value": "1"
+    },
+    {
+        "source": "malevictims",
+        "target": "rape",
+        "value": "3"
+    },
+    {
+        "source": "mensrights",
+        "target": "rape",
+        "value": "3"
+    },
+    {
+        "source": "notjustourdaughters",
+        "target": "rape",
+        "value": "3"
+    },
+    {
+        "source": "csasurvivors",
+        "target": "rape",
+        "value": "3"
+    },
+    {
+        "source": "fakerape",
+        "target": "rapeculture",
+        "value": "2"
+    },
+    {
+        "source": "feminism",
+        "target": "rapeculture",
+        "value": "2"
+    },
+    {
+        "source": "feminismiscancer",
+        "target": "rapeculture",
+        "value": "2"
+    },
+    {
+        "source": "feminist",
+        "target": "rapeculture",
+        "value": "2"
+    },
+    {
+        "source": "feminists",
+        "target": "rapeculture",
+        "value": "2"
+    },
+    {
+        "source": "hertoo",
+        "target": "rapeculture",
+        "value": "1"
+    },
+    {
+        "source": "notme",
+        "target": "rapeculture",
+        "value": "1"
+    },
+    {
+        "source": "churchtoo",
+        "target": "rapeculture",
+        "value": "1"
+    },
+    {
+        "source": "lezen",
+        "target": "read",
+        "value": "9"
+    },
+    {
+        "source": "ongewenst",
+        "target": "read",
+        "value": "9"
+    },
+    {
+        "source": "column",
+        "target": "read",
+        "value": "9"
+    },
+    {
+        "source": "harveyweinstein",
+        "target": "reading",
+        "value": "2"
+    },
+    {
+        "source": "amreading",
+        "target": "reading",
+        "value": "2"
+    },
+    {
+        "source": "amwriting",
+        "target": "reading",
+        "value": "2"
+    },
+    {
+        "source": "books",
+        "target": "reading",
+        "value": "2"
+    },
+    {
+        "source": "csa",
+        "target": "recovery",
+        "value": "2"
+    },
+    {
+        "source": "csasurvivors",
+        "target": "recovery",
+        "value": "2"
+    },
+    {
+        "source": "fb",
+        "target": "resist",
+        "value": "1"
+    },
+    {
+        "source": "ibelieveyou",
+        "target": "resist",
+        "value": "1"
+    },
+    {
+        "source": "abuse",
+        "target": "resist",
+        "value": "1"
+    },
+    {
+        "source": "nomore",
+        "target": "resist",
+        "value": "1"
+    },
+    {
+        "source": "beyou",
+        "target": "resist",
+        "value": "1"
+    },
+    {
+        "source": "dogs",
+        "target": "riskreduction",
+        "value": "2"
+    },
+    {
+        "source": "evil",
+        "target": "riskreduction",
+        "value": "7"
+    },
+    {
+        "source": "feminism",
+        "target": "riskreduction",
+        "value": "7"
+    },
+    {
+        "source": "feminismisawful",
+        "target": "riskreduction",
+        "value": "7"
+    },
+    {
+        "source": "mensday",
+        "target": "riskreduction",
+        "value": "7"
+    },
+    {
+        "source": "mgtow",
+        "target": "riskreduction",
+        "value": "7"
+    },
+    {
+        "source": "cats",
+        "target": "riskreduction",
+        "value": "2"
+    },
+    {
+        "source": "alllivesmatter",
+        "target": "blacklivesmatter",
+        "value": "1"
+    },
+    {
+        "source": "harvey",
+        "target": "rosearmy",
+        "value": "3"
+    },
+    {
+        "source": "harveyweinstein",
+        "target": "rosearmy",
+        "value": "3"
+    },
+    {
+        "source": "metoomen",
+        "target": "rosearmy",
+        "value": "3"
+    },
+    {
+        "source": "podernfamily",
+        "target": "rosearmy",
+        "value": "2"
+    },
+    {
+        "source": "fb",
+        "target": "roymoore",
+        "value": "1"
+    },
+    {
+        "source": "resist",
+        "target": "roymoore",
+        "value": "1"
+    },
+    {
+        "source": "abuse",
+        "target": "blackmagic",
+        "value": "2"
+    },
+    {
+        "source": "fakecases",
+        "target": "savemen",
+        "value": "25"
+    },
+    {
+        "source": "hertoo",
+        "target": "sdg5",
+        "value": "3"
+    },
+    {
+        "source": "prettymuchallwomentoo",
+        "target": "sdg5",
+        "value": "3"
+    },
+    {
+        "source": "fb",
+        "target": "sexcrimes",
+        "value": "1"
+    },
+    {
+        "source": "childabuse",
+        "target": "sexcrimes",
+        "value": "1"
+    },
+    {
+        "source": "misandrie",
+        "target": "sexismus",
+        "value": "2"
+    },
+    {
+        "source": "hollywood",
+        "target": "sexualabuse",
+        "value": "1"
+    },
+    {
+        "source": "johntravolta",
+        "target": "sexualabuse",
+        "value": "1"
+    },
+    {
+        "source": "justice",
+        "target": "sexualabuse",
+        "value": "1"
+    },
+    {
+        "source": "malesurvivor",
+        "target": "sexualabuse",
+        "value": "1"
+    },
+    {
+        "source": "abuse",
+        "target": "sexualabuse",
+        "value": "1"
+    },
+    {
+        "source": "men",
+        "target": "sexualabuse",
+        "value": "1"
+    },
+    {
+        "source": "mentalabuse",
+        "target": "sexualabuse",
+        "value": "6"
+    },
+    {
+        "source": "mentalslavery",
+        "target": "sexualabuse",
+        "value": "1"
+    },
+    {
+        "source": "nolabels",
+        "target": "sexualabuse",
+        "value": "1"
+    },
+    {
+        "source": "rape",
+        "target": "sexualabuse",
+        "value": "1"
+    },
+    {
+        "source": "csa",
+        "target": "sexualabuse",
+        "value": "1"
+    },
+    {
+        "source": "advocacy",
+        "target": "sexualassault",
+        "value": "7"
+    },
+    {
+        "source": "domesticviolence",
+        "target": "sexualassault",
+        "value": "7"
+    },
+    {
+        "source": "drdelvena",
+        "target": "sexualassault",
+        "value": "7"
+    },
+    {
+        "source": "drtbrainlove",
+        "target": "sexualassault",
+        "value": "7"
+    },
+    {
+        "source": "dvam",
+        "target": "sexualassault",
+        "value": "2"
+    },
+    {
+        "source": "health",
+        "target": "sexualassault",
+        "value": "1"
+    },
+    {
+        "source": "itsoktotalk",
+        "target": "sexualassault",
+        "value": "10"
+    },
+    {
+        "source": "lgbt",
+        "target": "sexualassault",
+        "value": "1"
+    },
+    {
+        "source": "lgbtq",
+        "target": "sexualassault",
+        "value": "1"
+    },
+    {
+        "source": "malevictims",
+        "target": "sexualassault",
+        "value": "3"
+    },
+    {
+        "source": "men",
+        "target": "sexualassault",
+        "value": "4"
+    },
+    {
+        "source": "mensrights",
+        "target": "sexualassault",
+        "value": "3"
+    },
+    {
+        "source": "notjustourdaughters",
+        "target": "sexualassault",
+        "value": "3"
+    },
+    {
+        "source": "outlierstories",
+        "target": "sexualassault",
+        "value": "7"
+    },
+    {
+        "source": "rape",
+        "target": "sexualassault",
+        "value": "4"
+    },
+    {
+        "source": "rapeculture",
+        "target": "sexualassault",
+        "value": "1"
+    },
+    {
+        "source": "csa",
+        "target": "sexualassault",
+        "value": "1"
+    },
+    {
+        "source": "csasurvivors",
+        "target": "sexualassault",
+        "value": "3"
+    },
+    {
+        "source": "lgbt",
+        "target": "sexualassaultawareness",
+        "value": "1"
+    },
+    {
+        "source": "sexualassault",
+        "target": "sexualassaultawareness",
+        "value": "1"
+    },
+    {
+        "source": "domesticviolence",
+        "target": "sexualharassment",
+        "value": "1"
+    },
+    {
+        "source": "fb",
+        "target": "sexualharassment",
+        "value": "6"
+    },
+    {
+        "source": "hertoo",
+        "target": "sexualharassment",
+        "value": "1"
+    },
+    {
+        "source": "himtoo",
+        "target": "sexualharassment",
+        "value": "1"
+    },
+    {
+        "source": "abuse",
+        "target": "sexualharassment",
+        "value": "1"
+    },
+    {
+        "source": "meetoo",
+        "target": "sexualharassment",
+        "value": "2"
+    },
+    {
+        "source": "men",
+        "target": "sexualharassment",
+        "value": "3"
+    },
+    {
+        "source": "metoomen",
+        "target": "sexualharassment",
+        "value": "2"
+    },
+    {
+        "source": "metoothedebate",
+        "target": "sexualharassment",
+        "value": "1"
+    },
+    {
+        "source": "notallmen",
+        "target": "sexualharassment",
+        "value": "1"
+    },
+    {
+        "source": "patriarchy",
+        "target": "sexualharassment",
+        "value": "1"
+    },
+    {
+        "source": "sexcrimes",
+        "target": "sexualharassment",
+        "value": "1"
+    },
+    {
+        "source": "childabuse",
+        "target": "sexualharassment",
+        "value": "1"
+    },
+    {
+        "source": "media",
+        "target": "sexualharrasment",
+        "value": "3"
+    },
+    {
+        "source": "askwomenanything",
+        "target": "sexualharrasment",
+        "value": "3"
+    },
+    {
+        "source": "beyondmetoo",
+        "target": "sexualharrasment",
+        "value": "3"
+    },
+    {
+        "source": "health",
+        "target": "sexualhealth",
+        "value": "2"
+    },
+    {
+        "source": "lgbtq",
+        "target": "sexualhealth",
+        "value": "2"
+    },
+    {
+        "source": "rape",
+        "target": "sexualhealth",
+        "value": "1"
+    },
+    {
+        "source": "sexualassault",
+        "target": "sexualhealth",
+        "value": "1"
+    },
+    {
+        "source": "energyvampire",
+        "target": "shaman",
+        "value": "2"
+    },
+    {
+        "source": "abuse",
+        "target": "shaman",
+        "value": "3"
+    },
+    {
+        "source": "mentalabuse",
+        "target": "shaman",
+        "value": "4"
+    },
+    {
+        "source": "nolabels",
+        "target": "shaman",
+        "value": "1"
+    },
+    {
+        "source": "blackmagic",
+        "target": "shaman",
+        "value": "2"
+    },
+    {
+        "source": "sexualabuse",
+        "target": "shaman",
+        "value": "4"
+    },
+    {
+        "source": "heal",
+        "target": "shame",
+        "value": "4"
+    },
+    {
+        "source": "beyour",
+        "target": "shame",
+        "value": "4"
+    },
+    {
+        "source": "dogs",
+        "target": "sheusedme",
+        "value": "2"
+    },
+    {
+        "source": "agenda2030",
+        "target": "sheusedme",
+        "value": "238"
+    },
+    {
+        "source": "evil",
+        "target": "sheusedme",
+        "value": "12"
+    },
+    {
+        "source": "agenda21",
+        "target": "sheusedme",
+        "value": "238"
+    },
+    {
+        "source": "feminism",
+        "target": "sheusedme",
+        "value": "286"
+    },
+    {
+        "source": "feminismisawful",
+        "target": "sheusedme",
+        "value": "26"
+    },
+    {
+        "source": "aarp",
+        "target": "sheusedme",
+        "value": "238"
+    },
+    {
+        "source": "mensday",
+        "target": "sheusedme",
+        "value": "26"
+    },
+    {
+        "source": "mgtow",
+        "target": "sheusedme",
+        "value": "297"
+    },
+    {
+        "source": "riskreduction",
+        "target": "sheusedme",
+        "value": "7"
+    },
+    {
+        "source": "cats",
+        "target": "sheusedme",
+        "value": "2"
+    },
+    {
+        "source": "cedaw",
+        "target": "sheusedme",
+        "value": "8"
+    },
+    {
+        "source": "ibelievethewomen",
+        "target": "silencebreakers",
+        "value": "2"
+    },
+    {
+        "source": "personoftheyear",
+        "target": "silencebreakers",
+        "value": "3"
+    },
+    {
+        "source": "boystoo",
+        "target": "silencebreakers",
+        "value": "2"
+    },
+    {
+        "source": "fakerape",
+        "target": "sjw",
+        "value": "2"
+    },
+    {
+        "source": "feminism",
+        "target": "sjw",
+        "value": "13"
+    },
+    {
+        "source": "feminismiscancer",
+        "target": "sjw",
+        "value": "13"
+    },
+    {
+        "source": "feminist",
+        "target": "sjw",
+        "value": "13"
+    },
+    {
+        "source": "feminists",
+        "target": "sjw",
+        "value": "13"
+    },
+    {
+        "source": "antifeminst",
+        "target": "sjw",
+        "value": "8"
+    },
+    {
+        "source": "notme",
+        "target": "sjw",
+        "value": "4"
+    },
+    {
+        "source": "rapeculture",
+        "target": "sjw",
+        "value": "2"
+    },
+    {
+        "source": "foxnews",
+        "target": "snowflake",
+        "value": "2"
+    },
+    {
+        "source": "itsgettingsillynow",
+        "target": "snowflake",
+        "value": "2"
+    },
+    {
+        "source": "mgtow",
+        "target": "snowflake",
+        "value": "2"
+    },
+    {
+        "source": "msnbc",
+        "target": "snowflake",
+        "value": "2"
+    },
+    {
+        "source": "oann",
+        "target": "snowflake",
+        "value": "2"
+    },
+    {
+        "source": "cnn",
+        "target": "snowflake",
+        "value": "2"
+    },
+    {
+        "source": "equality",
+        "target": "solidarity",
+        "value": "2"
+    },
+    {
+        "source": "blacklivesmatter",
+        "target": "bluelivesmatter",
+        "value": "5"
+    },
+    {
+        "source": "energyvampire",
+        "target": "soulloss",
+        "value": "2"
+    },
+    {
+        "source": "shaman",
+        "target": "soulloss",
+        "value": "2"
+    },
+    {
+        "source": "notokay",
+        "target": "spacey",
+        "value": "8"
+    },
+    {
+        "source": "ecowomentoo",
+        "target": "speakup",
+        "value": "1"
+    },
+    {
+        "source": "heal",
+        "target": "speakup",
+        "value": "4"
+    },
+    {
+        "source": "ibelieveyou",
+        "target": "speakup",
+        "value": "1"
+    },
+    {
+        "source": "neverletitgo",
+        "target": "speakup",
+        "value": "2"
+    },
+    {
+        "source": "beyou",
+        "target": "speakup",
+        "value": "1"
+    },
+    {
+        "source": "beyour",
+        "target": "speakup",
+        "value": "4"
+    },
+    {
+        "source": "resist",
+        "target": "speakup",
+        "value": "1"
+    },
+    {
+        "source": "shame",
+        "target": "speakup",
+        "value": "4"
+    },
+    {
+        "source": "malevictims",
+        "target": "speakupnotmanup",
+        "value": "3"
+    },
+    {
+        "source": "mensrights",
+        "target": "speakupnotmanup",
+        "value": "3"
+    },
+    {
+        "source": "notjustourdaughters",
+        "target": "speakupnotmanup",
+        "value": "3"
+    },
+    {
+        "source": "rape",
+        "target": "speakupnotmanup",
+        "value": "3"
+    },
+    {
+        "source": "sexualassault",
+        "target": "speakupnotmanup",
+        "value": "3"
+    },
+    {
+        "source": "csasurvivors",
+        "target": "speakupnotmanup",
+        "value": "3"
+    },
+    {
+        "source": "empowerment_of_women",
+        "target": "speakyourtruth",
+        "value": "6"
+    },
+    {
+        "source": "greetings",
+        "target": "speakyourtruth",
+        "value": "6"
+    },
+    {
+        "source": "oprah2020",
+        "target": "speakyourtruth",
+        "value": "6"
+    },
+    {
+        "source": "advocacy",
+        "target": "spreadtheword",
+        "value": "7"
+    },
+    {
+        "source": "domesticviolence",
+        "target": "spreadtheword",
+        "value": "7"
+    },
+    {
+        "source": "drdelvena",
+        "target": "spreadtheword",
+        "value": "7"
+    },
+    {
+        "source": "drtbrainlove",
+        "target": "spreadtheword",
+        "value": "7"
+    },
+    {
+        "source": "dvam",
+        "target": "spreadtheword",
+        "value": "2"
+    },
+    {
+        "source": "sexualassault",
+        "target": "spreadtheword",
+        "value": "7"
+    },
+    {
+        "source": "littlelivesmatter",
+        "target": "sra",
+        "value": "3"
+    },
+    {
+        "source": "pedogate",
+        "target": "sra",
+        "value": "3"
+    },
+    {
+        "source": "pedowood",
+        "target": "sra",
+        "value": "3"
+    },
+    {
+        "source": "pizzagate",
+        "target": "sra",
+        "value": "3"
+    },
+    {
+        "source": "pizzagateisreal",
+        "target": "sra",
+        "value": "2"
+    },
+    {
+        "source": "csa",
+        "target": "sra",
+        "value": "3"
+    },
+    {
+        "source": "nobillag",
+        "target": "srf",
+        "value": "2"
+    },
+    {
+        "source": "equality",
+        "target": "standtogether",
+        "value": "2"
+    },
+    {
+        "source": "solidarity",
+        "target": "standtogether",
+        "value": "2"
+    },
+    {
+        "source": "bloggers",
+        "target": "bookreviewers",
+        "value": "3"
+    },
+    {
+        "source": "ecowomentoo",
+        "target": "stem",
+        "value": "2"
+    },
+    {
+        "source": "men",
+        "target": "stepuptotheplate",
+        "value": "2"
+    },
+    {
+        "source": "sexualharassment",
+        "target": "stepuptotheplate",
+        "value": "2"
+    },
+    {
+        "source": "goldenglobes",
+        "target": "stillbreathing",
+        "value": "1"
+    },
+    {
+        "source": "pr",
+        "target": "stillbreathing",
+        "value": "3"
+    },
+    {
+        "source": "publicist",
+        "target": "stillbreathing",
+        "value": "3"
+    },
+    {
+        "source": "bloggers",
+        "target": "stillbreathing",
+        "value": "3"
+    },
+    {
+        "source": "bookreviewers",
+        "target": "stillbreathing",
+        "value": "3"
+    },
+    {
+        "source": "amreading",
+        "target": "books",
+        "value": "2"
+    },
+    {
+        "source": "amwriting",
+        "target": "books",
+        "value": "2"
+    },
+    {
+        "source": "beyou",
+        "target": "stopworkingwithwoodyallen",
+        "value": "2"
+    },
+    {
+        "source": "heal",
+        "target": "superhero",
+        "value": "4"
+    },
+    {
+        "source": "beyour",
+        "target": "superhero",
+        "value": "4"
+    },
+    {
+        "source": "shame",
+        "target": "superhero",
+        "value": "4"
+    },
+    {
+        "source": "speakup",
+        "target": "superhero",
+        "value": "4"
+    },
+    {
+        "source": "silencebreakers",
+        "target": "survivor",
+        "value": "2"
+    },
+    {
+        "source": "80s",
+        "target": "survivors",
+        "value": "4"
+    },
+    {
+        "source": "agenda2030",
+        "target": "sustainability",
+        "value": "238"
+    },
+    {
+        "source": "agenda21",
+        "target": "sustainability",
+        "value": "238"
+    },
+    {
+        "source": "feminism",
+        "target": "sustainability",
+        "value": "258"
+    },
+    {
+        "source": "aarp",
+        "target": "sustainability",
+        "value": "238"
+    },
+    {
+        "source": "mgtow",
+        "target": "sustainability",
+        "value": "258"
+    },
+    {
+        "source": "sheusedme",
+        "target": "sustainability",
+        "value": "258"
+    },
+    {
+        "source": "advocacy",
+        "target": "takeastand",
+        "value": "8"
+    },
+    {
+        "source": "domesticviolence",
+        "target": "takeastand",
+        "value": "7"
+    },
+    {
+        "source": "drdelvena",
+        "target": "takeastand",
+        "value": "8"
+    },
+    {
+        "source": "drtbrainlove",
+        "target": "takeastand",
+        "value": "8"
+    },
+    {
+        "source": "dvam",
+        "target": "takeastand",
+        "value": "3"
+    },
+    {
+        "source": "sexualassault",
+        "target": "takeastand",
+        "value": "7"
+    },
+    {
+        "source": "spreadtheword",
+        "target": "takeastand",
+        "value": "7"
+    },
+    {
+        "source": "hollywoodpredators",
+        "target": "takethemdown",
+        "value": "3"
+    },
+    {
+        "source": "houseofcards",
+        "target": "takethemdown",
+        "value": "3"
+    },
+    {
+        "source": "johntravolta",
+        "target": "takethemdown",
+        "value": "3"
+    },
+    {
+        "source": "louisck",
+        "target": "takethemdown",
+        "value": "3"
+    },
+    {
+        "source": "oliverstone",
+        "target": "takethemdown",
+        "value": "3"
+    },
+    {
+        "source": "harveyweinstein",
+        "target": "terrycrews",
+        "value": "1"
+    },
+    {
+        "source": "hertoo",
+        "target": "terrycrews",
+        "value": "1"
+    },
+    {
+        "source": "himtoo",
+        "target": "terrycrews",
+        "value": "1"
+    },
+    {
+        "source": "hollywood",
+        "target": "terrycrews",
+        "value": "1"
+    },
+    {
+        "source": "metoothedebate",
+        "target": "terrycrews",
+        "value": "1"
+    },
+    {
+        "source": "sexualharassment",
+        "target": "terrycrews",
+        "value": "1"
+    },
+    {
+        "source": "neverletitgo",
+        "target": "thankyou",
+        "value": "2"
+    },
+    {
+        "source": "speakup",
+        "target": "thankyou",
+        "value": "2"
+    },
+    {
+        "source": "barbarawalters",
+        "target": "boycotthollywood",
+        "value": "4"
+    },
+    {
+        "source": "ducktail",
+        "target": "thankyoualabama",
+        "value": "2"
+    },
+    {
+        "source": "needed",
+        "target": "thankyoualabama",
+        "value": "2"
+    },
+    {
+        "source": "coming",
+        "target": "thankyoualabama",
+        "value": "2"
+    },
+    {
+        "source": "mmim",
+        "target": "themenmatter",
+        "value": "2"
+    },
+    {
+        "source": "mmiwg",
+        "target": "themenmatter",
+        "value": "2"
+    },
+    {
+        "source": "nonbinarytoo",
+        "target": "themtoo",
+        "value": "2"
+    },
+    {
+        "source": "foxnews",
+        "target": "theneganofmetoo",
+        "value": "15"
+    },
+    {
+        "source": "itsgettingsillynow",
+        "target": "theneganofmetoo",
+        "value": "5"
+    },
+    {
+        "source": "mgtow",
+        "target": "theneganofmetoo",
+        "value": "15"
+    },
+    {
+        "source": "msnbc",
+        "target": "theneganofmetoo",
+        "value": "15"
+    },
+    {
+        "source": "oann",
+        "target": "theneganofmetoo",
+        "value": "15"
+    },
+    {
+        "source": "cnn",
+        "target": "theneganofmetoo",
+        "value": "15"
+    },
+    {
+        "source": "foxnews",
+        "target": "theyareplayingwithfirenow",
+        "value": "7"
+    },
+    {
+        "source": "mgtow",
+        "target": "theyareplayingwithfirenow",
+        "value": "6"
+    },
+    {
+        "source": "msnbc",
+        "target": "theyareplayingwithfirenow",
+        "value": "7"
+    },
+    {
+        "source": "oann",
+        "target": "theyareplayingwithfirenow",
+        "value": "7"
+    },
+    {
+        "source": "theneganofmetoo",
+        "target": "theyareplayingwithfirenow",
+        "value": "1"
+    },
+    {
+        "source": "cnn",
+        "target": "theyareplayingwithfirenow",
+        "value": "7"
+    },
+    {
+        "source": "neverletitgo",
+        "target": "thursdaymotivation",
+        "value": "2"
+    },
+    {
+        "source": "speakup",
+        "target": "thursdaymotivation",
+        "value": "2"
+    },
+    {
+        "source": "thankyou",
+        "target": "thursdaymotivation",
+        "value": "2"
+    },
+    {
+        "source": "empowerment_of_women",
+        "target": "timesup",
+        "value": "6"
+    },
+    {
+        "source": "fosteringjustice",
+        "target": "timesup",
+        "value": "1"
+    },
+    {
+        "source": "goldenglobes",
+        "target": "timesup",
+        "value": "6"
+    },
+    {
+        "source": "greetings",
+        "target": "timesup",
+        "value": "6"
+    },
+    {
+        "source": "hertoo",
+        "target": "timesup",
+        "value": "1"
+    },
+    {
+        "source": "himtoo",
+        "target": "timesup",
+        "value": "1"
+    },
+    {
+        "source": "ibelieveyou",
+        "target": "timesup",
+        "value": "1"
+    },
+    {
+        "source": "johntravolta",
+        "target": "timesup",
+        "value": "14"
+    },
+    {
+        "source": "littlelivesmatter",
+        "target": "timesup",
+        "value": "3"
+    },
+    {
+        "source": "oprah2020",
+        "target": "timesup",
+        "value": "6"
+    },
+    {
+        "source": "outlier",
+        "target": "timesup",
+        "value": "1"
+    },
+    {
+        "source": "outlierstories",
+        "target": "timesup",
+        "value": "1"
+    },
+    {
+        "source": "pedogate",
+        "target": "timesup",
+        "value": "7"
+    },
+    {
+        "source": "pedowood",
+        "target": "timesup",
+        "value": "7"
+    },
+    {
+        "source": "pizzagate",
+        "target": "timesup",
+        "value": "7"
+    },
+    {
+        "source": "pizzagateisreal",
+        "target": "timesup",
+        "value": "2"
+    },
+    {
+        "source": "beyou",
+        "target": "timesup",
+        "value": "6"
+    },
+    {
+        "source": "resist",
+        "target": "timesup",
+        "value": "1"
+    },
+    {
+        "source": "blacklivesmatter",
+        "target": "timesup",
+        "value": "1"
+    },
+    {
+        "source": "speakup",
+        "target": "timesup",
+        "value": "1"
+    },
+    {
+        "source": "speakyourtruth",
+        "target": "timesup",
+        "value": "6"
+    },
+    {
+        "source": "sra",
+        "target": "timesup",
+        "value": "3"
+    },
+    {
+        "source": "stillbreathing",
+        "target": "timesup",
+        "value": "1"
+    },
+    {
+        "source": "stopworkingwithwoodyallen",
+        "target": "timesup",
+        "value": "2"
+    },
+    {
+        "source": "csa",
+        "target": "timesup",
+        "value": "3"
+    },
+    {
+        "source": "dating",
+        "target": "tinder",
+        "value": "3"
+    },
+    {
+        "source": "feminist",
+        "target": "tinder",
+        "value": "3"
+    },
+    {
+        "source": "firstdate",
+        "target": "tinder",
+        "value": "3"
+    },
+    {
+        "source": "menaretrash",
+        "target": "tinder",
+        "value": "3"
+    },
+    {
+        "source": "meninist",
+        "target": "tinder",
+        "value": "3"
+    },
+    {
+        "source": "niceguys",
+        "target": "tinder",
+        "value": "3"
+    },
+    {
+        "source": "okcupid",
+        "target": "tinder",
+        "value": "3"
+    },
+    {
+        "source": "fakefeminism",
+        "target": "transparency",
+        "value": "6"
+    },
+    {
+        "source": "lgbtq",
+        "target": "transrightsarehumanrights",
+        "value": "1"
+    },
+    {
+        "source": "nolabels",
+        "target": "transrightsarehumanrights",
+        "value": "1"
+    },
+    {
+        "source": "churchtoo",
+        "target": "trauma",
+        "value": "2"
+    },
+    {
+        "source": "80s",
+        "target": "truthcampaign",
+        "value": "4"
+    },
+    {
+        "source": "survivors",
+        "target": "truthcampaign",
+        "value": "4"
+    },
+    {
+        "source": "resistance",
+        "target": "tuesdaythoughts",
+        "value": "14"
+    },
+    {
+        "source": "hetoo",
+        "target": "tyrese",
+        "value": "4"
+    },
+    {
+        "source": "misery4money",
+        "target": "tyrese",
+        "value": "1"
+    },
+    {
+        "source": "hetoo",
+        "target": "tyresegibson",
+        "value": "4"
+    },
+    {
+        "source": "misery4money",
+        "target": "tyresegibson",
+        "value": "1"
+    },
+    {
+        "source": "tyrese",
+        "target": "tyresegibson",
+        "value": "4"
+    },
+    {
+        "source": "blacklivesmatter",
+        "target": "uhart",
+        "value": "1"
+    },
+    {
+        "source": "agenda2030",
+        "target": "un",
+        "value": "238"
+    },
+    {
+        "source": "agenda21",
+        "target": "un",
+        "value": "238"
+    },
+    {
+        "source": "feminism",
+        "target": "un",
+        "value": "258"
+    },
+    {
+        "source": "aarp",
+        "target": "un",
+        "value": "238"
+    },
+    {
+        "source": "mgtow",
+        "target": "un",
+        "value": "265"
+    },
+    {
+        "source": "sheusedme",
+        "target": "un",
+        "value": "265"
+    },
+    {
+        "source": "sustainability",
+        "target": "un",
+        "value": "258"
+    },
+    {
+        "source": "cedaw",
+        "target": "un",
+        "value": "7"
+    },
+    {
+        "source": "agenda2030",
+        "target": "unicef",
+        "value": "238"
+    },
+    {
+        "source": "agenda21",
+        "target": "unicef",
+        "value": "238"
+    },
+    {
+        "source": "feminism",
+        "target": "unicef",
+        "value": "238"
+    },
+    {
+        "source": "aarp",
+        "target": "unicef",
+        "value": "238"
+    },
+    {
+        "source": "mgtow",
+        "target": "unicef",
+        "value": "245"
+    },
+    {
+        "source": "sheusedme",
+        "target": "unicef",
+        "value": "245"
+    },
+    {
+        "source": "sustainability",
+        "target": "unicef",
+        "value": "238"
+    },
+    {
+        "source": "un",
+        "target": "unicef",
+        "value": "245"
+    },
+    {
+        "source": "cedaw",
+        "target": "unicef",
+        "value": "7"
+    },
+    {
+        "source": "agenda2030",
+        "target": "unitednations",
+        "value": "238"
+    },
+    {
+        "source": "agenda21",
+        "target": "unitednations",
+        "value": "238"
+    },
+    {
+        "source": "feminism",
+        "target": "unitednations",
+        "value": "258"
+    },
+    {
+        "source": "aarp",
+        "target": "unitednations",
+        "value": "238"
+    },
+    {
+        "source": "mgtow",
+        "target": "unitednations",
+        "value": "258"
+    },
+    {
+        "source": "sheusedme",
+        "target": "unitednations",
+        "value": "258"
+    },
+    {
+        "source": "sustainability",
+        "target": "unitednations",
+        "value": "258"
+    },
+    {
+        "source": "un",
+        "target": "unitednations",
+        "value": "258"
+    },
+    {
+        "source": "unicef",
+        "target": "unitednations",
+        "value": "238"
+    },
+    {
+        "source": "advocacy",
+        "target": "unity",
+        "value": "4"
+    },
+    {
+        "source": "domesticviolence",
+        "target": "unity",
+        "value": "4"
+    },
+    {
+        "source": "drdelvena",
+        "target": "unity",
+        "value": "4"
+    },
+    {
+        "source": "drtbrainlove",
+        "target": "unity",
+        "value": "4"
+    },
+    {
+        "source": "sexualassault",
+        "target": "unity",
+        "value": "4"
+    },
+    {
+        "source": "spreadtheword",
+        "target": "unity",
+        "value": "4"
+    },
+    {
+        "source": "takeastand",
+        "target": "unity",
+        "value": "4"
+    },
+    {
+        "source": "blackwomentoo",
+        "target": "breakthesilence",
+        "value": "2"
+    },
+    {
+        "source": "hertoo",
+        "target": "vawg",
+        "value": "3"
+    },
+    {
+        "source": "prettymuchallwomentoo",
+        "target": "vawg",
+        "value": "3"
+    },
+    {
+        "source": "sdg5",
+        "target": "vawg",
+        "value": "3"
+    },
+    {
+        "source": "80s",
+        "target": "victims",
+        "value": "4"
+    },
+    {
+        "source": "survivors",
+        "target": "victims",
+        "value": "4"
+    },
+    {
+        "source": "truthcampaign",
+        "target": "victims",
+        "value": "4"
+    },
+    {
+        "source": "empowermenthour",
+        "target": "violence",
+        "value": "1"
+    },
+    {
+        "source": "abuse",
+        "target": "violence",
+        "value": "1"
+    },
+    {
+        "source": "mmim",
+        "target": "voicesofforgottenindigenousmen",
+        "value": "2"
+    },
+    {
+        "source": "mmiwg",
+        "target": "voicesofforgottenindigenousmen",
+        "value": "2"
+    },
+    {
+        "source": "themenmatter",
+        "target": "voicesofforgottenindigenousmen",
+        "value": "2"
+    },
+    {
+        "source": "hollywood",
+        "target": "weinstein",
+        "value": "2"
+    },
+    {
+        "source": "meetoo",
+        "target": "weinstein",
+        "value": "1"
+    },
+    {
+        "source": "men",
+        "target": "weinstein",
+        "value": "1"
+    },
+    {
+        "source": "meto",
+        "target": "weinstein",
+        "value": "2"
+    },
+    {
+        "source": "metoomen",
+        "target": "weinstein",
+        "value": "7"
+    },
+    {
+        "source": "barbarawalters",
+        "target": "weinstein",
+        "value": "4"
+    },
+    {
+        "source": "sexualharassment",
+        "target": "weinstein",
+        "value": "1"
+    },
+    {
+        "source": "boycotthollywood",
+        "target": "weinstein",
+        "value": "4"
+    },
+    {
+        "source": "boystoo",
+        "target": "weinstein",
+        "value": "2"
+    },
+    {
+        "source": "castingcouch",
+        "target": "weinstein",
+        "value": "4"
+    },
+    {
+        "source": "csm",
+        "target": "weinsteingate",
+        "value": "26"
+    },
+    {
+        "source": "dumptrump",
+        "target": "wetoo",
+        "value": "2"
+    },
+    {
+        "source": "endrapeculturenow",
+        "target": "wetoo",
+        "value": "4"
+    },
+    {
+        "source": "feminismus",
+        "target": "wetoo",
+        "value": "1"
+    },
+    {
+        "source": "lgbt",
+        "target": "wetoo",
+        "value": "1"
+    },
+    {
+        "source": "pinkstinks",
+        "target": "wetoo",
+        "value": "1"
+    },
+    {
+        "source": "prosecutetrump",
+        "target": "wetoo",
+        "value": "2"
+    },
+    {
+        "source": "sexualassault",
+        "target": "wetoo",
+        "value": "1"
+    },
+    {
+        "source": "sexualassaultawareness",
+        "target": "wetoo",
+        "value": "1"
+    },
+    {
+        "source": "shetoo",
+        "target": "wetoo",
+        "value": "1"
+    },
+    {
+        "source": "strongertogether",
+        "target": "wgbh",
+        "value": "12"
+    },
+    {
+        "source": "80s",
+        "target": "whosyourharvey",
+        "value": "4"
+    },
+    {
+        "source": "survivors",
+        "target": "whosyourharvey",
+        "value": "4"
+    },
+    {
+        "source": "truthcampaign",
+        "target": "whosyourharvey",
+        "value": "4"
+    },
+    {
+        "source": "victims",
+        "target": "whosyourharvey",
+        "value": "4"
+    },
+    {
+        "source": "goldenglobes",
+        "target": "whywewearblack",
+        "value": "3"
+    },
+    {
+        "source": "blacklivesmatter",
+        "target": "whywewearblack",
+        "value": "1"
+    },
+    {
+        "source": "stillbreathing",
+        "target": "whywewearblack",
+        "value": "4"
+    },
+    {
+        "source": "timesup",
+        "target": "whywewearblack",
+        "value": "4"
+    },
+    {
+        "source": "whatilearnedtoday",
+        "target": "whywewearblack",
+        "value": "1"
+    },
+    {
+        "source": "ducktail",
+        "target": "win",
+        "value": "2"
+    },
+    {
+        "source": "needed",
+        "target": "win",
+        "value": "2"
+    },
+    {
+        "source": "thankyoualabama",
+        "target": "win",
+        "value": "2"
+    },
+    {
+        "source": "coming",
+        "target": "win",
+        "value": "2"
+    },
+    {
+        "source": "energyvampire",
+        "target": "witch",
+        "value": "2"
+    },
+    {
+        "source": "shaman",
+        "target": "witch",
+        "value": "2"
+    },
+    {
+        "source": "soulloss",
+        "target": "witch",
+        "value": "2"
+    },
+    {
+        "source": "eclecticshaman",
+        "target": "witchdoctor",
+        "value": "2"
+    },
+    {
+        "source": "illumination",
+        "target": "witchdoctor",
+        "value": "2"
+    },
+    {
+        "source": "medicineman",
+        "target": "witchdoctor",
+        "value": "2"
+    },
+    {
+        "source": "mentalabuse",
+        "target": "witchdoctor",
+        "value": "2"
+    },
+    {
+        "source": "mentalslavery",
+        "target": "witchdoctor",
+        "value": "2"
+    },
+    {
+        "source": "feminism",
+        "target": "women",
+        "value": "1"
+    },
+    {
+        "source": "feminists",
+        "target": "women",
+        "value": "1"
+    },
+    {
+        "source": "harveyweinstein",
+        "target": "women",
+        "value": "1"
+    },
+    {
+        "source": "meetoo",
+        "target": "women",
+        "value": "1"
+    },
+    {
+        "source": "men",
+        "target": "women",
+        "value": "4"
+    },
+    {
+        "source": "metoomen",
+        "target": "women",
+        "value": "1"
+    },
+    {
+        "source": "metoomovement",
+        "target": "women",
+        "value": "1"
+    },
+    {
+        "source": "news",
+        "target": "women",
+        "value": "1"
+    },
+    {
+        "source": "notme",
+        "target": "women",
+        "value": "1"
+    },
+    {
+        "source": "terrycrews",
+        "target": "women",
+        "value": "1"
+    },
+    {
+        "source": "feminism",
+        "target": "womenagainstfeminism",
+        "value": "9"
+    },
+    {
+        "source": "feminismiscancer",
+        "target": "womenagainstfeminism",
+        "value": "9"
+    },
+    {
+        "source": "feminist",
+        "target": "womenagainstfeminism",
+        "value": "9"
+    },
+    {
+        "source": "feminists",
+        "target": "womenagainstfeminism",
+        "value": "8"
+    },
+    {
+        "source": "antifeminst",
+        "target": "womenagainstfeminism",
+        "value": "5"
+    },
+    {
+        "source": "notme",
+        "target": "womenagainstfeminism",
+        "value": "2"
+    },
+    {
+        "source": "sjw",
+        "target": "womenagainstfeminism",
+        "value": "8"
+    },
+    {
+        "source": "harvey",
+        "target": "womenboycotttwitter",
+        "value": "3"
+    },
+    {
+        "source": "harveyweinstein",
+        "target": "womenboycotttwitter",
+        "value": "3"
+    },
+    {
+        "source": "mentalhealth",
+        "target": "womenboycotttwitter",
+        "value": "2"
+    },
+    {
+        "source": "metoomen",
+        "target": "womenboycotttwitter",
+        "value": "5"
+    },
+    {
+        "source": "rosearmy",
+        "target": "womenboycotttwitter",
+        "value": "3"
+    },
+    {
+        "source": "harvey",
+        "target": "womeninhollywood",
+        "value": "3"
+    },
+    {
+        "source": "harveyweinstein",
+        "target": "womeninhollywood",
+        "value": "3"
+    },
+    {
+        "source": "mentalhealth",
+        "target": "womeninhollywood",
+        "value": "2"
+    },
+    {
+        "source": "metoomen",
+        "target": "womeninhollywood",
+        "value": "5"
+    },
+    {
+        "source": "rosearmy",
+        "target": "womeninhollywood",
+        "value": "3"
+    },
+    {
+        "source": "womenboycotttwitter",
+        "target": "womeninhollywood",
+        "value": "5"
+    },
+    {
+        "source": "ecowomentoo",
+        "target": "womeninstem",
+        "value": "2"
+    },
+    {
+        "source": "stem",
+        "target": "womeninstem",
+        "value": "2"
+    },
+    {
+        "source": "mentalhealth",
+        "target": "womensconvention",
+        "value": "2"
+    },
+    {
+        "source": "metoomen",
+        "target": "womensconvention",
+        "value": "2"
+    },
+    {
+        "source": "womenboycotttwitter",
+        "target": "womensconvention",
+        "value": "2"
+    },
+    {
+        "source": "womeninhollywood",
+        "target": "womensconvention",
+        "value": "2"
+    },
+    {
+        "source": "mentalhealth",
+        "target": "womensinspire",
+        "value": "2"
+    },
+    {
+        "source": "metoomen",
+        "target": "womensinspire",
+        "value": "2"
+    },
+    {
+        "source": "womenboycotttwitter",
+        "target": "womensinspire",
+        "value": "2"
+    },
+    {
+        "source": "womeninhollywood",
+        "target": "womensinspire",
+        "value": "2"
+    },
+    {
+        "source": "womensconvention",
+        "target": "womensinspire",
+        "value": "2"
+    },
+    {
+        "source": "feminist",
+        "target": "womensrights",
+        "value": "1"
+    },
+    {
+        "source": "harveyweinstein",
+        "target": "womensrights",
+        "value": "1"
+    },
+    {
+        "source": "menaretrash",
+        "target": "womensrights",
+        "value": "1"
+    },
+    {
+        "source": "mensrights",
+        "target": "womensrights",
+        "value": "1"
+    },
+    {
+        "source": "harvey",
+        "target": "womensvoices17",
+        "value": "3"
+    },
+    {
+        "source": "harveyweinstein",
+        "target": "womensvoices17",
+        "value": "3"
+    },
+    {
+        "source": "metoomen",
+        "target": "womensvoices17",
+        "value": "3"
+    },
+    {
+        "source": "rosearmy",
+        "target": "womensvoices17",
+        "value": "3"
+    },
+    {
+        "source": "womenboycotttwitter",
+        "target": "womensvoices17",
+        "value": "3"
+    },
+    {
+        "source": "womeninhollywood",
+        "target": "womensvoices17",
+        "value": "3"
+    },
+    {
+        "source": "menforwomen",
+        "target": "womentoo",
+        "value": "2"
+    },
+    {
+        "source": "dating",
+        "target": "womenwriters",
+        "value": "3"
+    },
+    {
+        "source": "feminist",
+        "target": "womenwriters",
+        "value": "3"
+    },
+    {
+        "source": "firstdate",
+        "target": "womenwriters",
+        "value": "3"
+    },
+    {
+        "source": "menaretrash",
+        "target": "womenwriters",
+        "value": "3"
+    },
+    {
+        "source": "meninist",
+        "target": "womenwriters",
+        "value": "3"
+    },
+    {
+        "source": "niceguys",
+        "target": "womenwriters",
+        "value": "3"
+    },
+    {
+        "source": "okcupid",
+        "target": "womenwriters",
+        "value": "3"
+    },
+    {
+        "source": "tinder",
+        "target": "womenwriters",
+        "value": "3"
+    },
+    {
+        "source": "goldenglobes",
+        "target": "workinprogress",
+        "value": "1"
+    },
+    {
+        "source": "beyou",
+        "target": "workinprogress",
+        "value": "3"
+    },
+    {
+        "source": "timesup",
+        "target": "workinprogress",
+        "value": "3"
+    },
+    {
+        "source": "harveyweinstein",
+        "target": "writerslife",
+        "value": "2"
+    },
+    {
+        "source": "amreading",
+        "target": "writerslife",
+        "value": "2"
+    },
+    {
+        "source": "amwriting",
+        "target": "writerslife",
+        "value": "2"
+    },
+    {
+        "source": "reading",
+        "target": "writerslife",
+        "value": "2"
+    },
+    {
+        "source": "books",
+        "target": "writerslife",
+        "value": "2"
+    },
+    {
+        "source": "harveyweinstein",
+        "target": "writing",
+        "value": "2"
+    },
+    {
+        "source": "amreading",
+        "target": "writing",
+        "value": "2"
+    },
+    {
+        "source": "amwriting",
+        "target": "writing",
+        "value": "2"
+    },
+    {
+        "source": "reading",
+        "target": "writing",
+        "value": "2"
+    },
+    {
+        "source": "books",
+        "target": "writing",
+        "value": "2"
+    },
+    {
+        "source": "writerslife",
+        "target": "writing",
+        "value": "2"
+    },
+    {
+        "source": "allvictimscount",
+        "target": "yesyou",
+        "value": "2"
+    },
+    {
+        "source": "allvictimsmatter",
+        "target": "yesyou",
+        "value": "2"
+    },
+    {
+        "source": "heal",
+        "target": "yournotalone",
+        "value": "4"
+    },
+    {
+        "source": "beyour",
+        "target": "yournotalone",
+        "value": "4"
+    },
+    {
+        "source": "shame",
+        "target": "yournotalone",
+        "value": "4"
+    },
+    {
+        "source": "speakup",
+        "target": "yournotalone",
+        "value": "4"
+    },
+    {
+        "source": "superhero",
+        "target": "yournotalone",
+        "value": "4"
+    },
+    {
+        "source": "feminism",
+        "target": "youtoo",
+        "value": "1"
+    },
+    {
+        "source": "barbarawalters",
+        "target": "castingcouch",
+        "value": "4"
+    },
+    {
+        "source": "boycotthollywood",
+        "target": "castingcouch",
+        "value": "4"
+    },
+    {
+        "source": "abuse",
+        "target": "counseling",
+        "value": "2"
+    },
+    {
+        "source": "1in6",
+        "target": "csa",
+        "value": "1"
+    },
+    {
+        "source": "csa",
+        "target": "csasurvivors",
+        "value": "3"
+    },
+    {
+        "source": "csa",
+        "target": "cse",
+        "value": "6"
+    }
+]
+}
