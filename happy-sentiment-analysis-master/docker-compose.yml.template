@@ -1,0 +1,12 @@
+version: '3.1'
+
+services:
+  happy-sentiment-analysis:
+    image: happy-sentiment-analysis:develop
+    environment:
+      - GOOGLE_APPLICATION_CREDENTIALS=/usr/src/credentials/google_application_credentials.json
+    volumes:
+      - ./credentials:/usr/src/credentials/
+      - ./sentiment_analysis:/usr/src/sentiment_analysis
+      - ./csv:/usr/src/csv
+    command: ["python", "sentiment_analysis.py", "some_csv_file.csv"]
